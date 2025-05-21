@@ -1,0 +1,72 @@
+
+# Título de nivel 1
+## Título de nivel 2
+### Título de nivel 3
+
+Texto normal.
+
+**Texto en negrita**
+
+*Texto en cursiva*
+
+~~Texto tachado~~
+
+---
+
+## Listas
+
+### Lista con viñetas:
+- Elemento 1
+- Elemento 2
+  - Sub-elemento
+
+### Lista numerada:
+1. Paso uno
+2. Paso dos
+3. Paso tres
+
+---
+
+## Enlaces
+
+[Enlace a Google](https://www.google.com)
+
+---
+
+## Imágenes
+
+![Texto alternativo](https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/¿Por-que-es-util-la-imagen-como-recurso-educativo.webp)
+
+---
+
+## Citas
+
+> Este es un texto citado.
+
+---
+
+## Código
+
+Texto con `código en línea`.
+
+Bloque de código:
+\`\`\`python
+def saludar():
+    print("Hola mundo")
+\`\`\`
+
+---
+
+## Tablas
+
+| Nombre  | Edad | Ciudad        |
+|---------|------|---------------|
+| Ana     | 25   | Barcelona     |
+| Pedro   | 30   | Madrid        |
+
+---
+
+## Tareas
+
+- [x] Tarea completada
+- [ ] Tarea pendiente

@@ -1,0 +1,2001 @@
+name,rating,ratings_count,added,released,metacritic,has_rating,has_added,has_metacritic,rating_clean,added_clean
+The Witcher 3: Wild Hunt,4.65,6890,21657,2015-05-18,92.0,True,True,True,4.65,21657
+Life is Strange,4.12,3706,15758,2015-01-29,83.0,True,True,True,4.12,15758
+Fallout 4,3.81,3350,14079,2015-11-09,84.0,True,True,True,3.81,14079
+Rocket League,3.93,2822,12766,2015-07-07,86.0,True,True,True,3.93,12766
+Rise of the Tomb Raider,4.04,2740,12211,2015-11-10,86.0,True,True,True,4.04,12211
+Batman: Arkham Knight,4.24,2627,12100,2015-06-23,81.0,True,True,True,4.24,12100
+Metal Gear Solid V: The Phantom Pain,4.16,2496,12071,2015-09-01,91.0,True,True,True,4.16,12071
+Just Cause 3,3.4,1558,9323,2015-11-30,74.0,True,True,True,3.4,9323
+Mortal Kombat X,3.86,2087,8958,2015-04-07,76.0,True,True,True,3.86,8958
+Mad Max,3.78,1726,8731,2015-08-31,73.0,True,True,True,3.78,8731
+ARK: Survival Evolved,3.07,656,8647,2015-06-02,70.0,True,True,True,3.07,8647
+Cities: Skylines,4.12,1504,8598,2015-03-10,85.0,True,True,True,4.12,8598
+Bloodborne,4.41,2423,8581,2015-03-24,92.0,True,True,True,4.41,8581
+Undertale,4.34,1831,8438,2015-09-14,92.0,True,True,True,4.34,8438
+Tom Clancy's Rainbow Six Siege,3.89,1500,8156,2015-12-01,75.0,True,True,True,3.89,8156
+Ori and the Blind Forest,4.38,1499,7383,2015-03-10,88.0,True,True,True,4.38,7383
+SOMA,4.16,1414,7352,2015-09-21,84.0,True,True,True,4.16,7352
+Call of Duty: Black Ops III,3.27,1478,7197,2015-11-06,73.0,True,True,True,3.27,7197
+Fallout Shelter,3.43,1508,7044,2015-06-15,63.0,True,True,True,3.43,7044
+DiRT Rally,3.69,669,7001,2015-12-07,86.0,True,True,True,3.69,7001
+Dying Light: The Following - Enhanced Edition,4.13,1083,6939,2015-01-26,87.0,True,True,True,4.13,6939
+Yakuza 0,4.37,1109,6587,2015-03-12,85.0,True,True,True,4.37,6587
+Grim Fandango Remastered,4.0,900,6386,2015-01-26,84.0,True,True,True,4.0,6386
+Hotline Miami 2: Wrong Number,4.28,1312,6384,2015-03-09,72.0,True,True,True,4.28,6384
+Broforce,4.02,1306,6353,2015-10-15,83.0,True,True,True,4.02,6353
+Kingdom: Classic,3.39,577,6327,2015-09-21,74.0,True,True,True,3.39,6327
+SMITE,3.05,801,6147,2015-08-19,83.0,True,True,True,3.05,6147
+Dark Souls II: Scholar of the First Sin,4.15,1195,6136,2015-04-01,79.0,True,True,True,4.15,6136
+Assassin's Creed Syndicate,3.66,1490,5912,2015-10-23,74.0,True,True,True,3.66,5912
+Until Dawn,4.1,1720,5819,2015-08-25,79.0,True,True,True,4.1,5819
+Titan Souls,3.33,526,5730,2015-04-13,74.0,True,True,True,3.33,5730
+Divinity: Original Sin - Enhanced Edition,4.26,1010,5685,2015-10-27,94.0,True,True,True,4.26,5685
+Wolfenstein: The Old Blood,4.01,1122,5649,2015-05-04,76.0,True,True,True,4.01,5649
+Hacknet,3.18,488,5645,2015-08-11,82.0,True,True,True,3.18,5645
+Darksiders II Deathinitive Edition,3.79,670,5626,2015-11-05,75.0,True,True,True,3.79,5626
+Prison Architect,3.72,580,5594,2015-10-05,83.0,True,True,True,3.72,5594
+Jotun: Valhalla Edition,3.06,508,5501,2015-09-29,79.0,True,True,True,3.06,5501
+The Elder Scrolls Online: Tamriel Unlimited,3.48,760,5355,2015-03-17,77.0,True,True,True,3.48,5355
+Resident Evil Revelations 2,3.68,755,5348,2015-02-24,72.0,True,True,True,3.68,5348
+Tales from the Borderlands: A Telltale Game Series,4.19,1102,5107,2015-10-21,85.0,True,True,True,4.19,5107
+STAR WARS Battlefront,3.29,1134,4957,2015-11-17,73.0,True,True,True,3.29,4957
+Dying Light,4.1,1369,4923,2015-01-27,74.0,True,True,True,4.1,4923
+Tabletop Simulator,4.05,664,4840,2015-06-05,,True,True,False,4.05,4840
+Pillars of Eternity,3.96,712,4704,2015-03-26,89.0,True,True,True,3.96,4704
+Magicka 2,3.68,670,4545,2015-05-26,69.0,True,True,True,3.68,4545
+Trove,2.66,471,4481,2015-07-09,65.0,True,True,True,2.66,4481
+Satellite Reign,2.65,290,4459,2015-08-27,75.0,True,True,True,2.65,4459
+Kerbal Space Program,4.16,404,4289,2015-04-26,88.0,True,True,True,4.16,4289
+Clicker Heroes,2.65,590,4229,2015-05-13,,True,True,False,2.65,4229
+Kholat,2.65,409,4206,2015-06-08,64.0,True,True,True,2.65,4206
+TEKKEN 7,4.02,766,4173,2015-03-18,82.0,True,True,True,4.02,4173
+God of War III Remastered,4.11,1038,4168,2015-07-14,81.0,True,True,True,4.11,4168
+Evolve Stage 2,2.58,454,4166,2015-02-10,77.0,True,True,True,2.58,4166
+Warhammer: End Times - Vermintide,3.47,438,4071,2015-10-23,79.0,True,True,True,3.47,4071
+Saints Row: Gat Out of Hell,3.17,683,4039,2015-01-20,66.0,True,True,True,3.17,4039
+F1 2015,2.69,272,3989,2015-07-09,61.0,True,True,True,2.69,3989
+Crypt of the NecroDancer,3.99,597,3889,2015-04-22,87.0,True,True,True,3.99,3889
+Elite Dangerous,3.93,473,3869,2015-04-02,80.0,True,True,True,3.93,3869
+Plague Inc: Evolved,3.98,645,3827,2015-09-18,80.0,True,True,True,3.98,3827
+Dirty Bomb,2.72,375,3792,2015-06-01,63.0,True,True,True,2.72,3792
+Dungeons 2,2.84,270,3772,2015-04-23,70.0,True,True,True,2.84,3772
+The Order: 1886,3.76,979,3763,2015-01-13,63.0,True,True,True,3.76,3763
+Need for Speed,3.37,807,3756,2015-11-03,66.0,True,True,True,3.37,3756
+The Red Solstice,2.27,169,3614,2015-07-09,74.0,True,True,True,2.27,3614
+AdVenture Capitalist,2.8,467,3568,2015-02-19,,True,True,False,2.8,3568
+Besiege,3.79,465,3551,2015-01-28,,True,True,False,3.79,3551
+HELLDIVERS,3.61,562,3440,2015-12-07,83.0,True,True,True,3.61,3440
+Her Story,3.98,615,3371,2015-06-23,88.0,True,True,True,3.98,3371
+Fahrenheit: Indigo Prophecy Remastered,4.16,517,3259,2015-01-27,68.0,True,True,True,4.16,3259
+Battlefield Hardline,3.2,679,3197,2015-03-17,72.0,True,True,True,3.2,3197
+Kingdom: New Lands,3.88,368,3075,2015-10-21,80.0,True,True,True,3.88,3075
+Keep Talking and Nobody Explodes,4.2,406,3002,2015-10-08,67.0,True,True,True,4.2,3002
+"Invisible, Inc.",3.53,346,2952,2015-05-12,82.0,True,True,True,3.53,2952
+DISTRAINT,3.06,244,2927,2015-10-21,76.0,True,True,True,3.06,2927
+Quiplash,3.55,154,2861,2015-06-30,,True,True,False,3.55,2861
+Wasteland 2: Director's Cut,3.63,324,2830,2015-10-13,87.0,True,True,True,3.63,2830
+Devil May Cry 4: Special Edition,4.2,556,2796,2015-06-23,,True,True,False,4.2,2796
+Fishing Planet,2.6,207,2773,2015-08-11,,True,True,False,2.6,2773
+Portal Stories: Mel,4.02,211,2703,2015-06-25,,True,True,False,4.02,2703
+Pathologic Classic HD,3.89,262,2697,2015-10-28,76.0,True,True,True,3.89,2697
+GameGuru,1.88,129,2676,2015-05-19,,True,True,False,1.88,2676
+No Time To Explain Remastered,2.76,133,2673,2015-07-17,,True,True,False,2.76,2673
+Hand of Fate,3.71,319,2640,2015-02-16,78.0,True,True,True,3.71,2640
+Trine 3: The Artifacts of Power,3.61,305,2603,2015-04-20,,True,True,False,3.61,2603
+Downwell,3.85,459,2599,2015-10-14,81.0,True,True,True,3.85,2599
+Sunless Sea,3.69,241,2579,2015-02-05,81.0,True,True,True,3.69,2579
+SteamWorld Heist,3.94,321,2570,2015-12-10,81.0,True,True,True,3.94,2570
+Mini Metro,4.09,446,2570,2015-11-05,77.0,True,True,True,4.09,2570
+Project CARS,3.57,267,2561,2015-05-06,83.0,True,True,True,3.57,2561
+Shadowrun: Hong Kong - Extended Edition,3.83,222,2538,2015-08-20,81.0,True,True,True,3.83,2538
+Rebel Galaxy,2.96,222,2533,2015-10-19,72.0,True,True,True,2.96,2533
+Emily is Away,3.58,430,2528,2015-11-20,,True,True,False,3.58,2528
+The Escapists,3.43,298,2510,2015-02-12,71.0,True,True,True,3.43,2510
+Lovers in a Dangerous Spacetime,3.58,389,2489,2015-09-08,80.0,True,True,True,3.58,2489
+Halo 5: Guardians,3.74,538,2420,2015-10-27,84.0,True,True,True,3.74,2420
+Everybody's Gone to the Rapture,3.34,509,2416,2015-08-11,76.0,True,True,True,3.34,2416
+Lara Croft GO,3.68,276,2407,2015-08-27,84.0,True,True,True,3.68,2407
+Apotheon,3.19,329,2397,2015-02-02,78.0,True,True,True,3.19,2397
+The Beginner's Guide,4.36,463,2311,2015-10-01,,True,True,False,4.36,2311
+World of Warships,3.16,174,2306,2015-09-17,81.0,True,True,True,3.16,2306
+Nuclear Throne,4.02,298,2302,2015-12-04,,True,True,False,4.02,2302
+Rusty Lake Hotel,3.79,199,2296,2015-12-14,65.0,True,True,True,3.79,2296
+NBA 2K16,2.97,315,2287,2015-09-25,86.0,True,True,True,2.97,2287
+Survarium,2.37,263,2279,2015-04-02,,True,True,False,2.37,2279
+Zombie Army Trilogy,3.34,204,2279,2015-03-03,72.0,True,True,True,3.34,2279
+EA SPORTS FIFA 16,3.31,450,2269,2015-09-22,79.0,True,True,True,3.31,2269
+OlliOlli2: Welcome to Olliwood,3.3,270,2247,2015-03-03,82.0,True,True,True,3.3,2247
+Victor Vran,3.37,239,2235,2015-07-23,75.0,True,True,True,3.37,2235
+Party Hard,3.51,272,2217,2015-08-24,64.0,True,True,True,3.51,2217
+Divide By Sheep,2.34,149,2214,2015-07-02,83.0,True,True,True,2.34,2214
+State of Decay YOSE - Day One Edition,3.52,221,2190,2015-04-27,78.0,True,True,True,3.52,2190
+Homeworld Remastered Collection,4.03,171,2169,2015-02-24,86.0,True,True,True,4.03,2169
+Relic Hunters Zero,2.94,151,2164,2015-08-18,,True,True,False,2.94,2164
+The Vanishing of Ethan Carter Redux,3.75,106,2144,2015-07-15,80.0,True,True,True,3.75,2144
+Armello,3.6,210,2123,2015-09-01,75.0,True,True,True,3.6,2123
+Dishonored Definitive Edition,4.39,520,2115,2015-08-25,78.0,True,True,True,4.39,2115
+King's Quest,3.39,228,2103,2015-07-28,,True,True,False,3.39,2103
+Resident Evil HD Remaster,4.32,542,2099,2015-01-19,82.0,True,True,True,4.32,2099
+Magic Duels,2.86,234,2073,2015-07-08,,True,True,False,2.86,2073
+"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",3.73,314,2053,2015-12-04,,True,True,False,3.73,2053
+ZOMBI,2.84,352,2053,2015-08-18,65.0,True,True,True,2.84,2053
+Duck Game,4.2,311,2050,2015-06-04,82.0,True,True,True,4.2,2050
+Mega Man Legacy Collection / ロックマン クラシックス コレクション,3.69,155,2042,2015-08-24,85.0,True,True,True,3.69,2042
+Half-Life 2: Update,4.15,126,2010,2015-03-27,96.0,True,True,True,4.15,2010
+Tales of Zestiria,3.56,233,2001,2015-01-22,77.0,True,True,True,3.56,2001
+Not A Hero,3.24,242,1977,2015-05-13,75.0,True,True,True,3.24,1977
+Dex,3.41,123,1975,2015-05-06,62.0,True,True,True,3.41,1975
+Polyball,2.15,65,1934,2015-06-04,,True,True,False,2.15,1934
+The Deed,2.36,66,1931,2015-11-23,,True,True,False,2.36,1931
+Tearaway Unfolded,3.7,357,1930,2015-09-08,81.0,True,True,True,3.7,1930
+GOD EATER 2: Rage Burst,3.06,109,1895,2015-02-19,71.0,True,True,True,3.06,1895
+Absolute Drift,2.9,115,1866,2015-07-24,66.0,True,True,True,2.9,1866
+Gears of War: Ultimate Edition,4.07,458,1856,2015-08-25,78.0,True,True,True,4.07,1856
+12 is Better Than 6,3.39,155,1829,2015-11-20,66.0,True,True,True,3.39,1829
+The Incredible Adventures of Van Helsing: Final Cut,3.55,134,1825,2015-11-05,79.0,True,True,True,3.55,1825
+Borderlands: The Handsome Collection,3.97,157,1821,2015-03-24,,True,True,False,3.97,1821
+Particula,1.74,73,1791,2015-02-02,,True,True,False,1.74,1791
+The Jackbox Party Pack 2,4.04,208,1763,2015-10-13,76.0,True,True,True,4.04,1763
+I am Bread,3.06,196,1759,2015-04-09,60.0,True,True,True,3.06,1759
+TIS-100,3.59,123,1743,2015-07-19,,True,True,False,3.59,1743
+Streamline,1.72,83,1738,2015-08-21,,True,True,False,1.72,1738
+Hard West,3.39,172,1699,2015-11-17,73.0,True,True,True,3.39,1699
+Chroma Squad,3.55,96,1699,2015-04-29,75.0,True,True,True,3.55,1699
+200% Mixed Juice!,2.06,49,1692,2015-10-23,,True,True,False,2.06,1692
+LEGO Jurassic World,3.71,202,1678,2015-06-11,72.0,True,True,True,3.71,1678
+Stranded Deep,2.98,172,1667,2015-01-23,65.0,True,True,True,2.98,1667
+Planetary Annihilation: TITANS,3.3,93,1660,2015-08-18,,True,True,False,3.3,1660
+Human Resource Machine,4.01,198,1637,2015-10-14,78.0,True,True,True,4.01,1637
+2064: Read Only Memories,3.19,139,1634,2015-10-05,,True,True,False,3.19,1634
+Axiom Verge,4.02,283,1629,2015-03-31,80.0,True,True,True,4.02,1629
+Assassin’s Creed Chronicles: China,3.11,281,1609,2015-04-21,68.0,True,True,True,3.11,1609
+Evoland 2,3.67,167,1607,2015-08-24,74.0,True,True,True,3.67,1607
+HuniePop,3.9,255,1596,2015-01-18,,True,True,False,3.9,1596
+MASSIVE CHALICE,3.12,131,1558,2015-05-31,73.0,True,True,True,3.12,1558
+Verdun,3.48,125,1548,2015-04-28,70.0,True,True,True,3.48,1548
+GALAK-Z,2.59,79,1545,2015-08-04,78.0,True,True,True,2.59,1545
+Block N Load,2.26,121,1542,2015-04-30,72.0,True,True,True,2.26,1542
+Blockstorm,1.75,74,1535,2015-05-21,,True,True,False,1.75,1535
+Heroes of Might & Magic III - HD Edition,4.22,325,1533,2015-01-28,65.0,True,True,True,4.22,1533
+Vertiginous Golf,2.53,69,1526,2015-05-06,63.0,True,True,True,2.53,1526
+RISK: Global Domination,2.99,85,1502,2015-12-03,,True,True,False,2.99,1502
+Card Hunter,3.2,120,1486,2015-07-13,80.0,True,True,True,3.2,1486
+Uncanny Valley,2.87,141,1482,2015-04-23,67.0,True,True,True,2.87,1482
+STASIS,3.44,73,1480,2015-08-30,79.0,True,True,True,3.44,1480
+Minecraft: Story Mode,3.39,317,1468,2015-10-13,,True,True,False,3.39,1468
+Dragon Ball Xenoverse,3.51,198,1468,2015-02-05,68.0,True,True,True,3.51,1468
+LIGHTNING RETURNS: FINAL FANTASY XIII,3.56,152,1456,2015-12-10,,True,True,False,3.56,1456
+Gear Up,2.31,110,1444,2015-01-28,,True,True,False,2.31,1444
+Sakura Clicker,2.54,126,1442,2015-07-29,,True,True,False,2.54,1442
+Spooky's Jump Scare Mansion,3.2,149,1438,2015-07-28,,True,True,False,3.2,1438
+Fran Bow,4.28,239,1426,2015-08-15,70.0,True,True,True,4.28,1426
+Hotline Miami 2: Wrong Number Digital Comic,3.44,110,1420,2015-02-17,,True,True,False,3.44,1420
+FINAL FANTASY TYPE-0 HD,3.21,189,1417,2015-03-17,69.0,True,True,True,3.21,1417
+BADLAND: Game of the Year Edition,3.77,116,1403,2015-05-26,79.0,True,True,True,3.77,1403
+Grey Goo,3.24,85,1399,2015-01-23,77.0,True,True,True,3.24,1399
+Else Heart.Break(),2.48,63,1393,2015-09-23,79.0,True,True,True,2.48,1393
+Viscera Cleanup Detail,3.81,150,1380,2015-10-23,,True,True,False,3.81,1380
+Galactic Civilizations III,3.52,66,1370,2015-05-13,81.0,True,True,True,3.52,1370
+Hyperdrive Massacre,1.88,73,1357,2015-10-12,,True,True,False,1.88,1357
+TRANSFORMERS: Devastation,3.16,221,1348,2015-10-06,75.0,True,True,True,3.16,1348
+Sheltered,3.15,116,1346,2015-09-04,66.0,True,True,True,3.15,1346
+Camera Obscura,2.03,64,1346,2015-02-19,,True,True,False,2.03,1346
+CrossCode,4.27,136,1333,2015-03-03,82.0,True,True,True,4.27,1333
+RUNNING WITH RIFLES,3.28,72,1325,2015-04-02,78.0,True,True,True,3.28,1325
+Autobahn Police Simulator,2.07,55,1316,2015-08-26,,True,True,False,2.07,1316
+Hatred,3.03,190,1305,2015-06-01,43.0,True,True,True,3.03,1305
+Sky Force Anniversary,3.51,242,1304,2015-04-29,,True,True,False,3.51,1304
+Volume,2.9,80,1289,2015-08-18,80.0,True,True,True,2.9,1289
+Regular Human Basketball,2.81,27,1288,2015-05-30,,True,True,False,2.81,1288
+Time Clickers,2.45,110,1276,2015-07-23,,True,True,False,2.45,1276
+EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,3.54,98,1276,2015-04-02,79.0,True,True,True,3.54,1276
+One Piece Pirate Warriors 3,3.47,124,1274,2015-03-26,,True,True,False,3.47,1274
+Mordheim: City of the Damned,3.02,51,1259,2015-11-18,74.0,True,True,True,3.02,1259
+Codename CURE,2.69,77,1257,2015-07-17,,True,True,False,2.69,1257
+Magicka: Wizard Wars,3.02,111,1255,2015-04-28,,True,True,False,3.02,1255
+AX:EL - Air XenoDawn,1.74,54,1242,2015-12-04,,True,True,False,1.74,1242
+Aviary Attorney,3.41,42,1237,2015-12-21,77.0,True,True,True,3.41,1237
+Legend of Mysteria RPG,1.78,45,1232,2015-10-09,,True,True,False,1.78,1232
+GRAV,2.38,48,1218,2015-01-08,,True,True,False,2.38,1218
+Rare Replay,3.71,174,1213,2015-08-04,,True,True,False,3.71,1213
+DOOM (2016),4.38,3560,13860,2016-05-12,85.0,True,True,True,4.38,13860
+Dark Souls III,4.4,2692,11026,2016-04-11,89.0,True,True,True,4.4,11026
+BioShock Remastered,4.24,1406,10840,2016-09-15,,True,True,False,4.24,10840
+Hitman,3.93,2000,10805,2016-03-11,83.0,True,True,True,3.93,10805
+Stardew Valley,4.4,2382,10797,2016-02-25,89.0,True,True,True,4.4,10797
+Deus Ex: Mankind Divided,3.96,1993,10699,2016-08-22,83.0,True,True,True,3.96,10699
+The Elder Scrolls V: Skyrim Special Edition,4.45,1948,10005,2016-10-27,74.0,True,True,True,4.45,10005
+Dishonored 2,4.26,1983,9894,2016-11-10,86.0,True,True,True,4.26,9894
+Don't Starve Together,3.77,1373,9893,2016-04-21,83.0,True,True,True,3.77,9893
+Uncharted 4: A Thief’s End,4.49,3615,9371,2016-05-10,93.0,True,True,True,4.49,9371
+BioShock 2 Remastered,4.0,995,9100,2016-09-15,,True,True,False,4.0,9100
+ARK: Survival Of The Fittest,2.59,521,8918,2016-03-15,,True,True,False,2.59,8918
+Paladins,3.08,1407,8687,2016-09-15,78.0,True,True,True,3.08,8687
+Titanfall 2,4.31,2037,8598,2016-10-28,87.0,True,True,True,4.31,8598
+INSIDE,4.39,2518,8241,2016-06-28,87.0,True,True,True,4.39,8241
+Firewatch,4.3,2447,8140,2016-02-08,81.0,True,True,True,4.3,8140
+No Man's Sky,3.7,1548,8113,2016-08-09,75.0,True,True,True,3.7,8113
+Titan Quest Anniversary Edition,3.79,782,7991,2016-08-31,,True,True,False,3.79,7991
+Layers of Fear,3.54,1113,7729,2016-02-16,72.0,True,True,True,3.54,7729
+Battlefield 1,3.83,1935,7680,2016-10-21,88.0,True,True,True,3.83,7680
+XCOM 2,4.1,1293,7592,2016-02-04,88.0,True,True,True,4.1,7592
+Ori and the Blind Forest: Definitive Edition,4.42,1693,7576,2016-04-27,88.0,True,True,True,4.42,7576
+Sid Meier’s Civilization VI,4.16,1393,7387,2016-10-20,88.0,True,True,True,4.16,7387
+Watch Dogs 2,3.84,1736,7263,2016-11-28,79.0,True,True,True,3.84,7263
+Darksiders Warmastered Edition,3.68,926,7150,2016-11-29,79.0,True,True,True,3.68,7150
+Darkest Dungeon,4.17,1333,6953,2016-01-18,84.0,True,True,True,4.17,6953
+Quantum Break,3.91,1309,6739,2016-04-05,66.0,True,True,True,3.91,6739
+Wallpaper Engine,4.02,252,6535,2016-10-10,,True,True,False,4.02,6535
+Mafia III,3.13,1350,6500,2016-10-06,62.0,True,True,True,3.13,6500
+SUPERHOT,4.19,1519,6500,2016-02-24,82.0,True,True,True,4.19,6500
+The Witness,4.01,1269,6347,2016-01-25,87.0,True,True,True,4.01,6347
+Tom Clancy’s The Division,3.7,1333,6067,2016-03-07,80.0,True,True,True,3.7,6067
+Ratchet & Clank,4.05,1445,6029,2016-04-12,85.0,True,True,True,4.05,6029
+Dead by Daylight,3.5,974,5967,2016-06-14,72.0,True,True,True,3.5,5967
+Overcooked,4.07,1339,5919,2016-08-01,81.0,True,True,True,4.07,5919
+Human: Fall Flat,3.82,1011,5873,2016-07-22,70.0,True,True,True,3.82,5873
+FINAL FANTASY XV,3.87,1411,5799,2016-11-29,82.0,True,True,True,3.87,5799
+Beholder,3.81,709,5559,2016-11-08,75.0,True,True,True,3.81,5559
+Starbound,3.82,846,5467,2016-07-22,81.0,True,True,True,3.82,5467
+Killing Floor 2,3.53,807,5431,2016-11-18,75.0,True,True,True,3.53,5431
+Enter the Gungeon,4.08,1049,5357,2016-04-04,84.0,True,True,True,4.08,5357
+Drawful 2,3.21,316,5279,2016-06-20,74.0,True,True,True,3.21,5279
+Orwell: Keeping an Eye On You,3.27,551,5250,2016-10-27,77.0,True,True,True,3.27,5250
+Stellaris,4.11,687,5152,2016-05-08,78.0,True,True,True,4.11,5152
+Oxenfree,3.91,914,5134,2016-01-14,80.0,True,True,True,3.91,5134
+ABZU,3.92,1089,5115,2016-08-02,83.0,True,True,True,3.92,5115
+The Flame in the Flood,2.9,397,4998,2016-02-23,73.0,True,True,True,2.9,4998
+Heroes & Generals,2.77,472,4935,2016-10-18,,True,True,False,2.77,4935
+Persona 5,4.36,1420,4759,2016-09-15,93.0,True,True,True,4.36,4759
+Yakuza Kiwami,4.1,765,4688,2016-01-21,83.0,True,True,True,4.1,4688
+Shadow Tactics: Blades of the Shogun,4.07,453,4642,2016-12-05,85.0,True,True,True,4.07,4642
+Call of Duty: Modern Warfare Remastered,3.97,1117,4583,2016-10-05,86.0,True,True,True,3.97,4583
+Street Fighter V,3.5,505,4483,2016-02-15,74.0,True,True,True,3.5,4483
+Battlerite,3.22,567,4300,2016-09-20,,True,True,False,3.22,4300
+Shadow Warrior 2,3.52,602,4135,2016-10-12,78.0,True,True,True,3.52,4135
+H1Z1: King of the Kill,2.38,343,4086,2016-02-17,,True,True,False,2.38,4086
+Stories: The Path of Destinies,3.21,503,4066,2016-04-11,74.0,True,True,True,3.21,4066
+Steep,3.48,880,4039,2016-12-02,72.0,True,True,True,3.48,4039
+Furi,3.93,707,3968,2016-07-04,76.0,True,True,True,3.93,3968
+Mirror's Edge Catalyst,3.49,840,3960,2016-06-07,72.0,True,True,True,3.49,3960
+Grim Dawn,3.96,568,3926,2016-02-25,83.0,True,True,True,3.96,3926
+Unravel,3.94,775,3825,2016-02-09,78.0,True,True,True,3.94,3825
+SpeedRunners,3.75,517,3786,2016-04-19,84.0,True,True,True,3.75,3786
+Far Cry Primal,3.58,845,3751,2016-02-23,74.0,True,True,True,3.58,3751
+The Uncertain: Episode 1 - The Last Quiet Day,2.62,146,3737,2016-09-22,,True,True,False,2.62,3737
+The Lab,3.01,181,3660,2016-04-05,,True,True,False,3.01,3660
+This is the Police,3.89,711,3635,2016-08-01,66.0,True,True,True,3.89,3635
+Hyper Light Drifter,4.14,591,3571,2016-03-30,84.0,True,True,True,4.14,3571
+Golf With Your Friends,3.82,363,3544,2016-01-29,69.0,True,True,True,3.82,3544
+Overwatch,4.14,1129,3485,2016-05-24,91.0,True,True,True,4.14,3485
+Slime Rancher,3.87,570,3401,2016-01-14,81.0,True,True,True,3.87,3401
+PAC-MAN CHAMPIONSHIP EDITION 2,3.13,199,3396,2016-09-13,77.0,True,True,True,3.13,3396
+Call of Duty: Infinite Warfare,3.58,618,3261,2016-11-04,73.0,True,True,True,3.58,3261
+Deiland,2.27,138,3250,2016-02-19,,True,True,False,2.27,3250
+Day of the Tentacle Remastered,3.66,375,3234,2016-03-21,86.0,True,True,True,3.66,3234
+Resident Evil 0 / Biohazard 0 HD REMASTER,3.82,413,3196,2016-01-19,69.0,True,True,True,3.82,3196
+The Last Guardian,4.07,741,3193,2016-10-25,82.0,True,True,True,4.07,3193
+Sherlock Holmes: The Devil's Daughter,3.7,378,3175,2016-06-10,65.0,True,True,True,3.7,3175
+Serial Cleaner,3.2,168,3117,2016-09-28,72.0,True,True,True,3.2,3117
+Endless Space 2,3.86,226,3032,2016-10-06,82.0,True,True,True,3.86,3032
+Trackmania Turbo,3.48,615,2996,2016-03-22,79.0,True,True,True,3.48,2996
+Ashes of the Singularity: Escalation,2.41,68,2953,2016-11-09,81.0,True,True,True,2.41,2953
+10 Second Ninja X,2.51,167,2952,2016-07-19,,True,True,False,2.51,2952
+Fractured Space,2.4,154,2944,2016-09-22,79.0,True,True,True,2.4,2944
+RimWorld,4.35,596,2929,2016-07-15,87.0,True,True,True,4.35,2929
+Tyranny,4.07,455,2893,2016-11-10,80.0,True,True,True,4.07,2893
+Tales of Berseria,3.98,329,2887,2016-08-18,80.0,True,True,True,3.98,2887
+Tricky Towers,3.68,448,2844,2016-06-20,80.0,True,True,True,3.68,2844
+Punch Club,3.66,377,2826,2016-01-07,73.0,True,True,True,3.66,2826
+Planet Coaster,3.79,292,2806,2016-11-17,83.0,True,True,True,3.79,2806
+Hue,3.35,335,2800,2016-08-30,79.0,True,True,True,3.35,2800
+FIFA 17,3.31,586,2756,2016-09-27,85.0,True,True,True,3.31,2756
+The Turing Test,3.58,323,2754,2016-08-30,74.0,True,True,True,3.58,2754
+Pixel Puzzles Ultimate,1.99,140,2722,2016-09-09,,True,True,False,1.99,2722
+Portal Knights,2.99,353,2722,2016-02-25,72.0,True,True,True,2.99,2722
+Hearts of Iron IV,4.06,364,2712,2016-06-06,83.0,True,True,True,4.06,2712
+Dead Island Definitive Edition,3.52,301,2670,2016-05-31,67.0,True,True,True,3.52,2670
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,4.02,493,2663,2016-02-04,80.0,True,True,True,4.02,2663
+Gears of War 4,3.91,678,2604,2016-10-11,85.0,True,True,True,3.91,2604
+American Truck Simulator,3.99,251,2547,2016-02-02,76.0,True,True,True,3.99,2547
+Worms W.M.D,3.79,312,2510,2016-08-22,79.0,True,True,True,3.79,2510
+Pony Island,3.96,340,2493,2016-01-04,86.0,True,True,True,3.96,2493
+The Banner Saga 2,4.2,345,2474,2016-04-18,82.0,True,True,True,4.2,2474
+Manual Samuel,3.38,174,2473,2016-10-11,,True,True,False,3.38,2473
+Owlboy,3.83,310,2453,2016-10-31,88.0,True,True,True,3.83,2453
+Defy Gravity Extended,2.05,163,2438,2016-03-18,,True,True,False,2.05,2438
+Kathy Rain,2.89,151,2410,2016-05-05,77.0,True,True,True,2.89,2410
+Total War: WARHAMMER,4.05,314,2392,2016-05-24,86.0,True,True,True,4.05,2392
+LET IT DIE,3.0,327,2384,2016-12-03,72.0,True,True,True,3.0,2384
+Sven Co-op,3.32,197,2381,2016-01-22,,True,True,False,3.32,2381
+Moon Hunters,3.4,148,2379,2016-03-09,62.0,True,True,True,3.4,2379
+Out There Somewhere,2.63,144,2366,2016-03-14,,True,True,False,2.63,2366
+Salt and Sanctuary,3.92,342,2352,2016-03-15,84.0,True,True,True,3.92,2352
+The Walking Dead: A New Frontier,3.61,611,2324,2016-12-19,71.0,True,True,True,3.61,2324
+UNO,3.72,265,2314,2016-12-08,66.0,True,True,True,3.72,2314
+VA-11 Hall-A: Cyberpunk Bartender Action,4.37,437,2285,2016-06-21,81.0,True,True,True,4.37,2285
+Resident Evil 7 / Biohazard 7 Teaser: Beginning Hour,3.79,324,2245,2016-12-18,,True,True,False,3.79,2245
+Batman: The Telltale Series,3.75,421,2232,2016-08-02,79.0,True,True,True,3.75,2232
+Forager,4.05,218,2160,2016-12-14,78.0,True,True,True,4.05,2160
+The Walking Dead: Michonne,3.33,438,2154,2016-02-22,66.0,True,True,True,3.33,2154
+The Final Station,3.85,332,2154,2016-08-29,76.0,True,True,True,3.85,2154
+Poly Bridge,3.48,193,2143,2016-07-12,73.0,True,True,True,3.48,2143
+Homefront: The Revolution,3.02,346,2133,2016-05-17,54.0,True,True,True,3.02,2133
+Deadlight: Director's Cut,3.46,231,2112,2016-06-20,,True,True,False,3.46,2112
+Forza Horizon 3,4.37,601,2015,2016-09-27,88.0,True,True,True,4.37,2015
+Deponia Doomsday,4.08,211,2015,2016-03-01,76.0,True,True,True,4.08,2015
+ClusterTruck,3.79,307,2005,2016-09-26,76.0,True,True,True,3.79,2005
+Fortified,2.13,127,2000,2016-02-03,66.0,True,True,True,2.13,2000
+Dead Rising 4,3.24,199,1973,2016-12-06,74.0,True,True,True,3.24,1973
+Orcs Must Die! Unchained,3.0,204,1965,2016-03-29,87.0,True,True,True,3.0,1965
+Aragami,3.6,222,1920,2016-10-03,71.0,True,True,True,3.6,1920
+LEGO Star Wars: The Force Awakens,3.62,278,1887,2016-06-27,75.0,True,True,True,3.62,1887
+GOD EATER RESURRECTION,3.07,135,1870,2016-06-28,70.0,True,True,True,3.07,1870
+Obduction,3.16,165,1852,2016-08-23,76.0,True,True,True,3.16,1852
+Reigns,3.74,376,1840,2016-08-10,77.0,True,True,True,3.74,1840
+Rec Room,3.02,109,1836,2016-06-01,,True,True,False,3.02,1836
+Hard Reset Redux,3.2,133,1827,2016-06-02,73.0,True,True,True,3.2,1827
+Dead Island: Riptide Definitive Edition,3.45,125,1826,2016-05-31,,True,True,False,3.45,1826
+LEGO Marvel's Avengers,3.66,224,1819,2016-01-26,67.0,True,True,True,3.66,1819
+Momodora: Reverie Under the Moonlight,3.86,186,1815,2016-03-03,82.0,True,True,True,3.86,1815
+Table Top Racing: World Tour,2.59,245,1754,2016-05-03,,True,True,False,2.59,1754
+Offworld Trading Company,3.36,122,1748,2016-04-27,78.0,True,True,True,3.36,1748
+Battleborn,2.71,188,1745,2016-05-02,69.0,True,True,True,2.71,1745
+"Gremlins, Inc.",3.65,137,1732,2016-03-10,75.0,True,True,True,3.65,1732
+Ultimate Chicken Horse,4.09,226,1718,2016-03-04,,True,True,False,4.09,1718
+The Jackbox Party Pack 3,4.21,291,1717,2016-10-17,81.0,True,True,True,4.21,1717
+Epistory - Typing Chronicles,3.6,129,1700,2016-03-29,74.0,True,True,True,3.6,1700
+Woodle Tree Adventures,1.91,123,1699,2016-03-02,,True,True,False,1.91,1699
+Move or Die,3.7,205,1687,2016-01-21,80.0,True,True,True,3.7,1687
+Business Tour,2.78,117,1673,2016-10-06,,True,True,False,2.78,1673
+Mother Russia Bleeds,3.59,236,1662,2016-09-04,70.0,True,True,True,3.59,1662
+Tree of Savior (English Ver.),2.93,135,1647,2016-03-28,,True,True,False,2.93,1647
+Thumper,4.09,290,1634,2016-10-10,85.0,True,True,True,4.09,1634
+TOXIKK,2.66,107,1634,2016-09-10,,True,True,False,2.66,1634
+Crazy Machines 3,3.13,68,1630,2016-10-18,71.0,True,True,True,3.13,1630
+SHENZHEN I/O,3.88,92,1618,2016-11-16,,True,True,False,3.88,1618
+Lost Castle,3.22,99,1606,2016-08-31,,True,True,False,3.22,1606
+The Descendant,2.15,73,1586,2016-03-24,59.0,True,True,True,2.15,1586
+BioShock: The Collection,4.49,220,1576,2016-09-13,83.0,True,True,True,4.49,1576
+Virginia,3.22,257,1574,2016-09-21,74.0,True,True,True,3.22,1574
+The Deadly Tower of Monsters,3.16,201,1563,2016-01-19,73.0,True,True,True,3.16,1563
+Transmissions: Element 120,3.23,114,1561,2016-06-16,,True,True,False,3.23,1561
+Yakuza 6: The Song of Life,4.41,205,1555,2016-04-17,84.0,True,True,True,4.41,1555
+Devil Daggers,3.93,160,1554,2016-02-17,83.0,True,True,True,3.93,1554
+Neon Chrome,2.91,149,1554,2016-04-25,74.0,True,True,True,2.91,1554
+Alienation,3.46,282,1542,2016-04-26,79.0,True,True,True,3.46,1542
+Hitman GO: Definitive Edition,3.56,184,1541,2016-02-23,72.0,True,True,True,3.56,1541
+Gravity Rush Remastered,4.02,320,1540,2016-02-02,80.0,True,True,True,4.02,1540
+This War of Mine: The Little Ones,3.59,314,1501,2016-01-29,82.0,True,True,True,3.59,1501
+Scrap Garden,2.2,46,1497,2016-05-06,58.0,True,True,True,2.2,1497
+Silence,3.28,76,1482,2016-11-15,75.0,True,True,True,3.28,1482
+Bad North,3.62,140,1478,2016-11-16,70.0,True,True,True,3.62,1478
+GoNNER,2.9,88,1466,2016-10-12,81.0,True,True,True,2.9,1466
+BUTCHER,2.98,51,1431,2016-10-04,70.0,True,True,True,2.98,1431
+"Warhammer 40,000: Eternal Crusade",2.62,130,1423,2016-09-23,52.0,True,True,True,2.62,1423
+Tumblestone,2.43,62,1419,2016-07-11,91.0,True,True,True,2.43,1419
+Mighty No. 9,2.29,188,1407,2016-06-21,52.0,True,True,True,2.29,1407
+The Witcher 3 Wild Hunt - Complete Edition,4.79,756,1405,2016-08-30,92.0,True,True,True,4.79,1405
+Jalopy,3.05,86,1390,2016-04-21,,True,True,False,3.05,1390
+Endorlight,1.8,56,1383,2016-04-26,,True,True,False,1.8,1383
+Google Earth VR,3.84,63,1373,2016-11-16,,True,True,False,3.84,1373
+Samorost 3,4.18,160,1325,2016-03-14,80.0,True,True,True,4.18,1325
+Seasons After Fall,3.33,125,1311,2016-09-01,75.0,True,True,True,3.33,1311
+Dragon Ball Xenoverse 2,3.61,185,1308,2016-10-25,74.0,True,True,True,3.61,1308
+Infestation: The New Z,2.14,113,1307,2016-11-22,,True,True,False,2.14,1307
+The Playroom VR,3.2,242,1297,2016-10-10,,True,True,False,3.2,1297
+Shadowverse CCG,2.89,112,1293,2016-06-17,,True,True,False,2.89,1293
+Slain: Back from Hell,3.23,98,1279,2016-03-23,74.0,True,True,True,3.23,1279
+Wuppo,3.19,63,1276,2016-09-28,80.0,True,True,True,3.19,1276
+Brigador: Up-Armored Edition,2.17,36,1274,2016-06-02,70.0,True,True,True,2.17,1274
+Zombie Night Terror,3.42,76,1273,2016-07-19,81.0,True,True,True,3.42,1273
+The Wild Eight,3.31,67,1272,2016-07-12,,True,True,False,3.31,1272
+Call to Arms,2.97,90,1272,2016-11-21,,True,True,False,2.97,1272
+Turbo Pug DX,2.3,73,1268,2016-09-26,,True,True,False,2.3,1268
+How to Survive 2,3.07,99,1262,2016-09-08,69.0,True,True,True,3.07,1262
+Iron Snout,2.86,115,1237,2016-01-27,,True,True,False,2.86,1237
+Ghost in the Shell: Stand Alone Complex - First Assault Online,2.65,68,1236,2016-07-28,,True,True,False,2.65,1236
+EA SPORTS UFC 2,3.46,238,1232,2016-03-15,78.0,True,True,True,3.46,1232
+The Way of Life Free Edition,2.3,62,1226,2016-05-31,,True,True,False,2.3,1226
+Homeworld: Deserts of Kharak,3.82,100,1224,2016-01-19,79.0,True,True,True,3.82,1224
+Destiny 2,3.52,2640,14517,2017-09-06,82.0,True,True,True,3.52,14517
+Horizon Zero Dawn,4.28,3712,12653,2017-02-28,89.0,True,True,True,4.28,12653
+Hollow Knight,4.4,2595,11542,2017-02-23,88.0,True,True,True,4.4,11542
+Little Nightmares,4.04,1590,11523,2017-04-27,81.0,True,True,True,4.04,11523
+PlayerUnknown’s Battlegrounds,3.27,1960,10623,2017-12-20,81.0,True,True,True,3.27,10623
+Prey,4.28,2198,10134,2017-05-05,80.0,True,True,True,4.28,10134
+Hellblade: Senua's Sacrifice,4.23,2256,9785,2017-08-07,83.0,True,True,True,4.23,9785
+For Honor,3.3,1669,9643,2017-02-13,76.0,True,True,True,3.3,9643
+NieR:Automata,4.37,2113,8894,2017-03-17,86.0,True,True,True,4.37,8894
+Middle-earth: Shadow of War,3.85,1358,8660,2017-09-27,82.0,True,True,True,3.85,8660
+Resident Evil 7: Biohazard,4.33,1925,8602,2017-01-23,85.0,True,True,True,4.33,8602
+Cuphead,4.37,1993,7971,2017-09-29,87.0,True,True,True,4.37,7971
+Assassin's Creed Origins,3.96,2049,7833,2017-10-27,81.0,True,True,True,3.96,7833
+Wolfenstein II: The New Colossus,4.1,1736,7197,2017-10-25,86.0,True,True,True,4.1,7197
+Quake Champions,3.26,1018,7186,2017-08-22,,True,True,False,3.26,7186
+Divinity: Original Sin 2,4.38,1617,7118,2017-09-14,95.0,True,True,True,4.38,7118
+What Remains of Edith Finch,4.38,1993,6456,2017-04-23,89.0,True,True,True,4.38,6456
+Call of Duty: WWII,3.54,1151,6409,2017-11-03,77.0,True,True,True,3.54,6409
+The Legend of Zelda: Breath of the Wild,4.49,3074,6133,2017-03-03,97.0,True,True,True,4.49,6133
+STAR WARS Battlefront II,3.57,1343,5867,2017-11-17,74.0,True,True,True,3.57,5867
+Doki Doki Literature Club!,4.05,1268,5825,2017-09-22,78.0,True,True,True,4.05,5825
+Dear Esther: Landmark Edition,3.32,432,5621,2017-02-14,,True,True,False,3.32,5621
+Serious Sam Fusion 2017 (beta),3.05,329,5439,2017-03-20,,True,True,False,3.05,5439
+Fortnite Battle Royale,3.27,1103,5290,2017-09-26,,True,True,False,3.27,5290
+VRChat,3.14,528,5118,2017-02-01,,True,True,False,3.14,5118
+Sonic Mania,3.86,853,5030,2017-08-15,85.0,True,True,True,3.86,5030
+Crash Bandicoot N. Sane Trilogy,4.13,633,4817,2017-06-30,81.0,True,True,True,4.13,4817
+Sniper Elite 4,3.58,725,4763,2017-02-13,78.0,True,True,True,3.58,4763
+The LEGO NINJAGO Movie Video Game,2.91,277,4723,2017-09-22,70.0,True,True,True,2.91,4723
+Injustice 2,3.92,941,4588,2017-05-09,88.0,True,True,True,3.92,4588
+Outlast 2,3.67,710,4482,2017-04-24,76.0,True,True,True,3.67,4482
+Life is Strange: Before The Storm,3.95,1240,4425,2017-08-31,77.0,True,True,True,3.95,4425
+The Evil Within 2,4.14,810,4425,2017-10-11,82.0,True,True,True,4.14,4425
+Uncharted: The Lost Legacy,4.27,1242,4085,2017-08-22,85.0,True,True,True,4.27,4085
+Mass Effect: Andromeda,3.21,1159,3980,2017-03-21,73.0,True,True,True,3.21,3980
+Dishonored: Death of the Outsider,4.04,613,3898,2017-09-14,83.0,True,True,True,4.04,3898
+Ultimate Epic Battle Simulator,2.64,168,3825,2017-04-12,,True,True,False,2.64,3825
+Super Mario Odyssey,4.43,1882,3777,2017-10-27,97.0,True,True,True,4.43,3777
+The Surge,3.19,591,3774,2017-05-15,72.0,True,True,True,3.19,3774
+Tom Clancy's Ghost Recon Wildlands,3.57,711,3772,2017-03-06,72.0,True,True,True,3.57,3772
+Need for Speed Payback,3.2,731,3771,2017-11-07,61.0,True,True,True,3.2,3771
+TERA,2.85,498,3757,2017-01-31,77.0,True,True,True,2.85,3757
+RiME,3.67,776,3688,2017-05-25,78.0,True,True,True,3.67,3688
+Nioh,3.81,682,3640,2017-02-07,88.0,True,True,True,3.81,3640
+Deceit,2.94,412,3628,2017-03-03,,True,True,False,2.94,3628
+South Park: The Fractured But Whole,4.04,805,3613,2017-03-31,80.0,True,True,True,4.04,3613
+SteamWorld Dig 2,4.06,421,3605,2017-09-21,88.0,True,True,True,4.06,3605
+RUINER,3.72,587,3555,2017-09-26,78.0,True,True,True,3.72,3555
+Snake Pass,3.23,250,3542,2017-03-28,71.0,True,True,True,3.23,3542
+We Were Here,3.79,464,3522,2017-02-03,63.0,True,True,True,3.79,3522
+Guns of Icarus Alliance,2.41,228,3251,2017-03-31,,True,True,False,2.41,3251
+Conan Exiles,2.85,455,3215,2017-01-30,67.0,True,True,True,2.85,3215
+Crossout,2.81,488,3145,2017-05-30,68.0,True,True,True,2.81,3145
+OKAMI HD,4.19,350,3135,2017-12-12,92.0,True,True,True,4.19,3135
+Bulletstorm: Full Clip Edition,3.93,629,3072,2017-04-07,76.0,True,True,True,3.93,3072
+Yakuza Kiwami 2,4.37,393,3059,2017-12-07,85.0,True,True,True,4.37,3059
+Stick Fight: The Game,3.83,386,3024,2017-09-28,,True,True,False,3.83,3024
+A Hat in Time,4.31,502,3018,2017-10-05,77.0,True,True,True,4.31,3018
+Observеr,3.91,474,3017,2017-08-14,77.0,True,True,True,3.91,3017
+Geneshift,2.14,196,3014,2017-04-27,,True,True,False,2.14,3014
+Full Throttle Remastered,3.96,427,3011,2017-04-17,77.0,True,True,True,3.96,3011
+Pyre,4.17,478,2918,2017-07-25,84.0,True,True,True,4.17,2918
+Fortnite: Save The World,2.98,805,2909,2017-07-21,,True,True,False,2.98,2909
+Bomber Crew,3.11,140,2862,2017-10-19,75.0,True,True,True,3.11,2862
+FIFA 18,3.36,697,2861,2017-09-26,79.0,True,True,True,3.36,2861
+Absolver,2.91,404,2769,2017-08-28,69.0,True,True,True,2.91,2769
+Oxygen Not Included,4.14,364,2748,2017-05-18,86.0,True,True,True,4.14,2748
+Darkwood,3.8,243,2672,2017-08-17,78.0,True,True,True,3.8,2672
+SCP: Secret Laboratory,3.22,276,2670,2017-12-28,,True,True,False,3.22,2670
+Night in the Woods,4.25,660,2623,2017-02-21,88.0,True,True,True,4.25,2623
+Black Squad,2.58,240,2620,2017-07-28,,True,True,False,2.58,2620
+Tacoma,3.67,300,2584,2017-08-01,78.0,True,True,True,3.67,2584
+Styx: Shards of Darkness,3.36,197,2583,2017-03-13,72.0,True,True,True,3.36,2583
+The Escapists 2,3.56,265,2574,2017-08-21,74.0,True,True,True,3.56,2574
+Mirage: Arcane Warfare,2.17,178,2546,2017-05-23,74.0,True,True,True,2.17,2546
+Yooka-Laylee,3.04,251,2498,2017-03-31,73.0,True,True,True,3.04,2498
+Figment,3.19,122,2480,2017-09-21,,True,True,False,3.19,2480
+Alien Swarm: Reactive Drop,3.35,271,2451,2017-04-20,,True,True,False,3.35,2451
+Project CARS 2,3.6,225,2447,2017-09-22,86.0,True,True,True,3.6,2447
+Planescape: Torment: Enhanced Edition,4.36,276,2437,2017-04-11,85.0,True,True,True,4.36,2437
+Gran Turismo Sport,3.92,554,2331,2017-10-17,75.0,True,True,True,3.92,2331
+ELEX,3.51,303,2326,2017-10-17,59.0,True,True,True,3.51,2326
+Friday the 13th: The Game,3.11,323,2322,2017-05-25,61.0,True,True,True,3.11,2322
+The Elder Scrolls: Legends,3.2,282,2283,2017-03-22,82.0,True,True,True,3.2,2283
+Albion Online,3.01,213,2280,2017-07-17,72.0,True,True,True,3.01,2280
+Finding Paradise,4.33,239,2269,2017-12-14,,True,True,False,4.33,2269
+Ken Follett's The Pillars of the Earth,3.55,134,2264,2017-08-15,79.0,True,True,True,3.55,2264
+Faeria,2.96,213,2230,2017-03-08,80.0,True,True,True,2.96,2230
+911 Operator,3.4,155,2215,2017-02-24,68.0,True,True,True,3.4,2215
+Beat Cop,3.67,140,2186,2017-03-29,71.0,True,True,True,3.67,2186
+theHunter: Call of the Wild,3.44,222,2178,2017-02-16,74.0,True,True,True,3.44,2178
+CAYNE,2.5,110,2112,2017-01-23,75.0,True,True,True,2.5,2112
+Sonic Forces,2.81,322,2106,2017-11-07,58.0,True,True,True,2.81,2106
+AER - Memories of Old,3.15,173,2101,2017-10-25,71.0,True,True,True,3.15,2101
+Old Man's Journey,3.57,251,2100,2017-05-18,77.0,True,True,True,3.57,2100
+Battle Chasers: Nightwar,3.73,237,2032,2017-10-03,79.0,True,True,True,3.73,2032
+Getting Over It with Bennett Foddy,3.6,281,2024,2017-12-06,,True,True,False,3.6,2024
+That's You!,3.57,487,2023,2017-06-29,,True,True,False,3.57,2023
+Idle Champions of the Forgotten Realms,2.46,143,2019,2017-09-07,,True,True,False,2.46,2019
+DiRT 4,3.6,259,1986,2017-06-06,78.0,True,True,True,3.6,1986
+Immortal Redneck,3.56,94,1970,2017-04-24,69.0,True,True,True,3.56,1970
+Overgrowth,3.1,103,1956,2017-10-16,,True,True,False,3.1,1956
+EVERSPACE,3.35,223,1942,2017-05-25,80.0,True,True,True,3.35,1942
+SUPERHOT VR,4.38,410,1932,2017-05-25,85.0,True,True,True,4.38,1932
+Blackwake,3.26,97,1906,2017-02-24,,True,True,False,3.26,1906
+Pinball FX3,3.44,110,1900,2017-09-26,84.0,True,True,True,3.44,1900
+Nioh: Complete Edition,3.99,267,1886,2017-11-07,84.0,True,True,True,3.99,1886
+Syberia 3,2.95,156,1869,2017-04-19,50.0,True,True,True,2.95,1869
+Late Shift,3.6,308,1862,2017-04-17,80.0,True,True,True,3.6,1862
+Yu-Gi-Oh! Duel Links,3.2,182,1840,2017-01-11,80.0,True,True,True,3.2,1840
+Nephise Begins,2.24,54,1830,2017-04-24,,True,True,False,2.24,1830
+Mario Kart 8 Deluxe,4.44,890,1823,2017-04-27,92.0,True,True,True,4.44,1823
+Dungeons 3,3.27,114,1819,2017-10-12,74.0,True,True,True,3.27,1819
+Last Day of June,3.36,166,1818,2017-08-30,79.0,True,True,True,3.36,1818
+Hello Neighbor,2.86,161,1776,2017-08-28,40.0,True,True,True,2.86,1776
+LEGO Worlds,3.15,220,1766,2017-03-07,66.0,True,True,True,3.15,1766
+Nex Machina,3.9,154,1764,2017-06-19,89.0,True,True,True,3.9,1764
+Spacelords,2.33,174,1749,2017-09-22,,True,True,False,2.33,1749
+Sundered,3.43,140,1748,2017-07-27,76.0,True,True,True,3.43,1748
+Knowledge is Power,3.72,465,1728,2017-10-20,71.0,True,True,True,3.72,1728
+Rising Storm 2: VIETNAM,3.75,130,1725,2017-05-30,81.0,True,True,True,3.75,1725
+Neverwinter Nights: Enhanced Edition,4.07,140,1724,2017-03-27,,True,True,False,4.07,1724
+"Warhammer 40,000: Dawn of War III",3.04,157,1722,2017-04-27,77.0,True,True,True,3.04,1722
+Argo,2.52,120,1715,2017-06-22,,True,True,False,2.52,1715
+The Sexy Brutale,3.74,149,1711,2017-03-31,83.0,True,True,True,3.74,1711
+Diablo III: Eternal Collection,4.17,326,1711,2017-06-27,88.0,True,True,True,4.17,1711
+DRAGON QUEST XI: Echoes of an Elusive Age,4.31,373,1707,2017-07-29,91.0,True,True,True,4.31,1707
+WipEout Omega Collection,3.55,291,1681,2017-06-07,85.0,True,True,True,3.55,1681
+Hidden Folks,3.86,208,1676,2017-02-14,78.0,True,True,True,3.86,1676
+X-Morph: Defense,3.09,46,1672,2017-08-30,,True,True,False,3.09,1672
+Skyforge,2.51,247,1659,2017-04-11,,True,True,False,2.51,1659
+Gorogoa,4.35,407,1653,2017-12-14,,True,True,False,4.35,1653
+Gravity Rush 2,3.95,280,1643,2017-01-20,80.0,True,True,True,3.95,1643
+Tooth and Tail,3.27,109,1629,2017-09-11,,True,True,False,3.27,1629
+Tower of Time,2.74,76,1621,2017-07-03,,True,True,False,2.74,1621
+Stories Untold,3.9,173,1616,2017-02-26,81.0,True,True,True,3.9,1616
+Kona,3.31,129,1611,2017-03-16,73.0,True,True,True,3.31,1611
+Batman: The Enemy Within,3.85,417,1602,2017-08-08,68.0,True,True,True,3.85,1602
+HELLION,2.09,44,1601,2017-02-24,,True,True,False,2.09,1601
+Project Mercury,1.88,49,1585,2017-09-20,,True,True,False,1.88,1585
+ReCore: Definitive Edition,3.26,122,1584,2017-08-29,,True,True,False,3.26,1584
+Torment: Tides of Numenera,3.58,203,1582,2017-02-27,81.0,True,True,True,3.58,1582
+Rain World,3.88,122,1564,2017-03-27,66.0,True,True,True,3.88,1564
+Cat Quest,3.79,229,1555,2017-08-07,77.0,True,True,True,3.79,1555
+Driftland: The Magic Revival,2.81,31,1544,2017-11-15,,True,True,False,2.81,1544
+Bridge Constructor Portal,3.63,223,1541,2017-12-19,78.0,True,True,True,3.63,1541
+Secret World Legends,2.79,130,1534,2017-07-31,76.0,True,True,True,2.79,1534
+Total War: WARHAMMER II,4.33,243,1534,2017-09-28,86.0,True,True,True,4.33,1534
+HIVESWAP: Act 1,2.56,64,1528,2017-09-13,,True,True,False,2.56,1528
+"Cook, Serve, Delicious! 2!!",3.48,105,1514,2017-09-13,74.0,True,True,True,3.48,1514
+Heavy Metal Machines,2.14,85,1506,2017-01-31,,True,True,False,2.14,1506
+Will Glow the Wisp,1.95,42,1498,2017-09-12,,True,True,False,1.95,1498
+Interkosmos,1.86,42,1494,2017-04-25,,True,True,False,1.86,1494
+Battlestar Galactica Deadlock,2.37,42,1453,2017-08-30,,True,True,False,2.37,1453
+Streets of Rogue,3.83,161,1440,2017-03-10,,True,True,False,3.83,1440
+Badass Hero,2.83,18,1439,2017-02-24,,True,True,False,2.83,1439
+Forza Motorsport 7,4.06,283,1428,2017-10-03,84.0,True,True,True,4.06,1428
+Opus Magnum,4.19,129,1420,2017-10-19,,True,True,False,4.19,1420
+LEGO Marvel Super Heroes 2,3.66,184,1403,2017-11-14,74.0,True,True,True,3.66,1403
+Mirror,3.74,186,1400,2017-09-21,,True,True,False,3.74,1400
+Ticket to Ride: First Journey,2.5,40,1359,2017-09-27,,True,True,False,2.5,1359
+Seven: The Days Long Gone,3.26,85,1356,2017-11-30,68.0,True,True,True,3.26,1356
+Horizon Zero Dawn Complete Edition,4.25,327,1353,2017-12-05,84.0,True,True,True,4.25,1353
+The Search,2.44,64,1344,2017-04-13,,True,True,False,2.44,1344
+Danganronpa V3: Killing Harmony,4.29,233,1333,2017-01-12,80.0,True,True,True,4.29,1333
+Final Fantasy XII: The Zodiac Age,4.23,224,1325,2017-07-11,87.0,True,True,True,4.23,1325
+Polygoneer,2.11,88,1320,2017-08-21,,True,True,False,2.11,1320
+Blackout Z: Slaughterhouse Edition,1.6,42,1320,2017-10-18,,True,True,False,1.6,1320
+The Jackbox Party Pack 4,4.07,181,1319,2017-10-17,78.0,True,True,True,4.07,1319
+Everything,3.69,207,1318,2017-03-21,76.0,True,True,True,3.69,1318
+Holy Potatoes! We’re in Space?!,3.06,46,1312,2017-02-13,,True,True,False,3.06,1312
+Realm Grinder,2.85,152,1301,2017-01-24,,True,True,False,2.85,1301
+Evolvation,1.93,83,1300,2017-02-06,,True,True,False,1.93,1300
+Hob,3.84,159,1299,2017-09-25,,True,True,False,3.84,1299
+Car Mechanic Simulator 2018,3.77,98,1297,2017-07-28,,True,True,False,3.77,1297
+Sine Mora EX,3.54,66,1288,2017-08-07,82.0,True,True,True,3.54,1288
+Hand Simulator,3.1,162,1284,2017-07-14,,True,True,False,3.1,1284
+Agents of Mayhem,2.92,174,1278,2017-08-15,70.0,True,True,True,2.92,1278
+Scanner Sombre,2.95,59,1277,2017-04-25,67.0,True,True,True,2.95,1277
+Distrust,3.04,95,1273,2017-08-22,75.0,True,True,True,3.04,1273
+Arcade Moonlander,2.4,52,1264,2017-10-30,,True,True,False,2.4,1264
+Battle Chef Brigade,3.57,98,1260,2017-11-19,81.0,True,True,True,3.57,1260
+The Darkside Detective,3.57,58,1259,2017-07-26,73.0,True,True,True,3.57,1259
+Get Even,3.4,122,1259,2017-06-20,75.0,True,True,True,3.4,1259
+Splasher,3.24,46,1257,2017-02-07,79.0,True,True,True,3.24,1257
+Gigantic,2.85,131,1252,2017-06-23,75.0,True,True,True,2.85,1252
+Rivals of Aether,3.76,114,1243,2017-03-28,,True,True,False,3.76,1243
+Mr. Shifty,3.2,60,1238,2017-04-13,,True,True,False,3.2,1238
+Sunless Skies,3.7,49,1236,2017-08-30,87.0,True,True,True,3.7,1236
+Rock of Ages 2: Bigger & Boulder,3.58,95,1235,2017-08-28,77.0,True,True,True,3.58,1235
+SIMULACRA,3.61,85,1228,2017-10-25,,True,True,False,3.61,1228
+Last Man Standing,2.16,113,1226,2017-03-29,,True,True,False,2.16,1226
+The First Tree,3.11,117,1223,2017-09-13,,True,True,False,3.11,1223
+Marvel vs. Capcom: Infinite,2.99,165,1222,2017-09-19,73.0,True,True,True,2.99,1222
+KINGDOM HEARTS HD 1.5 +2.5 ReMIX,4.36,178,1217,2017-03-28,86.0,True,True,True,4.36,1217
+Bendy and the Ink Machine,3.48,145,1210,2017-02-09,68.0,True,True,True,3.48,1210
+Faerie Solitaire Remastered,3.03,75,1210,2017-12-22,,True,True,False,3.03,1210
+Guts and Glory,2.92,38,1192,2017-02-15,,True,True,False,2.92,1192
+Zero Escape: The Nonary Games,4.38,178,1177,2017-03-24,86.0,True,True,True,4.38,1177
+Thimbleweed Park,4.07,243,1176,2017-03-29,84.0,True,True,True,4.07,1176
+Red Dead Redemption 2,4.59,5239,16331,2018-10-26,96.0,True,True,True,4.59,16331
+God of War (2018),4.55,4952,14140,2018-04-20,94.0,True,True,True,4.55,14140
+Marvel's Spider-Man,4.45,3600,10250,2018-09-07,87.0,True,True,True,4.45,10250
+Detroit: Become Human,4.33,3208,10179,2018-05-25,79.0,True,True,True,4.33,10179
+Monster Hunter: World,4.01,1607,8775,2018-01-26,89.0,True,True,True,4.01,8775
+Warhammer: Vermintide 2,3.61,764,8488,2018-03-08,82.0,True,True,True,3.61,8488
+Far Cry 5,3.72,2116,8334,2018-03-27,80.0,True,True,True,3.72,8334
+Shadow of the Tomb Raider,3.91,1616,8273,2018-09-14,78.0,True,True,True,3.91,8273
+Assassin's Creed Odyssey,3.98,2056,8085,2018-10-05,85.0,True,True,True,3.98,8085
+Hitman 2,4.04,1209,8045,2018-11-13,83.0,True,True,True,4.04,8045
+Among Us,3.84,1298,7847,2018-07-25,82.0,True,True,True,3.84,7847
+Kingdom Come: Deliverance,4.04,1408,7327,2018-02-13,71.0,True,True,True,4.04,7327
+Dead Cells,4.24,1690,7166,2018-08-07,88.0,True,True,True,4.24,7166
+Subnautica,4.25,1432,7012,2018-01-23,83.0,True,True,True,4.25,7012
+The Forest,3.75,906,6287,2018-04-30,,True,True,False,3.75,6287
+Surviving Mars,3.47,468,6270,2018-03-14,75.0,True,True,True,3.47,6270
+Forza Horizon 4,4.37,1620,6249,2018-10-02,90.0,True,True,True,4.37,6249
+Frostpunk,4.18,1020,6064,2018-04-24,85.0,True,True,True,4.18,6064
+Celeste,4.38,1648,6042,2018-01-25,91.0,True,True,True,4.38,6042
+Rust,3.37,850,5923,2018-02-09,66.0,True,True,True,3.37,5923
+A Way Out,4.12,1572,5812,2018-03-23,78.0,True,True,True,4.12,5812
+Sea of Thieves,3.68,1044,5575,2018-03-20,68.0,True,True,True,3.68,5575
+Dark Souls: Remastered,4.48,1411,5560,2018-05-23,84.0,True,True,True,4.48,5560
+Gwent: The Witcher Card Game,3.59,1017,5048,2018-10-23,80.0,True,True,True,3.59,5048
+Gris,4.2,1052,4924,2018-12-13,83.0,True,True,True,4.2,4924
+Vampyr,3.49,867,4921,2018-06-04,70.0,True,True,True,3.49,4921
+Battlefield V,3.51,986,4901,2018-11-20,77.0,True,True,True,3.51,4901
+Life is Strange 2,3.79,753,4749,2018-09-27,75.0,True,True,True,3.79,4749
+The Awesome Adventures of Captain Spirit,3.61,925,4628,2018-06-25,77.0,True,True,True,3.61,4628
+Overcooked! 2,4.15,789,4424,2018-08-06,82.0,True,True,True,4.15,4424
+Spyro Reignited Trilogy,4.13,536,4281,2018-11-13,80.0,True,True,True,4.13,4281
+Totally Accurate Battlegrounds,2.81,433,4247,2018-06-05,,True,True,False,2.81,4247
+Hellblade: Senua's Sacrifice VR Edition,3.57,243,4019,2018-07-31,87.0,True,True,True,3.57,4019
+Fallout 76,2.86,647,3996,2018-11-14,51.0,True,True,True,2.86,3996
+Darksiders III,3.43,554,3856,2018-11-27,65.0,True,True,True,3.43,3856
+Moonlighter,3.74,489,3676,2018-05-28,82.0,True,True,True,3.74,3676
+Aim Lab,3.04,249,3620,2018-02-07,,True,True,False,3.04,3620
+Just Cause 4,3.04,513,3561,2018-12-04,68.0,True,True,True,3.04,3561
+Aegis Defenders,2.53,109,3541,2018-02-07,76.0,True,True,True,2.53,3541
+Red Faction Guerrilla Re-Mars-tered,3.47,287,3468,2018-07-02,70.0,True,True,True,3.47,3468
+Headsnatchers,1.83,128,3422,2018-07-24,,True,True,False,1.83,3422
+Realm Royale,2.62,469,3389,2018-06-05,,True,True,False,2.62,3389
+Into the Breach,4.32,795,3291,2018-02-26,90.0,True,True,True,4.32,3291
+Unravel Two,3.96,601,3271,2018-06-09,79.0,True,True,True,3.96,3271
+Northgard,3.76,490,3217,2018-03-06,79.0,True,True,True,3.76,3217
+F1 2018,3.33,198,3200,2018-08-23,84.0,True,True,True,3.33,3200
+Graveyard Keeper,3.72,426,3171,2018-08-14,68.0,True,True,True,3.72,3171
+Regions Of Ruin,2.47,135,3146,2018-02-04,,True,True,False,2.47,3146
+Ring of Elysium,2.94,384,3088,2018-09-19,,True,True,False,2.94,3088
+Two Point Hospital,3.75,402,3034,2018-08-29,84.0,True,True,True,3.75,3034
+Return Of The Obra Dinn,4.34,731,3002,2018-10-17,88.0,True,True,True,4.34,3002
+Call of Duty: Black Ops 4,3.29,562,2811,2018-10-12,84.0,True,True,True,3.29,2811
+Horizon Chase Turbo,3.42,396,2807,2018-05-15,78.0,True,True,True,3.42,2807
+Pathfinder: Kingmaker,3.91,314,2799,2018-09-25,73.0,True,True,True,3.91,2799
+DRAGON BALL FighterZ,4.09,440,2750,2018-01-25,86.0,True,True,True,4.09,2750
+State of Decay 2,3.29,511,2746,2018-05-22,68.0,True,True,True,3.29,2746
+Wizard of Legend,3.54,241,2718,2018-05-15,77.0,True,True,True,3.54,2718
+Jurassic World Evolution,3.61,335,2711,2018-06-12,71.0,True,True,True,3.61,2711
+Steel Rats,2.64,98,2698,2018-11-06,66.0,True,True,True,2.64,2698
+Ni no Kuni II: Revenant Kingdom,3.89,430,2694,2018-03-23,82.0,True,True,True,3.89,2694
+Mutant Year Zero: Road to Eden,3.73,466,2677,2018-12-03,78.0,True,True,True,3.73,2677
+Wreckfest,3.68,375,2671,2018-06-13,79.0,True,True,True,3.68,2671
+House Flipper,3.83,337,2638,2018-05-16,62.0,True,True,True,3.83,2638
+Cuisine Royale,2.59,285,2593,2018-06-15,,True,True,False,2.59,2593
+The Council,3.61,346,2576,2018-03-12,76.0,True,True,True,3.61,2576
+Call of Cthulhu,3.52,371,2539,2018-10-30,66.0,True,True,True,3.52,2539
+Hunt: Showdown,3.85,307,2460,2018-02-22,79.0,True,True,True,3.85,2460
+Burnout Paradise Remastered,3.88,417,2449,2018-03-16,80.0,True,True,True,3.88,2449
+"Warhammer 40,000: Gladius - Relics of War",2.75,94,2433,2018-07-11,71.0,True,True,True,2.75,2433
+The Messenger,4.29,324,2424,2018-08-30,84.0,True,True,True,4.29,2424
+FIFA 19,3.31,647,2414,2018-09-28,80.0,True,True,True,3.31,2414
+Thronebreaker: The Witcher Tales,4.06,484,2411,2018-10-23,83.0,True,True,True,4.06,2411
+PC Building Simulator,3.85,264,2395,2018-03-27,,True,True,False,3.85,2395
+Murderous Pursuits,2.35,201,2350,2018-04-26,,True,True,False,2.35,2350
+SoulCalibur VI,3.7,221,2313,2018-10-19,83.0,True,True,True,3.7,2313
+Acceleration of SUGURI 2,2.08,64,2299,2018-03-07,,True,True,False,2.08,2299
+Mark of the Ninja: Remastered,4.14,335,2290,2018-10-08,89.0,True,True,True,4.14,2290
+Yoku's Island Express,4.15,213,2260,2018-05-28,,True,True,False,4.15,2260
+We Happy Few,3.15,360,2257,2018-08-09,64.0,True,True,True,3.15,2257
+Despotism 3k,3.34,87,2206,2018-11-08,,True,True,False,3.34,2206
+Book of Demons,3.55,152,2201,2018-12-13,72.0,True,True,True,3.55,2201
+Super Smash Bros. Ultimate,4.37,1069,2199,2018-12-07,93.0,True,True,True,4.37,2199
+Kingdom: Two Crowns,4.13,187,2190,2018-12-10,85.0,True,True,True,4.13,2190
+I’m not a Monster,2.63,144,2147,2018-09-27,,True,True,False,2.63,2147
+The Crew 2,3.18,324,2136,2018-06-29,66.0,True,True,True,3.18,2136
+For The King,3.52,235,2132,2018-04-19,78.0,True,True,True,3.52,2132
+FINAL FANTASY XV WINDOWS EDITION,3.9,303,2125,2018-03-06,81.0,True,True,True,3.9,2125
+Guacamelee! 2,4.1,253,2111,2018-08-20,85.0,True,True,True,4.1,2111
+Bloons TD 6,3.93,199,2074,2018-06-14,,True,True,False,3.93,2074
+Pillars of Eternity II: Deadfire,4.11,300,2051,2018-05-07,82.0,True,True,True,4.11,2051
+Minit,3.77,299,2042,2018-04-02,78.0,True,True,True,3.77,2042
+Donut County,3.96,499,2042,2018-08-27,80.0,True,True,True,3.96,2042
+Shenmue I & II,3.46,110,2035,2018-08-21,74.0,True,True,True,3.46,2035
+Do Not Feed the Monkeys,3.88,223,1966,2018-10-22,77.0,True,True,True,3.88,1966
+SYNTHETIK,3.6,117,1924,2018-03-15,,True,True,False,3.6,1924
+Darwin Project - Open Beta,2.88,198,1920,2018-03-09,,True,True,False,2.88,1920
+Divinity: Original Sin 2 - Definitive Edition,4.51,584,1917,2018-08-31,94.0,True,True,True,4.51,1917
+Iconoclasts,3.75,378,1916,2018-01-23,86.0,True,True,True,3.75,1916
+Ghost of a Tale,3.85,163,1903,2018-03-13,77.0,True,True,True,3.85,1903
+Onrush,3.05,459,1885,2018-06-05,,True,True,False,3.05,1885
+This Is the Police 2,3.85,220,1881,2018-07-31,64.0,True,True,True,3.85,1881
+GRIP: Combat Racing,2.99,147,1881,2018-11-05,68.0,True,True,True,2.99,1881
+We Were Here Too,3.83,213,1875,2018-02-02,70.0,True,True,True,3.83,1875
+The Walking Dead: The Final Season,4.18,448,1864,2018-08-13,78.0,True,True,True,4.18,1864
+BATTLETECH,3.57,158,1789,2018-04-23,78.0,True,True,True,3.57,1789
+Phantom Doctrine,3.26,102,1787,2018-08-13,71.0,True,True,True,3.26,1787
+Tentacle Locker,4.33,578,1768,2018-08-08,,True,True,False,4.33,1768
+Strange Brigade,3.27,159,1757,2018-08-28,72.0,True,True,True,3.27,1757
+Kabounce,1.99,101,1748,2018-05-29,,True,True,False,1.99,1748
+11-11 Memories Retold,3.24,98,1719,2018-11-09,76.0,True,True,True,3.24,1719
+Wandersong,3.67,94,1715,2018-09-26,,True,True,False,3.67,1715
+Beholder 2,3.66,153,1700,2018-12-04,76.0,True,True,True,3.66,1700
+Iratus: Lord of the Dead,3.17,95,1683,2018-07-05,78.0,True,True,True,3.17,1683
+Prey: Typhon Hunter,3.08,123,1680,2018-12-11,,True,True,False,3.08,1680
+Barro,1.8,55,1667,2018-03-28,,True,True,False,1.8,1667
+Cultist Simulator,3.45,171,1653,2018-05-31,68.0,True,True,True,3.45,1653
+Shadow of the Colossus  (2018),4.32,589,1651,2018-02-06,91.0,True,True,True,4.32,1651
+Q.U.B.E. 2,3.59,168,1650,2018-03-13,75.0,True,True,True,3.59,1650
+Octopath Traveler,3.92,308,1639,2018-07-13,82.0,True,True,True,3.92,1639
+LEGO DC Super-Villains,3.54,146,1634,2018-10-15,74.0,True,True,True,3.54,1634
+Crying Suns,3.6,58,1630,2018-09-14,,True,True,False,3.6,1630
+Valkyria Chronicles 4,3.94,103,1616,2018-03-21,83.0,True,True,True,3.94,1616
+FAR: Lone Sails,4.19,319,1601,2018-05-16,84.0,True,True,True,4.19,1601
+Lovecraft's Untold Stories,3.26,36,1599,2018-06-21,,True,True,False,3.26,1599
+Shadows: Awakening,3.16,74,1571,2018-08-31,73.0,True,True,True,3.16,1571
+Project Warlock,3.77,96,1555,2018-10-17,,True,True,False,3.77,1555
+NARUTO TO BORUTO: SHINOBI STRIKER,3.05,108,1535,2018-08-30,62.0,True,True,True,3.05,1535
+"Warhammer 40,000: Mechanicus",3.47,95,1535,2018-11-15,74.0,True,True,True,3.47,1535
+The Red Strings Club,4.2,292,1518,2018-01-21,80.0,True,True,True,4.2,1518
+DUSK,4.31,223,1517,2018-11-09,,True,True,False,4.31,1517
+Laser League,2.79,136,1515,2018-02-08,,True,True,False,2.79,1515
+State of Mind,3.42,76,1504,2018-08-15,68.0,True,True,True,3.42,1504
+Transpose,2.17,42,1503,2018-11-06,,True,True,False,2.17,1503
+Pummel Party,3.91,171,1503,2018-09-20,,True,True,False,3.91,1503
+Muse Dash,3.93,134,1501,2018-06-14,73.0,True,True,True,3.93,1501
+Dandara,3.32,117,1483,2018-02-06,75.0,True,True,True,3.32,1483
+Iris and the Giant,3.5,32,1472,2018-11-05,,True,True,False,3.5,1472
+Monster Prom,3.87,143,1470,2018-04-26,73.0,True,True,True,3.87,1470
+Ancestors,3.25,64,1467,2018-05-22,,True,True,False,3.25,1467
+Kenshi,4.17,178,1465,2018-12-06,75.0,True,True,True,4.17,1465
+EA SPORTS UFC 3,3.58,317,1461,2018-02-02,76.0,True,True,True,3.58,1461
+Friday the 13th: Killer Puzzle,3.11,114,1458,2018-01-20,78.0,True,True,True,3.11,1458
+Death's Gambit,3.49,90,1453,2018-08-13,72.0,True,True,True,3.49,1453
+Chasm,3.56,80,1432,2018-07-30,,True,True,False,3.56,1432
+Evergarden,2.62,29,1400,2018-08-16,,True,True,False,2.62,1400
+Farming Simulator 19,3.1,198,1393,2018-11-19,,True,True,False,3.1,1393
+Insurgency: Sandstorm,3.95,195,1371,2018-12-12,80.0,True,True,True,3.95,1371
+Odysseus Kosmos - Episode 1,2.24,66,1360,2018-01-12,,True,True,False,2.24,1360
+The Cycle: Frontier,2.83,84,1360,2018-08-09,,True,True,False,2.83,1360
+Prismata,2.28,75,1324,2018-03-08,,True,True,False,2.28,1324
+Railway Empire,3.71,74,1305,2018-01-25,76.0,True,True,True,3.71,1305
+Rise of Industry,3.09,64,1293,2018-02-09,62.0,True,True,True,3.09,1293
+The Banner Saga 3,4.23,227,1279,2018-07-24,83.0,True,True,True,4.23,1279
+The Gardens Between,3.83,224,1276,2018-09-20,79.0,True,True,True,3.83,1276
+Deep Sky Derelicts,3.14,62,1274,2018-09-26,,True,True,False,3.14,1274
+The Hex,4.07,86,1232,2018-10-16,,True,True,False,4.07,1232
+"The Haunted Island, a Frog Detective Game",3.73,78,1221,2018-11-22,,True,True,False,3.73,1221
+Artifact,2.82,162,1206,2018-11-28,76.0,True,True,True,2.82,1206
+The Swords of Ditto,3.41,105,1204,2018-04-24,74.0,True,True,True,3.41,1204
+SoulWorker - Anime Action MMO,2.63,132,1198,2018-02-26,,True,True,False,2.63,1198
+Where the Water Tastes Like Wine,3.36,55,1189,2018-02-28,,True,True,False,3.36,1189
+Dead In Vinland,3.9,40,1188,2018-04-12,74.0,True,True,True,3.9,1188
+Lethal League Blaze,3.97,69,1188,2018-10-24,82.0,True,True,True,3.97,1188
+Orwell: Ignorance is Strength,3.9,80,1178,2018-02-21,74.0,True,True,True,3.9,1178
+Sword Legacy Omen,2.43,27,1173,2018-08-12,,True,True,False,2.43,1173
+One Step From Eden,3.74,52,1171,2018-09-04,,True,True,False,3.74,1171
+Simple Story - Alex,2.06,35,1165,2018-03-22,,True,True,False,2.06,1165
+Fell Seal: Arbiter's Mark,3.39,35,1148,2018-08-16,,True,True,False,3.39,1148
+The Adventure Pals,3.42,42,1148,2018-04-02,77.0,True,True,True,3.42,1148
+Full Metal Furies,3.44,63,1138,2018-01-17,,True,True,False,3.44,1138
+Tales of the Neon Sea,3.03,28,1136,2018-11-23,,True,True,False,3.03,1136
+FRAMED Collection,3.87,46,1119,2018-05-17,79.0,True,True,True,3.87,1119
+Mothergunship,3.17,53,1107,2018-07-16,76.0,True,True,True,3.17,1107
+EXAPUNKS,4.2,54,1097,2018-08-09,,True,True,False,4.2,1097
+"Warhammer 40,000: Inquisitor - Martyr",3.35,112,1095,2018-06-06,67.0,True,True,True,3.35,1095
+Niffelheim,3.04,44,1094,2018-09-25,,True,True,False,3.04,1094
+Green Hell,3.79,128,1093,2018-08-29,78.0,True,True,True,3.79,1093
+The Bard's Tale Trilogy,3.31,36,1092,2018-08-13,,True,True,False,3.31,1092
+Fluffy Horde,2.24,29,1084,2018-11-07,,True,True,False,2.24,1084
+SYMMETRY,2.4,29,1083,2018-02-19,58.0,True,True,True,2.4,1083
+Retrowave,3.21,38,1082,2018-06-26,,True,True,False,3.21,1082
+Katamari Damacy REROLL,4.35,160,1061,2018-12-06,81.0,True,True,True,4.35,1061
+The Shapeshifting Detective,3.27,50,1050,2018-11-06,70.0,True,True,True,3.27,1050
+Cube Escape: Paradox,3.96,163,1048,2018-09-20,,True,True,False,3.96,1048
+60 Parsecs!,3.37,56,1044,2018-09-17,68.0,True,True,True,3.37,1044
+Russian Fishing 4,2.73,72,1028,2018-05-30,,True,True,False,2.73,1028
+Florence,4.13,294,1027,2018-02-13,86.0,True,True,True,4.13,1027
+Ashen,3.52,217,1027,2018-12-07,77.0,True,True,True,3.52,1027
+Shining Resonance Refrain,2.73,22,1011,2018-07-09,70.0,True,True,True,2.73,1011
+Not Tonight,3.79,47,1011,2018-08-16,,True,True,False,3.79,1011
+TSIOQUE,3.79,39,999,2018-11-06,,True,True,False,3.79,999
+Conqueror's Blade,2.56,55,986,2018-01-01,,True,True,False,2.56,986
+Ultimate Custom Night,3.28,102,981,2018-06-27,,True,True,False,3.28,981
+Paratopic,3.54,83,979,2018-03-15,,True,True,False,3.54,979
+A Case of Distrust,3.06,17,978,2018-02-08,77.0,True,True,True,3.06,978
+Judgment,4.35,104,973,2018-12-13,82.0,True,True,True,4.35,973
+PLANET ALPHA,3.36,62,970,2018-09-03,71.0,True,True,True,3.36,970
+Bear With Me: The Complete Collection,2.62,39,969,2018-02-08,,True,True,False,2.62,969
+Override: Mech City Brawl,2.75,23,959,2018-12-04,64.0,True,True,True,2.75,959
+World War 3,2.85,51,955,2018-10-20,,True,True,False,2.85,955
+Apex Legends,3.64,2383,11954,2019-02-04,80.0,True,True,True,3.64,11954
+Control,4.15,1971,9523,2019-08-27,84.0,True,True,True,4.15,9523
+Star Wars Jedi: Fallen Order,4.14,2216,9499,2019-11-15,80.0,True,True,True,4.14,9499
+Death Stranding,4.32,2032,9207,2019-11-08,84.0,True,True,True,4.32,9207
+Metro Exodus,4.16,1670,8269,2019-02-13,81.0,True,True,True,4.16,8269
+Sekiro: Shadows Die Twice,4.38,2046,8169,2019-03-22,90.0,True,True,True,4.38,8169
+Disco Elysium,4.39,1252,7928,2019-10-14,91.0,True,True,True,4.39,7928
+A Plague Tale: Innocence,4.15,1479,6972,2019-05-13,82.0,True,True,True,4.15,6972
+Devil May Cry 5,4.25,1513,6600,2019-03-08,88.0,True,True,True,4.25,6600
+Days Gone,3.96,1345,6501,2019-04-26,74.0,True,True,True,3.96,6501
+The Outer Worlds,3.86,1459,6282,2019-10-25,80.0,True,True,True,3.86,6282
+Borderlands 3,3.87,929,6139,2019-09-13,83.0,True,True,True,3.87,6139
+Borderlands Game of the Year Enhanced,3.79,1026,6113,2019-04-03,78.0,True,True,True,3.79,6113
+Mortal Kombat 11,3.96,1121,5670,2019-04-22,82.0,True,True,True,3.96,5670
+Minion Masters,2.3,389,5586,2019-05-24,,True,True,False,2.3,5586
+Resident Evil 2,4.5,2201,5335,2019-01-25,91.0,True,True,True,4.5,5335
+Slay the Spire,4.37,1039,5188,2019-01-22,86.0,True,True,True,4.37,5188
+Gothic Playable Teaser,2.55,245,4867,2019-12-01,,True,True,False,2.55,4867
+Outer Wilds,4.38,832,4811,2019-05-29,84.0,True,True,True,4.38,4811
+Gears 5,3.91,833,4492,2019-09-10,83.0,True,True,True,3.91,4492
+Katana ZERO,4.39,1109,4283,2019-04-17,83.0,True,True,True,4.39,4283
+Blasphemous,4.05,557,4133,2019-09-09,78.0,True,True,True,4.05,4133
+Call of Duty: Modern Warfare (2019),3.76,692,3897,2019-10-25,80.0,True,True,True,3.76,3897
+Need for Speed Heat,3.26,541,3847,2019-11-08,73.0,True,True,True,3.26,3847
+Remnant: From the Ashes,3.63,643,3654,2019-08-20,76.0,True,True,True,3.63,3654
+My Friend Pedro,3.87,733,3583,2019-06-19,76.0,True,True,True,3.87,3583
+DiRT Rally 2.0,3.57,330,3513,2019-02-26,83.0,True,True,True,3.57,3513
+The Dark Pictures Anthology: Man of Medan,3.62,742,3455,2019-08-30,71.0,True,True,True,3.62,3455
+Bloodstained: Ritual of the Night,4.01,449,3376,2019-06-18,81.0,True,True,True,4.01,3376
+Goat of Duty,2.25,119,3348,2019-07-10,,True,True,False,2.25,3348
+Children of Morta,3.9,386,3274,2019-09-03,80.0,True,True,True,3.9,3274
+Tom Clancy’s The Division 2,3.73,771,3249,2019-03-15,83.0,True,True,True,3.73,3249
+GreedFall,3.34,399,3212,2019-09-10,74.0,True,True,True,3.34,3212
+Splitgate,3.41,227,3023,2019-05-24,,True,True,False,3.41,3023
+Astroneer,3.77,502,2978,2019-02-06,73.0,True,True,True,3.77,2978
+Code Vein,3.52,354,2963,2019-09-26,72.0,True,True,True,3.52,2963
+Rage 2,3.24,707,2928,2019-05-14,71.0,True,True,True,3.24,2928
+Untitled Goose Game,4.04,700,2792,2019-09-20,80.0,True,True,True,4.04,2792
+Superliminal,4.17,488,2763,2019-11-12,77.0,True,True,True,4.17,2763
+Pathologic 2,4.08,304,2720,2019-05-22,69.0,True,True,True,4.08,2720
+My Time At Portia,3.53,279,2682,2019-01-14,73.0,True,True,True,3.53,2682
+Kingdom Hearts III,3.86,534,2670,2019-01-25,82.0,True,True,True,3.86,2670
+Far Cry New Dawn,3.36,615,2607,2019-02-15,73.0,True,True,True,3.36,2607
+Beat Saber,4.36,622,2525,2019-05-21,90.0,True,True,True,4.36,2525
+Darksiders Genesis,3.57,219,2439,2019-12-05,76.0,True,True,True,3.57,2439
+Assassin's Creed III: Remastered,3.54,403,2425,2019-03-29,71.0,True,True,True,3.54,2425
+Baba Is You,4.39,528,2416,2019-03-13,86.0,True,True,True,4.39,2416
+Wolfenstein: Youngblood,2.68,414,2406,2019-07-26,66.0,True,True,True,2.68,2406
+Trine 4: The Nightmare Prince,3.92,210,2396,2019-10-07,80.0,True,True,True,3.92,2396
+Wargroove,3.6,213,2394,2019-02-01,83.0,True,True,True,3.6,2394
+Void Bastards,3.72,330,2333,2019-05-28,78.0,True,True,True,3.72,2333
+Evoland Legendary Edition,3.48,174,2303,2019-02-07,66.0,True,True,True,3.48,2303
+Supraland,3.97,176,2294,2019-04-05,84.0,True,True,True,3.97,2294
+Age of Empires II: Definitive Edition,4.28,301,2267,2019-11-14,85.0,True,True,True,4.28,2267
+Anthem,2.67,517,2211,2019-02-22,59.0,True,True,True,2.67,2211
+MORDHAU,3.89,263,2194,2019-04-29,81.0,True,True,True,3.89,2194
+FIFA 20,3.16,470,2191,2019-09-27,68.0,True,True,True,3.16,2191
+Showdown Bandit,1.88,58,2012,2019-06-30,,True,True,False,1.88,2012
+NBA 2K20,3.06,233,2007,2019-09-05,76.0,True,True,True,3.06,2007
+The Surge 2,3.55,160,1966,2019-09-24,76.0,True,True,True,3.55,1966
+ACE COMBAT 7: SKIES UNKNOWN,3.93,283,1964,2019-01-18,79.0,True,True,True,3.93,1964
+Generation Zero (2019),2.71,133,1946,2019-03-26,49.0,True,True,True,2.71,1946
+Pikuniku,3.93,231,1914,2019-01-03,75.0,True,True,True,3.93,1914
+The Beast Inside,3.44,108,1898,2019-10-16,74.0,True,True,True,3.44,1898
+A Short Hike,4.37,448,1853,2019-07-29,84.0,True,True,True,4.37,1853
+Outward Definitive Edition,3.3,165,1832,2019-03-25,65.0,True,True,True,3.3,1832
+We Were Here Together,3.99,159,1813,2019-10-10,70.0,True,True,True,3.99,1813
+Indivisible,3.31,129,1812,2019-10-07,79.0,True,True,True,3.31,1812
+RobocraftX,2.02,53,1739,2019-05-10,,True,True,False,2.02,1739
+Dauntless,2.88,406,1694,2019-05-21,78.0,True,True,True,2.88,1694
+Yooka-Laylee and the Impossible Lair,3.46,81,1687,2019-10-07,82.0,True,True,True,3.46,1687
+World War Z (2019),3.42,358,1659,2019-04-16,70.0,True,True,True,3.42,1659
+Crash Team Racing Nitro-Fueled,4.02,332,1658,2019-06-21,82.0,True,True,True,4.02,1658
+Blair Witch,3.18,340,1646,2019-08-30,65.0,True,True,True,3.18,1646
+Planet Zoo,3.92,130,1639,2019-11-05,81.0,True,True,True,3.92,1639
+Descenders,3.43,129,1581,2019-05-07,76.0,True,True,True,3.43,1581
+Age of Wonders: Planetfall,3.45,103,1581,2019-08-05,81.0,True,True,True,3.45,1581
+The Legend of Zelda: Link's Awakening (2019),4.36,517,1570,2019-09-20,87.0,True,True,True,4.36,1570
+Between Two Castles - Digital Edition,1.64,11,1560,2019-11-15,,True,True,False,1.64,1560
+Ni no Kuni: Wrath of the White Witch Remastered,4.08,128,1560,2019-09-19,84.0,True,True,True,4.08,1560
+Hell Let Loose,3.54,91,1531,2019-06-06,77.0,True,True,True,3.54,1531
+Tropico 6,3.79,150,1527,2019-03-28,76.0,True,True,True,3.79,1527
+Erica,3.18,284,1511,2019-08-19,74.0,True,True,True,3.18,1511
+American Fugitive,3.05,77,1487,2019-05-20,66.0,True,True,True,3.05,1487
+eFootball PES 2020,3.22,202,1487,2019-09-10,82.0,True,True,True,3.22,1487
+Little Misfortune,3.95,190,1448,2019-09-17,57.0,True,True,True,3.95,1448
+F1 2019,3.64,129,1443,2019-06-28,87.0,True,True,True,3.64,1443
+ANCESTORS: The Humankind Odyssey,3.02,131,1443,2019-08-26,69.0,True,True,True,3.02,1443
+Project Winter,3.4,72,1419,2019-02-07,75.0,True,True,True,3.4,1419
+Observation,3.87,268,1416,2019-05-21,77.0,True,True,True,3.87,1416
+Jump Force,2.54,188,1381,2019-02-15,59.0,True,True,True,2.54,1381
+WARSAW,2.94,32,1370,2019-10-01,,True,True,False,2.94,1370
+Valfaris,3.57,59,1359,2019-10-10,81.0,True,True,True,3.57,1359
+Shenmue III,2.74,63,1345,2019-11-19,68.0,True,True,True,2.74,1345
+Trüberbrook – A Nerd Saves the World,3.44,55,1344,2019-03-11,,True,True,False,3.44,1344
+Daymare: 1998,2.65,52,1338,2019-09-16,61.0,True,True,True,2.65,1338
+Tom Clancy's Ghost Recon Breakpoint,2.91,215,1328,2019-10-04,59.0,True,True,True,2.91,1328
+Inmost,4.12,174,1328,2019-10-11,77.0,True,True,True,4.12,1328
+Warhammer: Chaosbane,3.03,87,1323,2019-05-31,70.0,True,True,True,3.03,1323
+Fire Emblem: Three Houses,4.36,447,1304,2019-07-26,89.0,True,True,True,4.36,1304
+Plants vs. Zombies: Battle for Neighborville,3.05,131,1303,2019-10-18,76.0,True,True,True,3.05,1303
+Concrete Genie,3.82,181,1301,2019-10-08,75.0,True,True,True,3.82,1301
+The Sinking City,3.38,249,1295,2019-06-24,69.0,True,True,True,3.38,1295
+Imperator: Rome,3.23,78,1284,2019-04-24,76.0,True,True,True,3.23,1284
+ISLANDERS,3.77,186,1277,2019-04-04,82.0,True,True,True,3.77,1277
+DESOLATE,2.89,49,1260,2019-01-17,,True,True,False,2.89,1260
+Automachef,2.83,48,1255,2019-07-23,70.0,True,True,True,2.83,1255
+Sniper Ghost Warrior Contracts,3.31,84,1234,2019-11-21,57.0,True,True,True,3.31,1234
+The Textorcist: The Story of Ray Bibbia,3.57,29,1222,2019-02-13,,True,True,False,3.57,1222
+Yuppie Psycho,4.3,110,1218,2019-04-25,78.0,True,True,True,4.3,1218
+Police Stories,3.5,73,1202,2019-09-18,71.0,True,True,True,3.5,1202
+KARDS,3.0,43,1202,2019-04-12,,True,True,False,3.0,1202
+Pokémon Sword and Shield,3.71,477,1200,2019-11-15,80.0,True,True,True,3.71,1200
+Song of Horror,3.47,33,1197,2019-10-30,73.0,True,True,True,3.47,1197
+God’s Trigger,3.09,54,1197,2019-04-18,75.0,True,True,True,3.09,1197
+Tales of Vesperia: Definitive Edition,3.59,154,1195,2019-01-10,81.0,True,True,True,3.59,1195
+DEAD OR ALIVE 6,3.45,126,1189,2019-03-01,74.0,True,True,True,3.45,1189
+KurtzPel,2.66,125,1186,2019-04-30,,True,True,False,2.66,1186
+Tannenberg,3.49,62,1182,2019-02-13,,True,True,False,3.49,1182
+Crackdown 3,2.86,269,1171,2019-02-15,57.0,True,True,True,2.86,1171
+Vampire: The Masquerade - Coteries of New York,3.17,58,1168,2019-12-04,70.0,True,True,True,3.17,1168
+Little Big Workshop,3.41,63,1162,2019-10-16,70.0,True,True,True,3.41,1162
+Sigma Theory: Global Cold War,2.81,31,1161,2019-04-17,,True,True,False,2.81,1161
+Autonauts,3.26,31,1153,2019-10-16,,True,True,False,3.26,1153
+Luigi's Mansion 3,4.27,374,1149,2019-10-31,86.0,True,True,True,4.27,1149
+Dicey Dungeons,4.07,161,1143,2019-08-12,89.0,True,True,True,4.07,1143
+Sayonara Wild Hearts,4.4,297,1143,2019-09-19,85.0,True,True,True,4.4,1143
+Team Sonic Racing,3.27,111,1117,2019-05-21,72.0,True,True,True,3.27,1117
+Garfield Kart - Furious Racing,2.93,43,1113,2019-11-05,,True,True,False,2.93,1113
+Stygian: Reign of the Old Ones,3.73,64,1106,2019-09-25,,True,True,False,3.73,1106
+The Bard's Tale IV: Director's Cut,3.14,49,1097,2019-08-27,,True,True,False,3.14,1097
+Felix The Reaper,2.97,60,1092,2019-10-16,,True,True,False,2.97,1092
+Heaven's Vault,3.97,34,1091,2019-04-15,75.0,True,True,True,3.97,1091
+The Occupation,3.05,37,1084,2019-03-04,67.0,True,True,True,3.05,1084
+Sea of Solitude,3.27,151,1077,2019-07-05,68.0,True,True,True,3.27,1077
+Genesis Alpha One,2.4,35,1073,2019-01-29,67.0,True,True,True,2.4,1073
+Gang of Four,1.72,29,1070,2019-11-27,,True,True,False,1.72,1070
+Deliver Us the Moon,3.63,185,1068,2019-10-09,73.0,True,True,True,3.63,1068
+Lonely Mountains: Downhill,3.63,166,1066,2019-10-23,81.0,True,True,True,3.63,1066
+AI: The Somnium Files,4.25,132,1063,2019-09-17,82.0,True,True,True,4.25,1063
+Legend of Keepers: Prologue,2.45,44,1063,2019-09-26,,True,True,False,2.45,1063
+Pathway,3.31,50,1062,2019-04-11,68.0,True,True,True,3.31,1062
+Ape Out,3.99,301,1056,2019-02-28,84.0,True,True,True,3.99,1056
+Secret Neighbor,3.16,36,1034,2019-10-23,,True,True,False,3.16,1034
+Night Call,3.31,50,1030,2019-07-16,66.0,True,True,True,3.31,1030
+The Stillness of the Wind,3.38,39,1029,2019-02-06,,True,True,False,3.38,1029
+Destiny or Fate,1.92,39,1028,2019-09-05,,True,True,False,1.92,1028
+Whispers of a Machine,3.68,34,1026,2019-04-16,77.0,True,True,True,3.68,1026
+The Walking Dead: The Telltale Definitive Series,4.36,155,1020,2019-09-10,84.0,True,True,True,4.36,1020
+Smile For Me,3.84,25,1007,2019-05-31,,True,True,False,3.84,1007
+Still There,3.44,27,992,2019-11-19,,True,True,False,3.44,992
+Cat Quest II,3.94,113,987,2019-09-23,77.0,True,True,True,3.94,987
+Rebel Cops,3.69,52,985,2019-09-17,,True,True,False,3.69,985
+River City Girls,4.02,165,984,2019-09-04,,True,True,False,4.02,984
+Train Valley 2,3.29,38,983,2019-04-14,,True,True,False,3.29,983
+Catherine: Full Body,4.14,170,982,2019-09-03,80.0,True,True,True,4.14,982
+Frog Detective 2: The Case of the Invisible Wizard,3.97,39,977,2019-12-09,,True,True,False,3.97,977
+Eliza,3.98,46,975,2019-08-11,84.0,True,True,True,3.98,975
+Telling Lies,3.56,168,970,2019-08-23,82.0,True,True,True,3.56,970
+Dark Future: Blood Red States,1.46,13,969,2019-05-15,,True,True,False,1.46,969
+Minoria,3.49,35,968,2019-08-27,73.0,True,True,True,3.49,968
+John Wick Hex,3.13,47,967,2019-10-08,74.0,True,True,True,3.13,967
+Astral Chain,4.25,278,964,2019-08-30,87.0,True,True,True,4.25,964
+Townsmen - A Kingdom Rebuilt,2.82,22,963,2019-02-25,66.0,True,True,True,2.82,963
+Reventure,3.88,63,956,2019-06-04,84.0,True,True,True,3.88,956
+Staxel,2.82,45,949,2019-04-11,,True,True,False,2.82,949
+Vane,3.32,31,941,2019-01-15,56.0,True,True,True,3.32,941
+Pesterquest,2.17,12,940,2019-09-03,,True,True,False,2.17,940
+Total War: THREE KINGDOMS,3.96,163,940,2019-05-23,85.0,True,True,True,3.96,940
+CryoFall,2.88,25,939,2019-04-03,,True,True,False,2.88,939
+Close To The Sun,3.46,78,935,2019-05-02,66.0,True,True,True,3.46,935
+EA Play Hub,1.8,50,934,2019-07-24,,True,True,False,1.8,934
+Yakuza 4 Remastered,4.08,69,931,2019-10-29,78.0,True,True,True,4.08,931
+Final Fantasy VIII Remastered,4.16,104,918,2019-09-03,79.0,True,True,True,4.16,918
+198X,3.51,48,915,2019-06-19,67.0,True,True,True,3.51,915
+S.W.I.N.E. HD Remaster,2.92,12,913,2019-05-22,,True,True,False,2.92,913
+Blacksad: Under the Skin,3.74,142,903,2019-11-05,63.0,True,True,True,3.74,903
+Mable & The Wood,2.04,23,903,2019-09-18,,True,True,False,2.04,903
+Amid Evil,4.01,71,901,2019-06-20,85.0,True,True,True,4.01,901
+DISSIDIA FINAL FANTASY NT Free Edition,2.61,66,900,2019-03-12,,True,True,False,2.61,900
+Ion Fury,4.03,108,887,2019-08-15,75.0,True,True,True,4.03,887
+WRATH: Aeon of Ruin,3.59,22,884,2019-11-22,,True,True,False,3.59,884
+Swag and Sorcery,3.5,52,876,2019-05-08,,True,True,False,3.5,876
+Afterparty,3.65,97,871,2019-10-29,74.0,True,True,True,3.65,871
+Gato Roboto,3.96,107,869,2019-05-29,,True,True,False,3.96,869
+Legend of Keepers: Career of a Dungeon Manager,3.5,25,868,2019-01-08,,True,True,False,3.5,868
+Path of Giants,3.2,20,866,2019-08-29,,True,True,False,3.2,866
+Kind Words (lo fi chill beats to write to),4.26,69,865,2019-09-12,,True,True,False,4.26,865
+60 Seconds! Reatomized,3.6,70,862,2019-07-25,,True,True,False,3.6,862
+Himno,3.4,39,857,2019-04-12,,True,True,False,3.4,857
+Fun with Ragdolls: The Game,1.87,15,857,2019-08-31,,True,True,False,1.87,857
+Deadly Days,2.62,8,855,2019-09-18,,True,True,False,2.62,855
+Bee Simulator,2.25,19,853,2019-11-12,58.0,True,True,True,2.25,853
+Blazing Chrome,3.77,111,851,2019-07-11,,True,True,False,3.77,851
+ToeJam & Earl: Back in the Groove,3.6,19,847,2019-03-01,72.0,True,True,True,3.6,847
+Blood: Fresh Supply,4.2,98,843,2019-05-08,77.0,True,True,True,4.2,843
+Atomicrops,3.36,20,842,2019-09-05,73.0,True,True,True,3.36,842
+Dragon Quest Builders 2,4.02,104,841,2019-07-12,85.0,True,True,True,4.02,841
+missed messages.,3.72,94,841,2019-05-01,,True,True,False,3.72,841
+Boreal Blade,0.0,5,838,2019-08-28,,True,True,False,0.0,838
+Cyberpunk 2077,4.21,2821,13551,2020-12-10,73.0,True,True,True,4.21,13551
+Hades,4.44,1974,8875,2020-09-17,93.0,True,True,True,4.44,8875
+Fall Guys: Ultimate Knockout,3.73,1324,8870,2020-08-04,80.0,True,True,True,3.73,8870
+DOOM Eternal,4.38,1374,7846,2020-03-20,86.0,True,True,True,4.38,7846
+The Last of Us Part II,4.42,1872,7170,2020-06-19,93.0,True,True,True,4.42,7170
+Ori and the Will of the Wisps,4.43,1255,6335,2020-03-10,91.0,True,True,True,4.43,6335
+Black Mesa,4.34,1054,6008,2020-03-06,86.0,True,True,True,4.34,6008
+Ghost of Tsushima,4.41,1054,5849,2020-07-17,83.0,True,True,True,4.41,5849
+Resident Evil 3,4.04,1020,5213,2020-04-02,80.0,True,True,True,4.04,5213
+Mafia II: Definitive Edition,3.88,599,5204,2020-05-19,65.0,True,True,True,3.88,5204
+Mafia: Definitive Edition,4.24,1054,5175,2020-09-25,78.0,True,True,True,4.24,5175
+Deep Rock Galactic,4.11,662,5163,2020-05-13,84.0,True,True,True,4.11,5163
+Final Fantasy VII,4.38,792,5152,2020-04-10,87.0,True,True,True,4.38,5152
+Tell Me Why,3.17,292,4514,2020-08-27,76.0,True,True,True,3.17,4514
+Assassin's Creed Valhalla,3.69,753,4375,2020-11-10,82.0,True,True,True,3.69,4375
+Ghostrunner,3.85,620,4360,2020-10-27,,True,True,False,3.85,4360
+Dota Underlords,3.02,770,4254,2020-02-25,,True,True,False,3.02,4254
+Marvel's Spider-Man: Miles Morales,4.27,889,4224,2020-11-12,86.0,True,True,True,4.27,4224
+Risk of Rain 2,4.15,676,4193,2020-08-11,82.0,True,True,True,4.15,4193
+Genshin Impact,3.56,1068,3956,2020-09-28,83.0,True,True,True,3.56,3956
+Superhot: Mind Control Delete,3.86,379,3865,2020-07-15,79.0,True,True,True,3.86,3865
+Phasmophobia,3.87,425,3576,2020-09-18,,True,True,False,3.87,3576
+Factorio,4.37,773,3551,2020-08-14,83.0,True,True,True,4.37,3551
+Helltaker,3.97,541,3336,2020-05-11,,True,True,False,3.97,3336
+Half-Life: Alyx,4.38,477,3129,2020-03-23,93.0,True,True,True,4.38,3129
+Persona 5 Royal,4.75,498,3073,2020-03-31,94.0,True,True,True,4.75,3073
+Marvel’s Avengers,2.68,430,2980,2020-09-04,68.0,True,True,True,2.68,2980
+Crusader Kings III,4.31,444,2801,2020-09-01,86.0,True,True,True,4.31,2801
+Yakuza: Like a Dragon,4.36,352,2727,2020-01-16,85.0,True,True,True,4.36,2727
+Spiritfarer,4.12,364,2726,2020-08-18,84.0,True,True,True,4.12,2726
+DiRT 5,3.24,240,2689,2020-11-05,79.0,True,True,True,3.24,2689
+Wasteland 3,4.06,294,2671,2020-08-28,83.0,True,True,True,4.06,2671
+Streets of Rage 4,4.07,486,2634,2020-04-30,84.0,True,True,True,4.07,2634
+Star Wars: Squadrons,3.17,269,2588,2020-10-02,79.0,True,True,True,3.17,2588
+Watch Dogs: Legion,3.11,398,2568,2020-10-29,72.0,True,True,True,3.11,2568
+Kentucky Route Zero,3.99,307,2532,2020-01-28,81.0,True,True,True,3.99,2532
+Call of Duty: Black Ops Cold War,3.8,357,2527,2020-11-13,76.0,True,True,True,3.8,2527
+Maneater,3.44,254,2526,2020-05-22,68.0,True,True,True,3.44,2526
+Astro's Playroom,4.35,559,2507,2020-11-12,83.0,True,True,True,4.35,2507
+Mafia III: Definitive Edition,3.15,382,2497,2020-05-19,,True,True,False,3.15,2497
+Resident Evil: Resistance,2.18,144,2440,2020-04-03,64.0,True,True,True,2.18,2440
+Immortals: Fenyx Rising,3.74,378,2305,2020-12-03,78.0,True,True,True,3.74,2305
+The Dark Pictures Anthology: Little Hope,3.78,437,2216,2020-10-30,70.0,True,True,True,3.78,2216
+Hellpoint,2.76,51,2213,2020-07-30,61.0,True,True,True,2.76,2213
+Moving Out,3.64,195,2184,2020-04-28,77.0,True,True,True,3.64,2184
+Carrion,3.86,438,2129,2020-07-23,76.0,True,True,True,3.86,2129
+Noita,4.03,288,2108,2020-10-15,76.0,True,True,True,4.03,2108
+Amnesia: Rebirth,3.38,174,2105,2020-10-20,78.0,True,True,True,3.38,2105
+Desperados III,4.33,212,2086,2020-06-15,84.0,True,True,True,4.33,2086
+XCOM: Chimera Squad,3.48,111,2066,2020-04-23,77.0,True,True,True,3.48,2066
+Streets of Kamurocho,2.6,68,2042,2020-10-17,,True,True,False,2.6,2042
+SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated,3.69,184,2013,2020-06-23,68.0,True,True,True,3.69,2013
+Journey to the Savage Planet,3.66,208,2011,2020-01-28,76.0,True,True,True,3.66,2011
+Microsoft Flight Simulator 2020,4.15,268,1999,2020-08-18,90.0,True,True,True,4.15,1999
+Tetris Effect: Connected,4.22,256,1968,2020-11-10,90.0,True,True,True,4.22,1968
+Warhammer Underworlds: Online,2.34,47,1914,2020-01-29,,True,True,False,2.34,1914
+Call of the Sea,3.7,223,1877,2020-12-08,77.0,True,True,True,3.7,1877
+Mortal Shell,3.24,226,1850,2020-08-18,75.0,True,True,True,3.24,1850
+Animal Crossing: New Horizons,4.31,752,1816,2020-03-20,90.0,True,True,True,4.31,1816
+Tony Hawk's Pro Skater 1 + 2,4.29,232,1814,2020-09-04,88.0,True,True,True,4.29,1814
+Going Under,3.73,72,1790,2020-09-24,78.0,True,True,True,3.73,1790
+Worms Rumble,2.52,106,1786,2020-12-01,67.0,True,True,True,2.52,1786
+Monster Train,4.07,123,1778,2020-05-20,86.0,True,True,True,4.07,1778
+Armor of Heroes,1.7,43,1765,2020-10-15,,True,True,False,1.7,1765
+DOOM 64 (2020),3.65,127,1718,2020-03-19,76.0,True,True,True,3.65,1718
+Rogue Company,3.16,158,1717,2020-09-30,75.0,True,True,True,3.16,1717
+Townscaper,3.71,199,1713,2020-06-30,,True,True,False,3.71,1713
+Crash Bandicoot 4: It’s About Time,3.92,198,1700,2020-10-01,84.0,True,True,True,3.92,1700
+Neon Abyss,3.42,138,1697,2020-07-13,78.0,True,True,True,3.42,1697
+SnowRunner,3.99,271,1694,2020-04-28,80.0,True,True,True,3.99,1694
+Control Ultimate Edition,4.32,333,1681,2020-08-27,82.0,True,True,True,4.32,1681
+Gears Tactics,3.87,214,1669,2020-04-28,81.0,True,True,True,3.87,1669
+FIFA 21,3.21,264,1655,2020-10-06,67.0,True,True,True,3.21,1655
+Endless Zone,2.0,44,1648,2020-10-16,,True,True,False,2.0,1648
+West of Dead,3.08,63,1645,2020-06-08,68.0,True,True,True,3.08,1645
+Hotshot Racing,3.27,94,1634,2020-09-10,75.0,True,True,True,3.27,1634
+Iron Harvest,3.32,112,1633,2020-08-31,75.0,True,True,True,3.32,1633
+Squad,3.86,109,1627,2020-09-23,,True,True,False,3.86,1627
+Call of Duty: Modern Warfare 2 Campaign Remastered,3.97,283,1626,2020-03-31,71.0,True,True,True,3.97,1626
+Unrailed!,3.59,104,1621,2020-09-23,73.0,True,True,True,3.59,1621
+Spellbreak,2.92,162,1602,2020-09-03,75.0,True,True,True,2.92,1602
+Delores: A Thimbleweed Park Mini-Adventure,2.45,48,1594,2020-05-08,,True,True,False,2.45,1594
+F1 2020,3.58,113,1551,2020-07-10,88.0,True,True,True,3.58,1551
+Cloudpunk,3.71,133,1543,2020-04-22,65.0,True,True,True,3.71,1543
+Persona 5 Strikers,3.91,163,1482,2020-02-20,80.0,True,True,True,3.91,1482
+Kingdoms of Amalur: Re-Reckoning,3.41,101,1481,2020-09-08,72.0,True,True,True,3.41,1481
+Golden Axed: A Cancelled Prototype,2.48,43,1455,2020-10-18,,True,True,False,2.48,1455
+Devolverland Expo,3.38,115,1439,2020-07-11,,True,True,False,3.38,1439
+Ghostrunner Demo,3.55,82,1433,2020-10-22,,True,True,False,3.55,1433
+The Suicide of Rachel Foster,3.3,126,1415,2020-02-18,63.0,True,True,True,3.3,1415
+"Yes, Your Grace",3.82,148,1402,2020-03-06,,True,True,False,3.82,1402
+BPM: BULLETS PER MINUTE,3.68,132,1394,2020-09-15,77.0,True,True,True,3.68,1394
+The Coma 2: Vicious Sisters,3.43,44,1379,2020-01-27,,True,True,False,3.43,1379
+Age of Empires III: Definitive Edition,3.71,103,1374,2020-10-15,75.0,True,True,True,3.71,1374
+PGA TOUR 2K21,3.45,43,1371,2020-08-21,75.0,True,True,True,3.45,1371
+WWE 2K Battlegrounds,2.47,71,1366,2020-09-18,58.0,True,True,True,2.47,1366
+Neighbours back From Hell,4.19,219,1364,2020-10-08,66.0,True,True,True,4.19,1364
+Gunfire Reborn,3.92,122,1358,2020-05-22,,True,True,False,3.92,1358
+Nioh 2,3.98,147,1346,2020-03-13,85.0,True,True,True,3.98,1346
+Ring of Pain,3.72,59,1340,2020-10-14,,True,True,False,3.72,1340
+Red Wings: Aces of the Sky,2.17,28,1318,2020-05-21,65.0,True,True,True,2.17,1318
+Lightmatter,3.36,46,1315,2020-01-15,73.0,True,True,True,3.36,1315
+Iron Danger,2.58,29,1310,2020-03-24,73.0,True,True,True,2.58,1310
+Paradise Killer,3.86,56,1310,2020-09-03,84.0,True,True,True,3.86,1310
+Serious Sam 4,3.24,208,1309,2020-09-24,63.0,True,True,True,3.24,1309
+112 Operator,3.65,49,1306,2020-10-08,,True,True,False,3.65,1306
+Carto,3.9,100,1297,2020-10-26,75.0,True,True,True,3.9,1297
+Bugsnax,3.54,172,1274,2020-11-12,76.0,True,True,True,3.54,1274
+Need for Speed: Hot Pursuit Remastered,3.62,129,1268,2020-11-06,75.0,True,True,True,3.62,1268
+Dragon Ball Z: Kakarot,3.74,152,1264,2020-01-16,74.0,True,True,True,3.74,1264
+Trailmakers,3.34,71,1258,2020-05-21,,True,True,False,3.34,1258
+Spelunky 2,3.87,141,1255,2020-09-15,90.0,True,True,True,3.87,1255
+Estranged: The Departure,2.63,80,1233,2020-05-22,,True,True,False,2.63,1233
+Bright Memory,3.54,175,1232,2020-03-25,55.0,True,True,True,3.54,1232
+Peaky Blinders: Mastermind,2.78,31,1228,2020-06-01,66.0,True,True,True,2.78,1228
+Kill It With Fire,3.37,48,1211,2020-08-13,,True,True,False,3.37,1211
+OMORI,4.37,157,1208,2020-12-25,,True,True,False,4.37,1208
+BEAUTIFUL DESOLATION,3.26,46,1195,2020-02-26,70.0,True,True,True,3.26,1195
+Pumpkin Jack,3.66,51,1192,2020-10-23,76.0,True,True,True,3.66,1192
+Monster Sanctuary,3.6,47,1179,2020-12-08,79.0,True,True,True,3.6,1179
+"Cook, Serve, Delicious! 3?!",3.48,31,1153,2020-01-28,,True,True,False,3.48,1153
+Crysis Remastered,3.31,141,1150,2020-09-18,63.0,True,True,True,3.31,1150
+Mass Effect: Andromeda Deluxe Edition,3.45,81,1146,2020-06-11,,True,True,False,3.45,1146
+Popup Dungeon,2.75,7,1137,2020-08-12,,True,True,False,2.75,1137
+Partisans 1941,3.43,52,1129,2020-10-14,74.0,True,True,True,3.43,1129
+Unfortunate Spacemen,2.79,52,1094,2020-06-12,,True,True,False,2.79,1094
+Relicta,2.77,30,1090,2020-08-03,74.0,True,True,True,2.77,1090
+The Henry Stickmin Collection,4.2,62,1089,2020-12-11,,True,True,False,4.2,1089
+Drake Hollow,3.45,53,1078,2020-09-30,75.0,True,True,True,3.45,1078
+Raji: An Ancient Epic,3.18,57,1063,2020-08-18,70.0,True,True,True,3.18,1063
+Coffee Talk,3.81,136,1062,2020-01-28,74.0,True,True,True,3.81,1062
+The Pedestrian,4.06,150,1061,2020-01-29,82.0,True,True,True,4.06,1061
+VirtuaVerse,2.95,20,1055,2020-05-11,75.0,True,True,True,2.95,1055
+The Survivalists,3.21,46,1053,2020-10-09,72.0,True,True,True,3.21,1053
+Morkredd,3.02,41,1047,2020-12-10,,True,True,False,3.02,1047
+Röki,4.19,56,1044,2020-07-23,79.0,True,True,True,4.19,1044
+art of rally,3.43,124,1041,2020-09-23,78.0,True,True,True,3.43,1041
+Sludge Life,3.67,81,1036,2020-04-08,73.0,True,True,True,3.67,1036
+Through the Darkest of Times,3.11,34,1035,2020-01-29,,True,True,False,3.11,1035
+Post Void,3.79,72,1025,2020-08-06,,True,True,False,3.79,1025
+Hammerting,1.74,19,1022,2020-10-26,,True,True,False,1.74,1022
+In Other Waters,3.53,32,1018,2020-04-02,,True,True,False,3.53,1018
+Ultrakill,4.4,119,1016,2020-09-02,,True,True,False,4.4,1016
+Wildfire,3.12,23,1011,2020-05-26,76.0,True,True,True,3.12,1011
+Command & Conquer Remastered Collection,4.19,88,1006,2020-06-05,82.0,True,True,True,4.19,1006
+Out of Space,3.43,30,1004,2020-02-26,,True,True,False,3.43,1004
+shapez.io,3.81,25,996,2020-05-19,,True,True,False,3.81,996
+Saints Row: The Third Remastered,3.71,134,995,2020-05-22,73.0,True,True,True,3.71,995
+The Walking Dead: Saints & Sinners,3.81,70,993,2020-01-23,80.0,True,True,True,3.81,993
+ELDERBORN,3.69,32,987,2020-01-29,,True,True,False,3.69,987
+Darksburg,2.88,25,983,2020-09-23,61.0,True,True,True,2.88,983
+Vampire: The Masquerade - Shadows of New York,3.27,32,979,2020-09-10,,True,True,False,3.27,979
+Project Wingman,3.89,27,977,2020-11-30,75.0,True,True,True,3.89,977
+Wingspan,3.65,41,972,2020-09-16,81.0,True,True,True,3.65,972
+Temtem,3.54,79,968,2020-01-21,77.0,True,True,True,3.54,968
+Wolcen: Lords of Mayhem,3.36,123,962,2020-02-13,60.0,True,True,True,3.36,962
+MO:Astray,3.84,32,958,2020-11-12,,True,True,False,3.84,958
+Embr,2.8,19,950,2020-05-21,61.0,True,True,True,2.8,950
+Cyber Hook,3.63,18,946,2020-09-23,,True,True,False,3.63,946
+Maid of Sker,3.1,37,944,2020-07-28,64.0,True,True,True,3.1,944
+Valorant,3.52,467,943,2020-06-02,80.0,True,True,True,3.52,943
+Crown Trick,3.56,34,939,2020-10-16,80.0,True,True,True,3.56,939
+Per Aspera,3.7,31,929,2020-12-03,,True,True,False,3.7,929
+The Falconeer,2.8,58,922,2020-11-10,65.0,True,True,True,2.8,922
+Zombie Army 4: Dead War,3.36,107,920,2020-02-04,76.0,True,True,True,3.36,920
+Bless Unleashed,2.43,52,910,2020-03-12,,True,True,False,2.43,910
+Wanderlust: Transsiberian,2.28,18,908,2020-04-02,,True,True,False,2.28,908
+Evan's Remains,3.5,21,904,2020-06-10,,True,True,False,3.5,904
+Boomerang Fu,3.85,26,899,2020-08-13,,True,True,False,3.85,899
+Visage,3.39,126,899,2020-10-30,80.0,True,True,True,3.39,899
+Milk inside a bag of milk inside a bag of milk,3.98,129,898,2020-08-26,,True,True,False,3.98,898
+Rock of Ages 3: Make & Break,3.29,33,897,2020-07-21,69.0,True,True,True,3.29,897
+Samsara Room,4.02,113,895,2020-04-28,,True,True,False,4.02,895
+Super Bit Blaster XL,2.64,11,894,2020-03-16,,True,True,False,2.64,894
+Builders of Egypt: Prologue,1.97,33,886,2020-03-01,,True,True,False,1.97,886
+Calico,3.08,23,885,2020-12-14,,True,True,False,3.08,885
+Sackboy: A Big Adventure,4.12,150,885,2020-11-12,81.0,True,True,True,4.12,885
+Fae Tactics,2.95,19,883,2020-07-30,,True,True,False,2.95,883
+Werewolf: The Apocalypse — Heart of the Forest,2.47,17,883,2020-10-13,72.0,True,True,True,2.47,883
+Colt Canyon,3.18,17,883,2020-06-16,,True,True,False,3.18,883
+My L'manburg [Dream SMP fangame],4.15,171,876,2020-10-24,,True,True,False,4.15,876
+As Far As The Eye,2.88,23,875,2020-09-09,,True,True,False,2.88,875
+Totally Reliable Delivery Service,2.86,115,875,2020-04-01,56.0,True,True,True,2.86,875
+Ikenfell,3.24,21,873,2020-10-07,72.0,True,True,True,3.24,873
+Chicken Police – Paint it RED!,3.81,35,873,2020-11-05,83.0,True,True,True,3.81,873
+Alder's Blood Prologue,1.84,32,861,2020-02-04,,True,True,False,1.84,861
+Space Crew,1.56,18,853,2020-10-15,64.0,True,True,True,1.56,853
+Remothered: Broken Porcelain,2.26,27,853,2020-10-13,44.0,True,True,True,2.26,853
+Train Station Renovation,3.36,27,851,2020-10-01,66.0,True,True,True,3.36,851
+Struggling,3.06,16,847,2020-08-27,65.0,True,True,True,3.06,847
+Roboquest,4.0,37,846,2020-08-20,,True,True,False,4.0,846
+Main Assembly,3.0,10,839,2020-04-16,,True,True,False,3.0,839
+Morbid: The Seven Acolytes,3.1,20,834,2020-12-03,,True,True,False,3.1,834
+Total Tank Simulator,3.24,20,831,2020-05-20,,True,True,False,3.24,831
+Ageless,2.83,12,828,2020-07-28,,True,True,False,2.83,828
+Yakuza 5 Remastered,4.22,65,822,2020-02-11,82.0,True,True,True,4.22,822
+Call of Duty: Warzone,3.62,386,820,2020-03-10,79.0,True,True,True,3.62,820
+Observer: System Redux,4.07,97,819,2020-11-10,80.0,True,True,True,4.07,819
+The Last Campfire,4.04,116,816,2020-08-27,82.0,True,True,True,4.04,816
+Torchlight III,2.9,89,815,2020-10-13,64.0,True,True,True,2.9,815
+Halo Infinite,3.65,717,7835,2021-12-08,84.0,True,True,True,3.65,7835
+It Takes Two,4.47,1575,5325,2021-03-26,88.0,True,True,True,4.47,5325
+Valheim,4.0,612,4911,2021-02-02,,True,True,False,4.0,4911
+Resident Evil: Village,4.38,974,4905,2021-05-07,83.0,True,True,True,4.38,4905
+Forza Horizon 5,4.3,731,4631,2021-11-08,,True,True,False,4.3,4631
+Marvel's Guardians of the Galaxy,4.3,867,4596,2021-10-26,,True,True,False,4.3,4596
+Deathloop,3.98,529,4446,2021-09-14,88.0,True,True,True,3.98,4446
+Mass Effect: Legendary Edition,4.57,540,3998,2021-05-14,88.0,True,True,True,4.57,3998
+Inscryption,4.39,549,3087,2021-10-19,86.0,True,True,True,4.39,3087
+The Ascent,3.32,309,2942,2021-07-29,73.0,True,True,True,3.32,2942
+Back 4 Blood,3.23,325,2847,2021-10-07,76.0,True,True,True,3.23,2847
+Psychonauts 2,4.37,378,2847,2021-08-24,88.0,True,True,True,4.37,2847
+Capcom Arcade Stadium,2.71,72,2837,2021-02-17,78.0,True,True,True,2.71,2837
+Loop Hero,4.05,464,2728,2021-03-04,83.0,True,True,True,4.05,2728
+Far Cry 6,3.36,443,2631,2021-10-07,75.0,True,True,True,3.36,2631
+Little Nightmares II,4.38,523,2572,2021-02-10,82.0,True,True,True,4.38,2572
+Death's Door,4.18,373,2486,2021-07-20,,True,True,False,4.18,2486
+Kena: Bridge of Spirits,3.99,444,2458,2021-09-21,80.0,True,True,True,3.99,2458
+Outriders,3.38,322,2424,2021-04-01,73.0,True,True,True,3.38,2424
+Hitman 3,4.25,351,2378,2021-01-20,83.0,True,True,True,4.25,2378
+Unpacking,4.04,465,2252,2021-11-02,84.0,True,True,True,4.04,2252
+Twelve Minutes,3.53,563,2156,2021-08-19,69.0,True,True,True,3.53,2156
+Battlefield 2042,2.89,301,2147,2021-11-12,,True,True,False,2.89,2147
+Disco Elysium: Final Cut,4.65,621,2076,2021-03-30,90.0,True,True,True,4.65,2076
+Vampire: The Masquerade - Bloodhunt,3.0,118,2060,2021-09-07,,True,True,False,3.0,2060
+The Medium,3.53,400,2031,2021-01-28,74.0,True,True,True,3.53,2031
+Subnautica: Below Zero,4.0,305,2011,2021-05-14,80.0,True,True,True,4.0,2011
+Black Book,4.05,184,2010,2021-08-10,78.0,True,True,True,4.05,2010
+Ratchet & Clank: Rift Apart,4.39,380,1994,2021-06-11,88.0,True,True,True,4.39,1994
+NieR Replicant v1.22474487139...,4.38,249,1966,2021-04-23,82.0,True,True,True,4.38,1966
+Death Stranding Director's Cut,4.25,240,1849,2021-09-24,,True,True,False,4.25,1849
+Scarlet Nexus,3.61,204,1836,2021-06-25,79.0,True,True,True,3.61,1836
+Biomutant,2.75,237,1825,2021-05-25,69.0,True,True,True,2.75,1825
+Narita Boy,3.33,75,1823,2021-03-30,75.0,True,True,True,3.33,1823
+Life is Strange: True Colors,3.81,390,1809,2021-09-10,,True,True,False,3.81,1809
+Returnal,4.15,295,1776,2021-04-30,86.0,True,True,True,4.15,1776
+Breathedge,3.69,271,1747,2021-02-25,66.0,True,True,True,3.69,1747
+Tales of Arise,3.95,174,1643,2021-09-10,85.0,True,True,True,3.95,1643
+The Forgotten City,4.24,245,1595,2021-07-28,,True,True,False,4.24,1595
+Greak: Memories of Azur,3.0,32,1585,2021-08-16,,True,True,False,3.0,1585
+Totally Accurate Battle Simulator,3.73,226,1570,2021-04-01,,True,True,False,3.73,1570
+Yakuza 3 Remastered,3.63,103,1556,2021-01-27,77.0,True,True,True,3.63,1556
+New World,3.09,147,1554,2021-09-28,70.0,True,True,True,3.09,1554
+Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,2.98,87,1550,2021-11-09,,True,True,False,2.98,1550
+Pathfinder: Wrath of the Righteous,4.22,122,1547,2021-09-02,81.0,True,True,True,4.22,1547
+Dagon: by H. P. Lovecraft,3.45,63,1541,2021-09-23,,True,True,False,3.45,1541
+Curse of the Dead Gods,3.65,183,1526,2021-02-23,81.0,True,True,True,3.65,1526
+Monster Hunter Rise,4.21,173,1500,2021-03-26,87.0,True,True,True,4.21,1500
+Road 96,3.94,242,1471,2021-08-16,78.0,True,True,True,3.94,1471
+The Dark Pictures Anthology: House of Ashes,3.9,339,1456,2021-10-22,73.0,True,True,True,3.9,1456
+Sable,3.49,154,1432,2021-09-23,74.0,True,True,True,3.49,1432
+FIFA 22,3.39,226,1419,2021-09-27,76.0,True,True,True,3.39,1419
+Goose Goose Duck,3.33,63,1385,2021-04-30,,True,True,False,3.33,1385
+Turnip Boy Commits Tax Evasion,3.85,89,1382,2021-04-22,74.0,True,True,True,3.85,1382
+Hot Wheels Unleashed,3.43,104,1358,2021-09-27,74.0,True,True,True,3.43,1358
+Super Animal Royale,3.02,98,1341,2021-08-26,,True,True,False,3.02,1341
+Rustler,2.64,32,1304,2021-08-31,62.0,True,True,True,2.64,1304
+Tribes of Midgard,3.16,82,1288,2021-07-27,72.0,True,True,True,3.16,1288
+Humankind,3.66,158,1273,2021-08-17,77.0,True,True,True,3.66,1273
+Diablo II: Resurrected,4.09,247,1272,2021-09-23,80.0,True,True,True,4.09,1272
+Age of Empires IV,3.9,150,1272,2021-10-28,81.0,True,True,True,3.9,1272
+Everhood,4.18,71,1237,2021-03-03,82.0,True,True,True,4.18,1237
+Nickelodeon All-Star Brawl,2.86,52,1210,2021-10-05,,True,True,False,2.86,1210
+Chivalry 2,3.73,89,1198,2021-06-08,78.0,True,True,True,3.73,1198
+Omno,3.5,90,1198,2021-07-29,76.0,True,True,True,3.5,1198
+Bright Memory: Infinite,3.55,142,1196,2021-11-12,65.0,True,True,True,3.55,1196
+Knockout City,3.15,95,1161,2021-05-21,82.0,True,True,True,3.15,1161
+Grand Theft Auto: San Andreas – The Definitive Edition,3.06,152,1159,2021-11-11,,True,True,False,3.06,1159
+Endzone - A World Apart,3.51,45,1150,2021-03-18,,True,True,False,3.51,1150
+Genesis Noir,3.63,78,1143,2021-03-26,80.0,True,True,True,3.63,1143
+Call of Duty: Vanguard,3.06,125,1136,2021-11-05,,True,True,False,3.06,1136
+I Am Fish,3.15,54,1112,2021-09-16,,True,True,False,3.15,1112
+Industria,2.95,37,1099,2021-09-30,66.0,True,True,True,2.95,1099
+The Life and Suffering of Sir Brante,4.21,180,1097,2021-03-04,82.0,True,True,True,4.21,1097
+Skul: The Hero Slayer,3.58,133,1095,2021-01-21,80.0,True,True,True,3.58,1095
+Tails Noir,3.41,90,1094,2021-06-08,68.0,True,True,True,3.41,1094
+Aliens: Fireteam Elite,2.93,100,1093,2021-08-23,69.0,True,True,True,2.93,1093
+Naraka Bladepoint,2.97,65,1082,2021-08-11,71.0,True,True,True,2.97,1082
+Before We Leave,3.33,52,1052,2021-05-12,69.0,True,True,True,3.33,1052
+Necromunda: Hired Gun,2.97,57,1049,2021-05-31,,True,True,False,2.97,1049
+Gamedec,3.2,48,1040,2021-09-16,,True,True,False,3.2,1040
+Dyson Sphere Program,4.17,83,1036,2021-01-20,,True,True,False,4.17,1036
+In Sound Mind,4.0,46,1017,2021-09-28,74.0,True,True,True,4.0,1017
+Paradise Lost,3.05,20,1012,2021-03-24,63.0,True,True,True,3.05,1012
+Atom RPG: Trudograd,3.84,49,1011,2021-09-13,,True,True,False,3.84,1011
+Gas Station Simulator,3.86,68,1006,2021-09-14,72.0,True,True,True,3.86,1006
+TOEM,4.09,90,999,2021-09-16,79.0,True,True,True,4.09,999
+Blue Fire,3.3,32,993,2021-02-03,70.0,True,True,True,3.3,993
+Alan Wake Remastered,4.01,201,986,2021-10-05,,True,True,False,4.01,986
+Crab Game,3.01,77,982,2021-10-29,,True,True,False,3.01,982
+Poppy Playtime,3.58,70,976,2021-10-12,,True,True,False,3.58,976
+Just Die Already,2.88,30,975,2021-05-20,,True,True,False,2.88,975
+Century: Age of Ashes,2.87,64,975,2021-12-02,,True,True,False,2.87,975
+Encased: a sci-fi post-apocalyptic RPG,3.39,34,963,2021-09-07,73.0,True,True,True,3.39,963
+First Class Trouble,2.94,33,958,2021-11-02,,True,True,False,2.94,958
+Lawn Mowing Simulator,3.0,33,954,2021-08-10,,True,True,False,3.0,954
+Cave Story's Secret Santa,2.5,8,951,2021-12-09,,True,True,False,2.5,951
+Scavengers,2.34,40,931,2021-05-01,,True,True,False,2.34,931
+GTFO,3.65,82,927,2021-12-09,78.0,True,True,True,3.65,927
+Eldest Souls,3.77,37,918,2021-07-29,78.0,True,True,True,3.77,918
+Nioh 2 – The Complete Edition,4.08,81,917,2021-02-05,86.0,True,True,True,4.08,917
+Guilty Gear -Strive,4.3,97,911,2021-06-11,85.0,True,True,True,4.3,911
+Eastward,3.67,91,899,2021-09-16,80.0,True,True,True,3.67,899
+Chernobylite,3.32,126,894,2021-07-28,73.0,True,True,True,3.32,894
+Escape Simulator,4.0,83,882,2021-10-19,,True,True,False,4.0,882
+Rover Mechanic Simulator,2.5,16,872,2021-09-22,65.0,True,True,True,2.5,872
+The Artful Escape,4.11,136,862,2021-09-09,80.0,True,True,True,4.11,862
+UnMetal,3.64,43,854,2021-09-28,82.0,True,True,True,3.64,854
+Ghost of Tsushima Director's Cut,4.59,273,853,2021-08-20,,True,True,False,4.59,853
+Jurassic World Evolution 2,3.42,57,852,2021-11-09,,True,True,False,3.42,852
+Evil Genius 2 World Domination,3.37,92,847,2021-03-30,77.0,True,True,True,3.37,847
+Surviving the Aftermath,3.38,31,844,2021-11-15,,True,True,False,3.38,844
+Before Your Eyes,4.36,100,839,2021-04-07,,True,True,False,4.36,839
+Stumble Guys,2.75,33,830,2021-02-12,,True,True,False,2.75,830
+Nebuchadnezzar,3.19,15,815,2021-02-17,73.0,True,True,True,3.19,815
+Mini Motorways,4.16,131,812,2021-07-20,83.0,True,True,True,4.16,812
+Lost in Random,3.6,64,801,2021-09-10,78.0,True,True,True,3.6,801
+Emily is Away <3,3.92,37,799,2021-03-15,,True,True,False,3.92,799
+Super Auto Pets,3.63,38,799,2021-04-14,,True,True,False,3.63,799
+King of Seas,2.87,15,799,2021-05-25,66.0,True,True,True,2.87,799
+Fort Triumph,3.43,21,791,2021-08-13,,True,True,False,3.43,791
+Chorus,3.54,79,790,2021-12-02,76.0,True,True,True,3.54,790
+Shadow Tactics: Blades of the Shogun - Aiko's Choice,4.41,27,787,2021-12-05,,True,True,False,4.41,787
+Intravenous,3.43,35,787,2021-07-26,,True,True,False,3.43,787
+Disciples: Liberation,3.06,29,785,2021-10-21,,True,True,False,3.06,785
+TOHU,3.52,20,777,2021-01-28,70.0,True,True,True,3.52,777
+Severed Steel,3.94,87,776,2021-09-16,,True,True,False,3.94,776
+Mind Scanners,3.27,29,772,2021-05-20,,True,True,False,3.27,772
+Metroid Dread,4.37,283,770,2021-10-08,,True,True,False,4.37,770
+Aragami 2,3.12,77,754,2021-09-17,68.0,True,True,True,3.12,754
+Pixel Puzzles Illustrations & Anime,1.93,13,753,2021-02-23,,True,True,False,1.93,753
+Voidigo,3.62,13,737,2021-02-25,,True,True,False,3.62,737
+Super Mario 3D World + Bowser’s Fury,4.39,253,734,2021-02-12,89.0,True,True,True,4.39,734
+F1 2021,3.68,63,722,2021-07-16,,True,True,False,3.68,722
+Midnight Protocol,2.83,11,715,2021-10-12,79.0,True,True,True,2.83,715
+Solasta: Crown of the Magister,3.47,56,707,2021-05-27,77.0,True,True,True,3.47,707
+GRIME,3.62,62,707,2021-08-02,,True,True,False,3.62,707
+Lost Judgment,4.34,64,698,2021-09-24,,True,True,False,4.34,698
+Spellcaster University,3.39,16,697,2021-02-25,,True,True,False,3.39,697
+Doki Doki Literature Club Plus!,4.02,116,687,2021-06-30,,True,True,False,4.02,687
+The Riftbreaker,3.92,78,685,2021-10-14,,True,True,False,3.92,685
+Crysis 2 Remastered,3.63,62,683,2021-10-15,,True,True,False,3.63,683
+Say No! More,3.9,29,683,2021-04-08,67.0,True,True,True,3.9,683
+The Watchers: DEVOUR,3.0,41,683,2021-01-28,,True,True,False,3.0,683
+Crysis 3 Remastered,3.3,62,676,2021-10-17,,True,True,False,3.3,676
+Blade Assault,4.0,6,671,2021-06-07,,True,True,False,4.0,671
+Oddworld: Soulstorm,2.61,84,663,2021-04-06,70.0,True,True,True,2.61,663
+Lake,3.26,121,656,2021-09-01,73.0,True,True,True,3.26,656
+FINAL FANTASY VII REMAKE INTERGRADE,4.43,85,655,2021-06-10,,True,True,False,4.43,655
+Nongunz: Doppelganger Edition,2.0,11,650,2021-05-05,,True,True,False,2.0,650
+Epic Chef,3.5,6,647,2021-11-10,,True,True,False,3.5,647
+Riders Republic,3.33,78,642,2021-10-28,78.0,True,True,True,3.33,642
+The Darkest Tales — Into the Nightmare,3.0,12,640,2021-10-13,,True,True,False,3.0,640
+The Amazing American Circus,2.73,11,639,2021-09-16,,True,True,False,2.73,639
+eFootball 2022,2.08,83,638,2021-09-30,30.0,True,True,True,2.08,638
+Exo One,3.76,95,637,2021-11-18,79.0,True,True,True,3.76,637
+The Gunk,3.62,67,630,2021-12-16,69.0,True,True,True,3.62,630
+Sherlock Holmes: Chapter One,3.57,81,629,2021-11-15,74.0,True,True,True,3.57,629
+Rain on Your Parade,3.4,92,621,2021-04-15,78.0,True,True,True,3.4,621
+Record of Lodoss War: Deedlit in Wonder Labyrinth,4.12,57,617,2021-03-27,78.0,True,True,True,4.12,617
+Milk outside a bag of milk outside a bag of milk,4.05,84,609,2021-12-16,,True,True,False,4.05,609
+Timberborn,3.6,44,600,2021-09-15,,True,True,False,3.6,600
+Soulworker,2.56,34,593,2021-05-12,,True,True,False,2.56,593
+Cute can be broken,4.35,118,590,2021-03-03,,True,True,False,4.35,590
+Chill Corner,2.45,33,587,2021-12-17,,True,True,False,2.45,587
+Machinika Museum,3.0,25,582,2021-03-22,,True,True,False,3.0,582
+Maquette,3.2,94,581,2021-03-02,70.0,True,True,True,3.2,581
+Farming Simulator 22,3.42,48,578,2021-11-22,,True,True,False,3.42,578
+Destruction AllStars,2.52,71,572,2021-02-02,62.0,True,True,True,2.52,572
+Tails of Iron,3.9,101,570,2021-09-16,82.0,True,True,True,3.9,570
+Impostor Factory,4.38,59,560,2021-09-29,,True,True,False,4.38,560
+SkateBIRD,2.06,64,553,2021-09-16,59.0,True,True,True,2.06,553
+Cris Tales,3.11,35,553,2021-07-20,73.0,True,True,True,3.11,553
+Lost Ruins,3.41,17,552,2021-05-12,,True,True,False,3.41,552
+Blade of Darkness,3.83,30,544,2021-10-06,,True,True,False,3.83,544
+Ruined King: A League of Legends Story,3.84,64,539,2021-11-15,80.0,True,True,True,3.84,539
+Behind the Frame: The Finest Scenery,3.9,59,538,2021-08-17,,True,True,False,3.9,538
+Super Magbot,0.0,0,535,2021-06-21,,True,True,False,0.0,535
+Ender Lilies: Quietus of the Knights,3.99,83,532,2021-06-22,86.0,True,True,True,3.99,532
+Dungeons & Dragons: Dark Alliance,2.41,77,520,2021-06-21,56.0,True,True,True,2.41,520
+Scott Pilgrim vs. The World: The Game – Complete Edition,3.66,61,519,2021-01-14,77.0,True,True,True,3.66,519
+F.I.S.T.: Forged In Shadow Torch,3.68,70,515,2021-09-07,76.0,True,True,True,3.68,515
+Grow: Song of the Evertree,3.19,21,513,2021-11-15,,True,True,False,3.19,513
+Webbed,4.22,92,510,2021-09-09,,True,True,False,4.22,510
+Hokko Life,3.46,13,507,2021-06-02,,True,True,False,3.46,507
+Dreamscaper,3.42,39,506,2021-08-04,,True,True,False,3.42,506
+World War Z: Aftermath,3.55,49,502,2021-09-21,,True,True,False,3.55,502
+Last Stop,3.36,74,502,2021-07-22,68.0,True,True,True,3.36,502
+Rubber Bandits,3.3,22,495,2021-12-02,,True,True,False,3.3,495
+Tormented Souls,3.63,52,493,2021-08-26,76.0,True,True,True,3.63,493
+Just Act Natural,2.92,13,483,2021-05-18,,True,True,False,2.92,483
+Haven Park,3.19,16,475,2021-08-04,,True,True,False,3.19,475
+Praey for the Gods,3.02,41,467,2021-12-14,54.0,True,True,True,3.02,467
+Ancient Enemy,3.0,7,466,2021-01-19,,True,True,False,3.0,466
+Hood: Outlaws & Legends,2.74,41,459,2021-05-10,64.0,True,True,True,2.74,459
+Chicory: A Colorful Tale,3.94,63,456,2021-06-10,89.0,True,True,True,3.94,456
+Gorilla Tag,3.5,16,446,2021-02-12,,True,True,False,3.5,446
+MIR4,2.23,22,444,2021-08-24,,True,True,False,2.23,444
+Cyber Shadow,3.79,66,441,2021-01-26,80.0,True,True,True,3.79,441
+Library Of Ruina,3.28,22,439,2021-08-10,,True,True,False,3.28,439
+Elden Ring,4.41,1347,7837,2022-02-25,95.0,True,True,True,4.41,7837
+Stray,4.16,1156,5468,2022-07-19,82.0,True,True,True,4.16,5468
+Vampire Survivors,4.19,734,5066,2022-10-20,,True,True,False,4.19,5066
+Uncharted: Legacy of Thieves Collection,4.45,488,4866,2022-01-28,,True,True,False,4.45,4866
+Lost Ark,3.2,274,3503,2022-02-11,81.0,True,True,True,3.2,3503
+MultiVersus,3.14,182,3447,2022-07-26,,True,True,False,3.14,3447
+Dying Light 2 Stay Human,3.65,402,3157,2022-02-04,77.0,True,True,True,3.65,3157
+Raft,3.89,433,2918,2022-06-20,,True,True,False,3.89,2918
+Aperture Desk Job,3.8,201,2800,2022-03-01,,True,True,False,3.8,2800
+Horizon Forbidden West,4.19,437,2673,2022-02-18,86.0,True,True,True,4.19,2673
+Teenage Mutant Ninja Turtles: Shredder's Revenge,4.08,425,2661,2022-06-16,86.0,True,True,True,4.08,2661
+Tunic,4.11,345,2555,2022-03-16,86.0,True,True,True,4.11,2555
+A Plague Tale: Requiem,4.29,431,2445,2022-10-17,,True,True,False,4.29,2445
+Overwatch 2,3.1,357,2324,2022-10-04,78.0,True,True,True,3.1,2324
+Cult of the Lamb,4.13,404,2317,2022-08-11,,True,True,False,4.13,2317
+God of War: Ragnarök,4.42,640,2171,2022-11-09,,True,True,False,4.42,2171
+Lego Star Wars: The Skywalker Saga,3.88,211,2104,2022-04-05,80.0,True,True,True,3.88,2104
+High on Life,3.79,243,2098,2022-12-13,,True,True,False,3.79,2098
+Ghostwire: Tokyo,3.55,301,2080,2022-03-24,78.0,True,True,True,3.55,2080
+Grounded,3.78,283,1979,2022-09-27,82.0,True,True,True,3.78,1979
+Portal with RTX,3.63,86,1966,2022-12-08,,True,True,False,3.63,1966
+The Stanley Parable: Ultra Deluxe,4.38,340,1952,2022-04-27,90.0,True,True,True,4.38,1952
+Mount & Blade II: Bannerlord,4.23,284,1903,2022-10-25,78.0,True,True,True,4.23,1903
+The Quarry,3.83,318,1850,2022-06-09,,True,True,False,3.83,1850
+Sifu,4.06,358,1813,2022-02-08,79.0,True,True,True,4.06,1813
+Yu-Gi-Oh! Master Duel,3.51,76,1720,2022-01-18,,True,True,False,3.51,1720
+Resident Evil Re:Verse,1.52,68,1690,2022-10-28,,True,True,False,1.52,1690
+Scorn,3.42,219,1656,2022-10-14,67.0,True,True,True,3.42,1656
+The Last of Us Part I,4.67,444,1655,2022-09-02,,True,True,False,4.67,1655
+Marvel's Spider-Man Remastered,4.46,393,1611,2022-08-12,,True,True,False,4.46,1611
+Metal: Hellsinger,3.97,179,1544,2022-09-15,79.0,True,True,True,3.97,1544
+PowerWash Simulator,3.97,148,1525,2022-07-14,,True,True,False,3.97,1525
+The Callisto Protocol,3.51,220,1487,2022-12-01,69.0,True,True,True,3.51,1487
+Not For Broadcast,3.96,96,1472,2022-01-25,,True,True,False,3.96,1472
+Teardown,4.16,214,1405,2022-04-21,80.0,True,True,True,4.16,1405
+Dorfromantik,3.87,213,1355,2022-04-28,,True,True,False,3.87,1355
+Potion Craft: Alchemist Simulator,3.71,182,1354,2022-12-13,,True,True,False,3.71,1354
+Neon White,4.36,230,1352,2022-06-16,88.0,True,True,True,4.36,1352
+Marvel Snap,3.94,109,1340,2022-10-18,,True,True,False,3.94,1340
+Weird West,3.75,171,1326,2022-03-31,77.0,True,True,True,3.75,1326
+Call of Duty: Modern Warfare II,3.81,188,1282,2022-10-27,,True,True,False,3.81,1282
+Trek to Yomi,3.39,171,1282,2022-05-05,,True,True,False,3.39,1282
+Knightfall: A Daring Journey,1.88,26,1261,2022-04-01,,True,True,False,1.88,1261
+Tiny Tina's Wonderlands,3.61,119,1217,2022-03-25,,True,True,False,3.61,1217
+Nobody Saves the World,3.83,139,1214,2022-01-17,,True,True,False,3.83,1214
+Sniper Elite 5,3.79,111,1202,2022-05-25,,True,True,False,3.79,1202
+Signalis,4.35,212,1181,2022-10-27,82.0,True,True,True,4.35,1181
+Rogue Legacy 2,4.01,156,1159,2022-04-28,88.0,True,True,True,4.01,1159
+Midnight Fight Express,3.63,89,1054,2022-08-23,76.0,True,True,True,3.63,1054
+Gotham Knights,2.61,130,1031,2022-10-21,66.0,True,True,True,2.61,1031
+Brotato,3.99,122,993,2022-09-27,,True,True,False,3.99,993
+"Warhammer 40,000: Darktide",3.69,70,992,2022-11-30,74.0,True,True,True,3.69,992
+Forgive Me Father,3.7,45,990,2022-04-07,,True,True,False,3.7,990
+Need for Speed Unbound,3.44,130,974,2022-11-29,,True,True,False,3.44,974
+Blue Fire: Void Maker,0.0,4,957,2022-02-04,,True,True,False,0.0,957
+As Dusk Falls,4.04,160,954,2022-07-18,77.0,True,True,True,4.04,954
+Marvel's Midnight Suns,4.01,93,944,2022-12-02,,True,True,False,4.01,944
+Undecember,2.52,55,926,2022-10-11,,True,True,False,2.52,926
+Prodeus,3.91,113,908,2022-09-23,80.0,True,True,True,3.91,908
+Pentiment,4.26,122,904,2022-11-14,,True,True,False,4.26,904
+Shatterline,3.36,27,903,2022-09-08,,True,True,False,3.36,903
+OlliOlli World,3.73,64,898,2022-02-07,,True,True,False,3.73,898
+Hardspace: Shipbreaker,3.88,81,876,2022-05-23,82.0,True,True,True,3.88,876
+20 Minutes Till Dawn,3.84,89,841,2022-06-07,,True,True,False,3.84,841
+Tower of Fantasy,2.52,60,818,2022-08-09,,True,True,False,2.52,818
+Shadow Warrior 3,3.64,139,790,2022-03-01,70.0,True,True,True,3.64,790
+Two Point Campus,3.72,43,785,2022-08-09,,True,True,False,3.72,785
+Citizen Sleeper,4.17,72,765,2022-05-05,,True,True,False,4.17,765
+Evil West,3.65,129,748,2022-11-21,74.0,True,True,True,3.65,748
+FAR: Changing Tides,3.86,117,737,2022-03-01,,True,True,False,3.86,737
+Immortality,4.23,84,731,2022-08-29,,True,True,False,4.23,731
+Torchlight: Infinite,2.51,33,727,2022-10-11,,True,True,False,2.51,727
+Golf Gang,3.62,8,724,2022-05-19,,True,True,False,3.62,724
+Somerville,3.31,106,704,2022-11-15,70.0,True,True,True,3.31,704
+Total War: WARHAMMER III,4.02,61,699,2022-02-17,85.0,True,True,True,4.02,699
+Call of Duty: Modern Warfare II - Open Beta,2.77,26,693,2022-09-24,,True,True,False,2.77,693
+Destroy All Humans! – Clone Carnage,2.67,9,670,2022-05-30,,True,True,False,2.67,670
+Stacklands,3.9,59,658,2022-03-31,,True,True,False,3.9,658
+Golden Light,3.03,32,653,2022-03-11,,True,True,False,3.03,653
+Hero's Hour,3.38,28,648,2022-03-01,,True,True,False,3.38,648
+Steelrising,2.99,87,641,2022-09-08,71.0,True,True,True,2.99,641
+Norco,3.94,71,639,2022-03-24,,True,True,False,3.94,639
+Dome Keeper,3.75,68,631,2022-09-27,,True,True,False,3.75,631
+Lust from Beyond: M Edition,2.19,15,617,2022-02-10,,True,True,False,2.19,617
+Return to Monkey Island,4.06,66,607,2022-09-19,,True,True,False,4.06,607
+GRID Legends,3.46,54,603,2022-02-25,,True,True,False,3.46,603
+Gran Turismo 7,4.25,64,602,2022-03-04,84.0,True,True,True,4.25,602
+Tinykin,4.19,83,591,2022-08-29,,True,True,False,4.19,591
+Second Extinction,2.57,36,585,2022-10-20,,True,True,False,2.57,585
+Capcom Arcade 2nd Stadium,3.0,12,576,2022-07-22,,True,True,False,3.0,576
+Moonscars,3.61,27,575,2022-09-27,,True,True,False,3.61,575
+The Dark Pictures Anthology: The Devil In Me,3.28,158,570,2022-11-17,,True,True,False,3.28,570
+Sonic Frontiers,3.45,56,565,2022-11-08,,True,True,False,3.45,565
+Rollerdrome,3.64,53,562,2022-08-16,,True,True,False,3.64,562
+Arcade Paradise,3.47,15,561,2022-08-11,,True,True,False,3.47,561
+PROJECT: PLAYTIME,2.67,15,561,2022-12-12,,True,True,False,2.67,561
+Escape Academy,4.0,60,560,2022-07-13,,True,True,False,4.0,560
+Coromon,3.72,18,558,2022-03-30,74.0,True,True,True,3.72,558
+We Were Here Forever,4.31,59,551,2022-05-10,,True,True,False,4.31,551
+PlateUp!,3.97,37,549,2022-08-04,,True,True,False,3.97,549
+Victoria 3,3.75,48,542,2022-10-25,,True,True,False,3.75,542
+Lovecraft Locker: Tentacle Lust,4.22,155,537,2022-06-28,,True,True,False,4.22,537
+Pokémon Legends: Arceus,4.03,152,535,2022-01-28,83.0,True,True,True,4.03,535
+ELEX II,3.35,54,534,2022-03-01,,True,True,False,3.35,534
+Bayonetta 3,4.25,67,529,2022-10-28,86.0,True,True,True,4.25,529
+Hard West 2,3.6,19,521,2022-08-04,,True,True,False,3.6,521
+SuchArt: Genius Artist Simulator,3.41,27,519,2022-10-13,,True,True,False,3.41,519
+Gundam Evolution,2.82,17,505,2022-12-01,,True,True,False,2.82,505
+Chained Echoes,4.33,39,493,2022-12-08,89.0,True,True,True,4.33,493
+STALCRAFT,2.87,30,493,2022-12-09,,True,True,False,2.87,493
+Kirby and the Forgotten Land,4.25,122,485,2022-03-25,,True,True,False,4.25,485
+Syberia: The World Before,3.88,62,484,2022-03-18,80.0,True,True,True,3.88,484
+Cuphead: The Delicious Last Course,4.52,111,483,2022-06-30,89.0,True,True,True,4.52,483
+Crisis Core: Final Fantasy VII Reunion,3.9,71,477,2022-12-13,,True,True,False,3.9,477
+Needy Girl Overdose,4.09,63,469,2022-01-21,,True,True,False,4.09,469
+Roadwarden,4.0,17,469,2022-09-08,,True,True,False,4.0,469
+Omega Strikers,3.39,35,466,2022-09-16,,True,True,False,3.39,466
+Life is Strange Remastered,3.86,87,462,2022-02-01,,True,True,False,3.86,462
+Strange Horticulture,3.98,59,457,2022-01-20,,True,True,False,3.98,457
+Soulstice,2.48,31,445,2022-09-19,,True,True,False,2.48,445
+Beacon Pines,4.03,36,445,2022-09-22,,True,True,False,4.03,445
+The Serpent Rogue,0.0,5,441,2022-04-26,,True,True,False,0.0,441
+Hell Pie,3.5,9,439,2022-07-21,68.0,True,True,True,3.5,439
+Windjammers 2,4.08,40,436,2022-01-20,78.0,True,True,True,4.08,436
+Mirror 2: Project X,3.09,34,436,2022-01-20,,True,True,False,3.09,436
+Saints Row (2022),2.18,104,435,2022-08-23,,True,True,False,2.18,435
+Ghost Song,3.29,13,433,2022-11-03,80.0,True,True,True,3.29,433
+You Suck at Parking,3.29,27,429,2022-09-14,,True,True,False,3.29,429
+Postal 4: No Regrets,2.27,66,429,2022-04-20,30.0,True,True,True,2.27,429
+Conan Chop Chop,0.0,5,426,2022-03-01,72.0,True,True,True,0.0,426
+Serious Sam: Siberian Mayhem,3.54,60,426,2022-01-24,,True,True,False,3.54,426
+SUPER PEOPLE,2.75,19,424,2022-10-08,,True,True,False,2.75,424
+The Case of the Golden Idol,4.37,76,418,2022-10-13,,True,True,False,4.37,418
+"Warhammer 40,000: Chaos Gate - Daemonhunters",3.75,10,417,2022-05-05,,True,True,False,3.75,417
+Soulstone Survivors,3.94,32,408,2022-11-07,,True,True,False,3.94,408
+Shotgun King: The Final Checkmate,3.85,34,406,2022-05-11,,True,True,False,3.85,406
+Cursed to Golf,2.64,13,405,2022-08-18,,True,True,False,2.64,405
+"Love, Money, Rock'n'Roll",2.79,102,404,2022-08-04,,True,True,False,2.79,404
+Gloomwood,4.0,13,404,2022-09-05,,True,True,False,4.0,404
+Anno: Mutationem,3.55,38,404,2022-03-16,73.0,True,True,True,3.55,404
+Divine Knockout (DKO),0.0,3,395,2022-12-06,,True,True,False,0.0,395
+Gungrave: G.O.R.E.,2.5,35,391,2022-11-21,57.0,True,True,True,2.5,391
+Blacktail,3.57,36,391,2022-12-15,,True,True,False,3.57,391
+A Memoir Blue,3.45,73,388,2022-03-24,,True,True,False,3.45,388
+The Looker,4.1,41,380,2022-06-17,,True,True,False,4.1,380
+Eiyuden Chronicle: Rising,3.5,26,380,2022-05-10,,True,True,False,3.5,380
+Monster Hunter Rise: Sunbreak Demo,2.83,12,377,2022-06-14,,True,True,False,2.83,377
+Farthest Frontier,3.61,32,377,2022-08-09,,True,True,False,3.61,377
+Shredders,2.66,30,374,2022-03-17,,True,True,False,2.66,374
+The Entropy Centre,3.86,53,373,2022-11-02,,True,True,False,3.86,373
+Entropy: Zero 2,3.92,39,373,2022-08-20,,True,True,False,3.92,373
+Bendy and the Dark Revival,4.18,15,370,2022-11-14,,True,True,False,4.18,370
+The Planet Crafter,3.77,31,368,2022-03-23,,True,True,False,3.77,368
+Roller Champions,3.2,28,368,2022-05-25,,True,True,False,3.2,368
+Lost in Play,4.39,66,363,2022-08-09,,True,True,False,4.39,363
+Thymesia,3.28,57,361,2022-08-18,,True,True,False,3.28,361
+Martha is Dead,3.59,48,360,2022-02-24,67.0,True,True,True,3.59,360
+Necrosmith,3.64,24,359,2022-07-13,,True,True,False,3.64,359
+Last Call BBS,3.56,9,356,2022-07-04,,True,True,False,3.56,356
+The Past Within,4.12,61,355,2022-11-01,,True,True,False,4.12,355
+Expeditions: Rome,3.55,33,354,2022-01-20,,True,True,False,3.55,354
+F1 22,3.15,39,352,2022-06-30,,True,True,False,3.15,352
+Life is Strange: Before the Storm Remastered,3.24,56,344,2022-02-01,,True,True,False,3.24,344
+Slime Rancher 2,3.93,24,344,2022-09-22,,True,True,False,3.93,344
+Trombone Champ,4.03,28,344,2022-09-16,,True,True,False,4.03,344
+Card Shark,3.98,46,341,2022-06-02,80.0,True,True,True,3.98,341
+FOBIA - St. Dinfna Hotel,3.43,12,340,2022-06-28,73.0,True,True,True,3.43,340
+IXION,4.0,47,339,2022-12-06,,True,True,False,4.0,339
+嗜血印 Bloody Spell,3.43,30,337,2022-01-26,,True,True,False,3.43,337
+WWE 2K22,3.83,38,337,2022-03-08,,True,True,False,3.83,337
+Destroy All Humans! 2 - Reprobed,3.35,23,336,2022-08-30,,True,True,False,3.35,336
+Under The Moon,0.0,1,332,2022-08-04,,True,True,False,0.0,332
+Outpath: First Journey,2.67,8,330,2022-12-17,,True,True,False,2.67,330
+Symphony of War: The Nephilim Saga,3.29,5,322,2022-06-09,,True,True,False,3.29,322
+Ghostwire: Tokyo - Prelude,2.2,9,321,2022-03-08,,True,True,False,2.2,321
+Xenoblade Chronicles 3,4.39,58,320,2022-07-29,,True,True,False,4.39,320
+King Arthur: Knight's Tale,3.22,23,320,2022-04-26,76.0,True,True,True,3.22,320
+Oaken,0.0,4,319,2022-05-03,,True,True,False,0.0,319
+TRIANGLE STRATEGY,4.29,32,319,2022-03-04,84.0,True,True,True,4.29,319
+My Time at Sandrock,3.96,22,312,2022-05-26,,True,True,False,3.96,312
+Nomad Survival,0.0,5,306,2022-04-28,,True,True,False,0.0,306
+A Little to the Left,3.92,73,306,2022-11-08,74.0,True,True,True,3.92,306
+Midnight Ghost Hunt,2.5,12,303,2022-03-31,,True,True,False,2.5,303
+Gedonia,2.91,23,303,2022-10-14,,True,True,False,2.91,303
+Pokémon Scarlet and Violet,3.59,103,302,2022-11-18,,True,True,False,3.59,302
+Despot's Game: Dystopian Battle Simulator,3.52,31,301,2022-09-29,,True,True,False,3.52,301
+Tom Clancy’s Rainbow Six Extraction,2.42,47,300,2022-01-20,,True,True,False,2.42,300
+One-armed cook,2.7,9,298,2022-08-30,,True,True,False,2.7,298
+Iron Lung,3.98,47,294,2022-03-10,,True,True,False,3.98,294
+Fall of Porcupine: Prologue,0.0,3,293,2022-08-23,,True,True,False,0.0,293
+Asterigos: Curse of the Stars,3.36,28,293,2022-10-11,,True,True,False,3.36,293
+Kynseed,3.35,23,291,2022-12-06,,True,True,False,3.35,291
+Ozymandias: Bronze Age Empire Sim,0.0,2,289,2022-10-11,,True,True,False,0.0,289
+Electrician Simulator - First Shock,3.0,8,288,2022-01-06,,True,True,False,3.0,288
+10 Minutes Till Dawn,3.38,21,288,2022-04-22,,True,True,False,3.38,288
+Evil Dead: The Game,2.91,33,288,2022-05-13,73.0,True,True,True,2.91,288
+Young Souls,3.4,29,284,2022-03-10,,True,True,False,3.4,284
+Endling - Extinction is Forever,3.74,37,284,2022-07-19,,True,True,False,3.74,284
+Soulstone Survivors: Prologue,3.57,7,284,2022-08-26,,True,True,False,3.57,284
+Stranger of Paradise: Final Fantasy Origin,3.46,45,283,2022-03-18,,True,True,False,3.46,283
+Baldur's Gate III,4.45,849,4282,2023-08-03,97.0,True,True,True,4.45,4282
+Hogwarts Legacy,3.95,785,3407,2023-02-10,,True,True,False,3.95,3407
+Barotrauma,3.78,184,2213,2023-03-13,81.0,True,True,True,3.78,2213
+Atomic Heart,3.86,561,2071,2023-02-21,73.0,True,True,True,3.86,2071
+Resident Evil 4,4.62,502,1981,2023-03-24,,True,True,False,4.62,1981
+Starfield,3.27,311,1873,2023-09-06,88.0,True,True,True,3.27,1873
+Dead Space,4.39,278,1688,2023-01-27,,True,True,False,4.39,1688
+The Legend of Zelda: Tears of the Kingdom,4.4,429,1608,2023-05-12,96.0,True,True,True,4.4,1608
+The Finals,3.73,187,1575,2023-12-07,,True,True,False,3.73,1575
+Hi-Fi Rush,4.36,322,1523,2023-01-25,,True,True,False,4.36,1523
+Alan Wake 2,4.4,347,1424,2023-10-27,,True,True,False,4.4,1424
+Diablo IV,3.79,267,1369,2023-06-06,90.0,True,True,True,3.79,1369
+Star Wars Jedi: Survivor,4.27,202,1322,2023-04-27,,True,True,False,4.27,1322
+Marvel's Spider-Man 2,4.37,244,1245,2023-10-20,,True,True,False,4.37,1245
+Ready or Not,4.01,150,1238,2023-12-13,,True,True,False,4.01,1238
+Lies Of P,4.2,237,1209,2023-09-19,,True,True,False,4.2,1209
+Black Survival: Eternal Return,2.6,48,1137,2023-07-20,,True,True,False,2.6,1137
+Dredge,4.3,198,1114,2023-03-29,,True,True,False,4.3,1114
+System Shock,3.86,116,1110,2023-05-30,78.0,True,True,True,3.86,1110
+Cyberpunk 2077: Phantom Liberty,4.71,330,1027,2023-09-26,,True,True,False,4.71,1027
+Lethal Company,4.28,129,1004,2023-10-23,,True,True,False,4.28,1004
+Dave the Diver,4.29,147,956,2023-06-28,,True,True,False,4.29,956
+Final Fantasy XVI,4.17,135,949,2023-06-22,88.0,True,True,True,4.17,949
+Dead Island 2,3.7,184,914,2023-04-21,75.0,True,True,True,3.7,914
+We Were Here Expeditions: The FriendShip,3.86,62,898,2023-09-14,,True,True,False,3.86,898
+Assassin's Creed Mirage,3.42,137,867,2023-10-05,,True,True,False,3.42,867
+Forspoken,2.09,140,850,2023-01-24,64.0,True,True,True,2.09,850
+The Murder of Sonic the Hedgehog,3.39,44,842,2023-03-31,,True,True,False,3.39,842
+Sea of Stars,4.3,107,769,2023-08-28,90.0,True,True,True,4.3,769
+Planet of Lana,3.99,125,737,2023-05-23,,True,True,False,3.99,737
+World of Horror,4.1,58,662,2023-10-19,,True,True,False,4.1,662
+Fortnite Looping,4.3,254,658,2023-03-05,,True,True,False,4.3,658
+Cocoon,4.39,172,633,2023-09-29,,True,True,False,4.39,633
+RoboCop: Rogue City,4.04,107,615,2023-11-02,,True,True,False,4.04,615
+Wo Long: Fallen Dynasty,3.5,104,602,2023-03-03,,True,True,False,3.5,602
+Ghostrunner 2,3.82,64,596,2023-10-26,,True,True,False,3.82,596
+Have a Nice Death,3.62,65,592,2023-03-22,,True,True,False,3.62,592
+Armored Core VI: Fires of Rubicon,4.18,77,583,2023-08-25,,True,True,False,4.18,583
+The Invincible,4.08,92,583,2023-11-06,,True,True,False,4.08,583
+Disney Dreamlight Valley,3.46,56,574,2023-12-05,,True,True,False,3.46,574
+Jusant,4.01,124,518,2023-10-30,,True,True,False,4.01,518
+Super Mario Bros. Wonder,4.35,164,509,2023-10-20,,True,True,False,4.35,509
+Against the Storm,4.26,71,507,2023-12-08,,True,True,False,4.26,507
+Blasphemous II,4.13,61,493,2023-08-23,,True,True,False,4.13,493
+Wartales,3.82,70,491,2023-04-12,,True,True,False,3.82,491
+Dune: Spice Wars,3.57,42,487,2023-09-14,,True,True,False,3.57,487
+Everspace 2,3.7,50,484,2023-04-06,,True,True,False,3.7,484
+KartRider: Drift,2.25,19,481,2023-01-09,,True,True,False,2.25,481
+Street Fighter 6,4.1,46,477,2023-06-01,,True,True,False,4.1,477
+Oxenfree II: Lost Signals,3.9,47,473,2023-07-12,,True,True,False,3.9,473
+Stray Gods: The Roleplaying Musical,3.88,23,453,2023-08-10,,True,True,False,3.88,453
+The Outer Worlds: Spacer's Choice Edition,3.7,29,440,2023-03-07,,True,True,False,3.7,440
+Mortal Kombat 1,3.58,71,424,2023-09-19,,True,True,False,3.58,424
+BUCKSHOT ROULETTE,3.99,77,423,2023-12-28,,True,True,False,3.99,423
+Farlight 84,2.29,12,412,2023-04-23,,True,True,False,2.29,412
+En Garde!,3.96,25,411,2023-08-15,,True,True,False,3.96,411
+Counter-Strike 2,3.6,166,398,2023-09-27,,True,True,False,3.6,398
+Redfall,1.83,87,396,2023-05-01,,True,True,False,1.83,396
+Dread Templar,3.79,18,394,2023-01-26,,True,True,False,3.79,394
+9 Years of Shadows,3.64,14,394,2023-03-26,74.0,True,True,True,3.64,394
+Pizza Tower,4.12,53,392,2023-01-26,,True,True,False,4.12,392
+HROT,3.79,32,387,2023-05-16,,True,True,False,3.79,387
+Viewfinder,4.21,80,381,2023-07-18,,True,True,False,4.21,381
+Remnant 2,3.8,84,379,2023-07-21,,True,True,False,3.8,379
+Palia,3.38,21,377,2023-10-24,,True,True,False,3.38,377
+The Talos Principle 2,4.41,63,373,2023-11-01,,True,True,False,4.41,373
+Chants of Sennaar,4.41,85,371,2023-09-05,,True,True,False,4.41,371
+Amnesia: The Bunker,3.75,85,371,2023-06-06,,True,True,False,3.75,371
+Avatar: Frontiers of Pandora,2.56,43,370,2023-12-07,,True,True,False,2.56,370
+Remnant II,4.21,29,369,2023-07-21,,True,True,False,4.21,369
+Bramble: The Mountain King,4.33,90,358,2023-04-27,,True,True,False,4.33,358
+Lords of the Fallen,3.48,55,358,2023-10-13,,True,True,False,3.48,358
+The Last Spell,3.75,28,355,2023-03-08,82.0,True,True,True,3.75,355
+Like a Dragon: Ishin!,4.05,41,354,2023-02-21,,True,True,False,4.05,354
+Turbo Overkill,3.78,40,348,2023-08-11,,True,True,False,3.78,348
+Party Animals,3.78,38,340,2023-09-20,,True,True,False,3.78,340
+The Bookwalker: Thief of Tales,4.0,59,336,2023-06-22,,True,True,False,4.0,336
+Showgunners,3.43,7,328,2023-05-02,,True,True,False,3.43,328
+The Settlers - New Allies,3.12,16,317,2023-02-17,57.0,True,True,True,3.12,317
+Blood West,3.76,29,313,2023-12-05,,True,True,False,3.76,313
+"Warhammer 40,000: Rogue Trader",4.28,45,311,2023-12-06,,True,True,False,4.28,311
+Bomb Rush Cyberfunk,4.36,41,307,2023-08-18,,True,True,False,4.36,307
+"Warhammer 40,000: Boltgun",3.52,70,306,2023-05-22,,True,True,False,3.52,306
+Shogun Showdown,4.38,8,304,2023-06-27,,True,True,False,4.38,304
+Disney Speedstorm,3.38,21,302,2023-04-18,,True,True,False,3.38,302
+Caliber,2.67,30,302,2023-04-12,,True,True,False,2.67,302
+Honkai Star Rail,3.83,121,302,2023-04-26,,True,True,False,3.83,302
+Limbus Company,2.93,14,297,2023-02-26,,True,True,False,2.93,297
+Halls Of Torment,3.98,43,294,2023-05-24,,True,True,False,3.98,294
+Deliver Us Mars,3.24,41,293,2023-02-02,,True,True,False,3.24,293
+Trepang2,3.66,67,286,2023-06-21,,True,True,False,3.66,286
+Metroid Prime Remastered,4.44,61,283,2023-02-08,,True,True,False,4.44,283
+Deceive Inc.,3.5,4,279,2023-03-21,,True,True,False,3.5,279
+Storyteller,3.99,92,274,2023-03-23,,True,True,False,3.99,274
+Atlas Fallen,2.56,35,274,2023-08-09,,True,True,False,2.56,274
+Terra Nil,3.77,75,271,2023-03-28,,True,True,False,3.77,271
+Darkest Dungeon 2,3.81,50,268,2023-05-08,,True,True,False,3.81,268
+MY HERO ULTRA RUMBLE,2.08,12,267,2023-09-28,,True,True,False,2.08,267
+Octopath Traveler 2,4.5,18,266,2023-02-24,,True,True,False,4.5,266
+Cassette Beasts,3.59,17,263,2023-04-26,,True,True,False,3.59,263
+SpongeBob SquarePants: The Cosmic Shake,3.76,25,259,2023-01-31,,True,True,False,3.76,259
+One-armed robber,1.86,7,256,2023-12-15,,True,True,False,1.86,256
+Combat Master: Season 1,2.29,7,255,2023-04-21,,True,True,False,2.29,255
+Wild Hearts,3.0,27,254,2023-02-16,,True,True,False,3.0,254
+Fort Solis,3.13,43,253,2023-08-21,,True,True,False,3.13,253
+The Expanse: A Telltale Series,3.5,41,252,2023-07-27,,True,True,False,3.5,252
+Operation: Harsh Doorstop,1.2,10,249,2023-02-15,,True,True,False,1.2,249
+Jagged Alliance 3,3.82,27,249,2023-07-13,81.0,True,True,True,3.82,249
+Cyberpunk 2077 & Phantom Liberty Goodies Collection,4.08,13,245,2023-06-10,,True,True,False,4.08,245
+The Lord of the Rings: Gollum,1.3,65,245,2023-05-25,40.0,True,True,True,1.3,245
+Payday 3,2.68,32,245,2023-09-21,,True,True,False,2.68,245
+Friends vs Friends,3.92,12,241,2023-05-30,,True,True,False,3.92,241
+FINAL FANTASY VII EVER CRISIS,2.4,10,239,2023-09-06,,True,True,False,2.4,239
+Age of Wonders 4,4.05,34,236,2023-05-01,,True,True,False,4.05,236
+Alone in the Dark Prologue,3.33,12,235,2023-05-26,,True,True,False,3.33,235
+Slay the Princess,4.39,50,233,2023-10-23,,True,True,False,4.39,233
+The Last Case of Benedict Fox,2.8,34,233,2023-04-27,,True,True,False,2.8,233
+The Day Before,1.74,67,231,2023-12-07,,True,True,False,1.74,231
+The Pale Beyond,3.2,9,227,2023-02-24,,True,True,False,3.2,227
+Spells & Secrets,0.0,0,227,2023-11-09,,True,True,False,0.0,227
+Cats Hidden in Paris,3.75,20,227,2023-07-16,,True,True,False,3.75,227
+Contraband Police,3.8,66,226,2023-03-08,,True,True,False,3.8,226
+Venba,4.07,41,226,2023-07-31,,True,True,False,4.07,226
+Miasma Chronicles,3.67,19,224,2023-05-22,,True,True,False,3.67,224
+LIZARDS MUST DIE,3.58,35,224,2023-09-27,,True,True,False,3.58,224
+EA SPORTS FC 24,3.5,63,224,2023-09-22,,True,True,False,3.5,224
+Horizon Forbidden West - Burning Shores,4.29,48,223,2023-04-19,,True,True,False,4.29,223
+Children of Silentown,4.0,14,223,2023-01-11,76.0,True,True,True,4.0,223
+LEGO 2K Drive,2.85,11,221,2023-05-18,,True,True,False,2.85,221
+Landfall Archives,0.0,5,220,2023-03-31,,True,True,False,0.0,220
+Tchia,3.38,48,219,2023-03-21,77.0,True,True,True,3.38,219
+Resident Evil 4 - Separate Ways,4.39,59,216,2023-09-21,,True,True,False,4.39,216
+DR LIVESEY ROM AND DEATH EDITION,2.85,39,212,2023-02-13,,True,True,False,2.85,212
+Cities: Skylines 2,3.68,36,209,2023-10-24,,True,True,False,3.68,209
+Deadlink,3.56,16,208,2023-07-27,,True,True,False,3.56,208
+Like a Dragon Gaiden: The Man Who Erased His Name,4.4,41,206,2023-11-08,,True,True,False,4.4,206
+Aliens: Dark Descent,4.0,23,206,2023-06-19,,True,True,False,4.0,206
+Shadow Gambit: The Cursed Crew,4.19,24,206,2023-08-17,,True,True,False,4.19,206
+Call of Duty: Modern Warfare III,3.03,59,206,2023-11-09,,True,True,False,3.03,206
+A Space for the Unbound,4.43,28,206,2023-01-19,85.0,True,True,True,4.43,206
+Scars Above,3.35,19,205,2023-02-27,,True,True,False,3.35,205
+Crime Boss: Rockay City,2.89,18,205,2023-03-28,,True,True,False,2.89,205
+Minecraft Legends,2.49,37,204,2023-04-18,,True,True,False,2.49,204
+Sherlock Holmes The Awakened,3.55,29,204,2023-04-11,,True,True,False,3.55,204
+Wall World,4.0,22,204,2023-04-05,,True,True,False,4.0,204
+Risk of Rain Returns,3.92,23,201,2023-11-08,,True,True,False,3.92,201
+Humanity,3.8,33,200,2023-05-16,84.0,True,True,True,3.8,200
+An Arcade Full of Cats,3.78,18,199,2023-11-16,,True,True,False,3.78,199
+Otxo,3.41,17,198,2023-04-19,,True,True,False,3.41,198
+Sanabi,4.25,26,190,2023-11-09,,True,True,False,4.25,190
+Season: A Letter to the Future,3.62,22,188,2023-01-31,,True,True,False,3.62,188
+WWE 2K23,3.62,16,188,2023-03-16,,True,True,False,3.62,188
+One Piece Odyssey,3.04,23,188,2023-01-13,,True,True,False,3.04,188
+"Good Pizza, Great Pizza",3.66,53,188,2023-01-06,,True,True,False,3.66,188
+Voidtrain,3.4,26,187,2023-05-09,,True,True,False,3.4,187
+Warlander,2.38,8,185,2023-01-24,,True,True,False,2.38,185
+Death Must Die,4.11,19,183,2023-11-14,,True,True,False,4.11,183
+Horizon Forbidden West Complete Edition,4.12,26,182,2023-10-06,,True,True,False,4.12,182
+Heretic's Fork,2.64,13,181,2023-09-13,,True,True,False,2.64,181
+Ravenswatch,3.95,21,181,2023-04-06,,True,True,False,3.95,181
+Immortals of Aveum,2.82,32,181,2023-08-21,,True,True,False,2.82,181
+Afterimage (16BitGenocide),0.0,3,179,2023-04-24,,True,True,False,0.0,179
+The Last Faith,3.29,17,179,2023-11-15,,True,True,False,3.29,179
+Gatekeeper: Infinity,2.69,13,178,2023-11-10,,True,True,False,2.69,178
+The Lamplighters League,3.36,14,177,2023-10-02,,True,True,False,3.36,177
+Undawn,0.0,4,175,2023-06-13,,True,True,False,0.0,175
+Company of Heroes 3,3.39,16,175,2023-02-23,,True,True,False,3.39,175
+Station to Station,3.89,9,174,2023-10-03,,True,True,False,3.89,174
+Fire Emblem Engage,4.09,30,173,2023-01-20,,True,True,False,4.09,173
+Thronefall,4.0,31,173,2023-08-02,,True,True,False,4.0,173
+King Of The Castle,0.0,4,171,2023-03-02,,True,True,False,0.0,171
+Quasimorph: End of Dream,2.64,11,170,2023-05-31,,True,True,False,2.64,170
+God of War Ragnarok: Valhalla,4.2,52,169,2023-12-12,,True,True,False,4.2,169
+Forza Motorsport,3.52,46,169,2023-10-10,,True,True,False,3.52,169
+Snowbreak: Containment Zone,0.0,4,168,2023-12-24,,True,True,False,0.0,168
+Pikmin 4,4.21,32,167,2023-07-21,88.0,True,True,True,4.21,167
+SYNCED,0.0,4,166,2023-09-07,,True,True,False,0.0,166
+Savant - Ascent REMIX,0.0,2,166,2023-09-14,,True,True,False,0.0,166
+ThornSin,3.86,43,165,2023-06-18,,True,True,False,3.86,165
+100 Asian Cats,3.92,12,165,2023-12-17,,True,True,False,3.92,165
+Darkest Dungeon II,3.89,26,164,2023-05-07,,True,True,False,3.89,164
+Town of Salem 2,0.0,3,164,2023-05-26,,True,True,False,0.0,164
+Dordogne,3.65,23,164,2023-06-13,,True,True,False,3.65,164
+SharpShooter3D,3.83,24,162,2023-07-14,,True,True,False,3.83,162
+Warhammer Age of Sigmar: Realms of Ruin,0.0,1,161,2023-11-17,,True,True,False,0.0,161
+Industries of Titan,3.71,17,159,2023-01-31,,True,True,False,3.71,159
+Sticky Business,3.5,6,158,2023-07-16,,True,True,False,3.5,158
+Deceit 2,0.0,4,158,2023-09-14,,True,True,False,0.0,158
+Loddlenaut,4.0,8,157,2023-11-16,,True,True,False,4.0,157
+Astrea: Six-Sided Oracles,0.0,3,157,2023-09-21,,True,True,False,0.0,157
+Trine 5: A Clockwork Conspiracy,4.25,24,155,2023-08-31,,True,True,False,4.25,155
+Furi Demake - The Chain,4.0,6,153,2023-11-29,,True,True,False,4.0,153
+The Cosmic Wheel Sisterhood,4.12,26,151,2023-08-16,,True,True,False,4.12,151
+Wanted: Dead,2.0,26,151,2023-02-14,,True,True,False,2.0,151
+American Arcadia,4.23,25,151,2023-11-15,,True,True,False,4.23,151
+Super Mario RPG,4.19,26,147,2023-11-17,,True,True,False,4.19,147
+Waven,1.89,9,147,2023-08-16,,True,True,False,1.89,147
+My singing Monsters:The Lost Landscapes,3.83,33,147,2023-01-29,,True,True,False,3.83,147
+Warhaven,1.71,7,145,2023-09-20,,True,True,False,1.71,145
+Only Up!,3.11,36,144,2023-05-24,,True,True,False,3.11,144
+Satisfactory,4.3,320,2843,2024-09-11,,True,True,False,4.3,2843
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,3.79,275,2085,2024-11-20,,True,True,False,3.79,2085
+V Rising,3.69,157,2040,2024-05-08,,True,True,False,3.69,2040
+Senua's Saga: Hellblade II,3.96,151,1241,2024-05-21,,True,True,False,3.96,1241
+Synergy,2.14,21,1017,2024-05-21,,True,True,False,2.14,1017
+Black Myth: Wukong,4.3,116,900,2024-08-20,,True,True,False,4.3,900
+Core Keeper,3.99,80,886,2024-08-26,,True,True,False,3.99,886
+Content Warning,3.44,52,874,2024-04-01,,True,True,False,3.44,874
+Marvel Rivals,3.78,86,863,2024-12-06,,True,True,False,3.78,863
+HELLDIVERS 2,4.24,96,822,2024-02-08,,True,True,False,4.24,822
+Palworld,3.51,120,771,2024-01-19,,True,True,False,3.51,771
+Songs of Conquest,3.8,64,757,2024-05-20,,True,True,False,3.8,757
+Symphonia,1.82,17,750,2024-12-05,,True,True,False,1.82,750
+Balatro,4.37,156,744,2024-02-20,,True,True,False,4.37,744
+Dragon’s Dogma 2,3.94,62,715,2024-03-21,,True,True,False,3.94,715
+Sons of the Forest,3.63,107,703,2024-02-22,,True,True,False,3.63,703
+Silent Hill 2,4.52,152,646,2024-10-08,,True,True,False,4.52,646
+Last Epoch,3.63,74,638,2024-02-21,,True,True,False,3.63,638
+Blade and Sorcery,3.98,49,624,2024-06-17,,True,True,False,3.98,624
+Once Human,2.62,39,620,2024-07-10,,True,True,False,2.62,620
+Hades II,4.36,47,587,2024-05-06,,True,True,False,4.36,587
+The First Descendant,3.02,42,575,2024-06-30,,True,True,False,3.02,575
+"Warhammer 40,000: Space Marine II",4.2,106,561,2024-09-09,,True,True,False,4.2,561
+Dark and Darker,3.0,39,546,2024-06-07,,True,True,False,3.0,546
+Prince of Persia: The Lost Crown,4.01,93,536,2024-01-18,,True,True,False,4.01,536
+Indiana Jones and the Great Circle,4.37,102,517,2024-12-09,,True,True,False,4.37,517
+Portal: Revolution,4.23,21,492,2024-01-06,,True,True,False,4.23,492
+Pacific Drive,3.81,64,489,2024-02-21,,True,True,False,3.81,489
+Suicide Squad: Kill The Justice League,2.08,70,470,2024-02-02,,True,True,False,2.08,470
+Path of Exile 2,3.16,36,458,2024-12-06,,True,True,False,3.16,458
+Persona 3 Reload,4.41,76,439,2024-02-01,,True,True,False,4.41,439
+Final Fantasy VII Rebirth,4.45,59,435,2024-02-29,,True,True,False,4.45,435
+Stellar Blade,4.19,46,426,2024-04-26,,True,True,False,4.19,426
+Shadows of Doubt,4.07,41,423,2024-09-26,,True,True,False,4.07,423
+Banishers: Ghosts of New Eden,3.74,67,409,2024-02-12,,True,True,False,3.74,409
+SLAPSHOT Rebound,3.71,14,392,2024-04-11,,True,True,False,3.71,392
+Metaphor: ReFantazio,4.36,46,364,2024-10-11,,True,True,False,4.36,364
+Indika,4.04,96,363,2024-05-02,,True,True,False,4.04,363
+Alone in the Dark,3.57,69,362,2024-03-20,,True,True,False,3.57,362
+Frostpunk 2,4.16,53,356,2024-09-20,,True,True,False,4.16,356
+The Universim,3.47,38,356,2024-01-22,,True,True,False,3.47,356
+Witchfire,3.61,21,343,2024-09-23,,True,True,False,3.61,343
+Tekken 8,4.11,60,341,2024-01-25,,True,True,False,4.11,341
+Islands of Insight,2.93,14,340,2024-02-13,,True,True,False,2.93,340
+Animal Well,4.39,56,314,2024-05-09,,True,True,False,4.39,314
+Banana,1.51,35,311,2024-04-23,,True,True,False,1.51,311
+Manor Lords,4.0,31,295,2024-04-26,,True,True,False,4.0,295
+Deep Rock Galactic: Survivor,3.98,41,293,2024-02-14,,True,True,False,3.98,293
+Helldivers II,4.25,77,284,2024-02-08,,True,True,False,4.25,284
+Skull & Bones,1.95,41,283,2024-02-16,,True,True,False,1.95,283
+Star Wars Outlaws,2.91,31,283,2024-08-30,,True,True,False,2.91,283
+Enshrouded,3.83,29,283,2024-01-24,,True,True,False,3.83,283
+Elden Ring: Shadow of the Erdtree,4.62,74,283,2024-06-21,,True,True,False,4.62,283
+Supermarket Together,3.33,14,282,2024-08-09,,True,True,False,3.33,282
+Dragon Age: Dreadwolf,2.83,39,279,2024-10-31,,True,True,False,2.83,279
+No Rest for the Wicked,4.0,17,268,2024-04-18,,True,True,False,4.0,268
+THRONE AND LIBERTY,2.71,21,266,2024-10-01,,True,True,False,2.71,266
+Peglin,3.5,21,261,2024-08-27,,True,True,False,3.5,261
+Astro Bot,4.37,70,261,2024-09-06,,True,True,False,4.37,261
+Nine Sols,4.25,39,261,2024-05-29,,True,True,False,4.25,261
+Like a Dragon: Infinite Wealth,4.16,31,257,2024-01-26,,True,True,False,4.16,257
+The Outlast Trials,3.46,25,255,2024-03-05,,True,True,False,3.46,255
+The Thaumaturge,3.97,33,250,2024-03-04,,True,True,False,3.97,250
+MiSide,4.22,90,243,2024-12-10,,True,True,False,4.22,243
+The Plucky Squire,3.9,40,243,2024-09-17,,True,True,False,3.9,243
+Diplomacy is Not an Option,3.72,24,242,2024-10-04,,True,True,False,3.72,242
+Black Myth: Wu Kong,4.2,24,242,2024-08-19,,True,True,False,4.2,242
+Call of Duty: Black Ops 6,3.91,80,240,2024-10-24,,True,True,False,3.91,240
+Granblue Fantasy: Relink,3.59,22,238,2024-02-01,,True,True,False,3.59,238
+Rise of the Ronin,3.39,19,237,2024-03-22,,True,True,False,3.39,237
+Unknown 9: Awakening,2.68,25,236,2024-10-17,,True,True,False,2.68,236
+Hive Jump 2: Survivors,0.0,1,236,2024-05-28,,True,True,False,0.0,236
+Chained Together,3.9,39,233,2024-07-19,,True,True,False,3.9,233
+Tomb Raider I•II•III Remastered,3.13,30,228,2024-02-13,,True,True,False,3.13,228
+Nobody Wants to Die,3.76,36,227,2024-07-16,,True,True,False,3.76,227
+The Last Night,0.0,3,225,2024-10-11,,True,True,False,0.0,225
+ANOMALOUS COFFEE MACHINE,4.17,80,224,2024-08-11,,True,True,False,4.17,224
+The Witcher 3 REDkit,0.0,3,224,2024-05-20,,True,True,False,0.0,224
+Cakey's Twisted Bakery,2.0,6,223,2024-07-05,,True,True,False,2.0,223
+The Lullaby of Life,0.0,1,222,2024-04-30,,True,True,False,0.0,222
+Dragon's Dogma 2 Character Creator & Storage,2.64,11,220,2024-03-07,,True,True,False,2.64,220
+Graven,2.96,26,219,2024-01-23,,True,True,False,2.96,219
+Still Wakes the Deep,3.97,65,216,2024-06-18,,True,True,False,3.97,216
+Dungeonborne,3.25,8,204,2024-07-18,,True,True,False,3.25,204
+Anger Foot,3.85,32,203,2024-07-11,,True,True,False,3.85,203
+Neva,4.4,29,199,2024-10-15,,True,True,False,4.4,199
+Dragon Age: The Veilguard,3.01,63,199,2024-10-31,,True,True,False,3.01,199
+The Last of Us Part II Remastered,4.59,48,198,2024-01-19,,True,True,False,4.59,198
+Mouthwashing,4.18,59,191,2024-09-26,,True,True,False,4.18,191
+Phantom Abyss,3.29,18,189,2024-01-25,,True,True,False,3.29,189
+Summer Nightmare,3.0,6,184,2024-04-24,,True,True,False,3.0,184
+Life is Strange: Double Exposure,3.0,29,179,2024-10-29,,True,True,False,3.0,179
+The Legend of Zelda: Echoes of Wisdom,4.39,35,176,2024-09-26,,True,True,False,4.39,176
+"Little Kitty, Big City",3.92,37,176,2024-05-09,,True,True,False,3.92,176
+Until Dawn (2024 Remake),3.97,32,171,2024-10-04,,True,True,False,3.97,171
+Doronko Wanko,3.5,6,164,2024-03-26,,True,True,False,3.5,164
+Another Crab's Treasure,3.82,17,157,2024-04-25,,True,True,False,3.82,157
+Brothers: A Tale of Two Sons Remake,3.86,28,157,2024-02-27,,True,True,False,3.86,157
+SUPERVIVE,3.29,7,153,2024-11-20,,True,True,False,3.29,153
+Zenless Zone Zero,3.42,51,152,2024-07-02,,True,True,False,3.42,152
+LASERS,0.0,5,147,2024-01-11,,True,True,False,0.0,147
+Flintlock: The Siege of Dawn,2.93,26,145,2024-07-17,,True,True,False,2.93,145
+Pixel Gun 3D: PC Edition,2.67,6,142,2024-04-02,,True,True,False,2.67,142
+Strinova,2.56,9,142,2024-11-21,,True,True,False,2.56,142
+Eiyuden Chronicle: Hundred Heroes,3.25,11,140,2024-04-23,,True,True,False,3.25,140
+Spectre Divide,0.0,5,139,2024-09-03,,True,True,False,0.0,139
+Thank Goodness You're Here!,4.34,36,139,2024-08-01,,True,True,False,4.34,139
+Stormgate,3.0,8,137,2024-07-30,,True,True,False,3.0,137
+Harold Halibut,3.94,16,136,2024-04-16,,True,True,False,3.94,136
+Tiny Glade,3.74,19,134,2024-09-23,,True,True,False,3.74,134
+Silent Hill: The Short Message,3.14,43,132,2024-02-01,,True,True,False,3.14,132
+Intravenous 2: Mercenarism,0.0,2,130,2024-01-19,,True,True,False,0.0,130
+Slitterhead,3.43,5,128,2024-11-08,,True,True,False,3.43,128
+Liar's Bar,3.92,21,127,2024-10-02,,True,True,False,3.92,127
+What the Fog,0.0,4,124,2024-05-14,,True,True,False,0.0,124
+Children of the Sun,3.6,24,119,2024-04-09,,True,True,False,3.6,119
+TEST TEST TEST,0.0,3,119,2024-01-17,,True,True,False,0.0,119
+Lust Goddess,2.92,12,118,2024-02-21,,True,True,False,2.92,118
+Supermarket Simulator,3.81,16,117,2024-02-20,,True,True,False,3.81,117
+Fallen Aces,4.14,6,116,2024-06-14,,True,True,False,4.14,116
+Enlisted: Reinforced,0.0,4,115,2024-03-28,,True,True,False,0.0,115
+The Casting of Frank Stone,3.03,35,109,2024-09-03,,True,True,False,3.03,109
+Open Roads,3.4,14,109,2024-03-28,,True,True,False,3.4,109
+Command & Conquer Renegade,0.0,4,109,2024-03-07,,True,True,False,0.0,109
+Homeworld 3,3.5,9,109,2024-05-13,,True,True,False,3.5,109
+DRAGON BALL: Sparking! ZERO,4.86,7,108,2024-10-01,,True,True,False,4.86,108
+Garden Life: A Cozy Simulator,0.0,1,107,2024-02-22,,True,True,False,0.0,107
+Test Drive Unlimited Solar Crown,2.82,11,107,2024-09-12,,True,True,False,2.82,107
+Dark Sky,0.0,0,107,2024-09-24,,True,True,False,0.0,107
+Command & Conquer Generals,0.0,3,106,2024-03-07,,True,True,False,0.0,106
+Command & Conquer Red Alert 2 and Yuri’s Revenge,0.0,3,106,2024-03-07,,True,True,False,0.0,106
+Command & Conquer Generals Zero Hour,0.0,4,105,2024-03-07,,True,True,False,0.0,105
+Horizon Zero Dawn Remastered,4.21,14,104,2024-10-31,,True,True,False,4.21,104
+Vladik Brutal,3.45,27,104,2024-08-08,,True,True,False,3.45,104
+Granblue Fantasy Relink,0.0,5,103,2024-01-31,,True,True,False,0.0,103
+Lollipop Chainsaw RePOP,3.77,13,103,2024-09-11,,True,True,False,3.77,103
+Boomeroad,0.0,2,102,2024-03-26,,True,True,False,0.0,102
+Expeditions: A MudRunner Game,3.53,14,102,2024-03-05,,True,True,False,3.53,102
+"Command & Conquer Red Alert , Counterstrike and The Aftermath",0.0,2,101,2024-03-07,,True,True,False,0.0,101
+Command & Conquer and The Covert Operations,0.0,1,101,2024-03-07,,True,True,False,0.0,101
+Command & Conquer Tiberian Sun and Firestorm,0.0,1,101,2024-03-07,,True,True,False,0.0,101
+Sword of Convallaria,0.0,2,99,2024-07-31,,True,True,False,0.0,99
+Beyond Good & Evil - 20th Anniversary Edition,4.6,10,99,2024-06-24,,True,True,False,4.6,99
+Sneak Out,0.0,2,99,2024-02-15,,True,True,False,0.0,99
+Ultros,0.0,5,99,2024-02-13,,True,True,False,0.0,99
+Mullet MadJack,4.1,20,98,2024-05-14,,True,True,False,4.1,98
+XDefiant,3.59,21,97,2024-05-21,,True,True,False,3.59,97
+"Warhammer 40,000: Speed Freeks",0.0,1,96,2024-08-06,,True,True,False,0.0,96
+Crime Scene Cleaner,4.07,29,96,2024-08-14,,True,True,False,4.07,96
+Forgive Me Father 2,3.9,9,96,2024-10-24,,True,True,False,3.9,96
+Abiotic Factor,4.2,9,93,2024-05-02,,True,True,False,4.2,93
+Nothing,0.0,3,93,2024-01-10,,True,True,False,0.0,93
+Rusty's Retirement,3.14,14,93,2024-04-26,,True,True,False,3.14,93
+Alan Wake 2: The Lake House,3.85,37,92,2024-10-22,,True,True,False,3.85,92
+selaco,3.57,7,91,2024-05-31,,True,True,False,3.57,91
+Ale & Tale Tavern: First Pints,0.0,2,90,2024-06-20,,True,True,False,0.0,90
+1000xResist,4.0,10,90,2024-05-09,,True,True,False,4.0,90
+Crow Country,4.46,13,88,2024-05-08,,True,True,False,4.46,88
+Princess Peach: Showtime!,3.74,19,88,2024-03-22,,True,True,False,3.74,88
+The Big Catch: Tacklebox,0.0,2,87,2024-06-07,,True,True,False,0.0,87
+Awaria,4.29,7,85,2024-12-16,,True,True,False,4.29,85
+SUMMERHOUSE,3.44,9,85,2024-03-08,,True,True,False,3.44,85
+Alan Wake 2: Night Springs,4.02,41,85,2024-06-08,,True,True,False,4.02,85
+Nottolot,0.0,0,85,2024-03-26,,True,True,False,0.0,85
+Backpack Battles,0.0,5,85,2024-03-08,,True,True,False,0.0,85
+Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator,2.86,7,84,2024-01-24,,True,True,False,2.86,84
+Unicorn Overlord,4.53,14,84,2024-03-08,,True,True,False,4.53,84
+Metal Slug: Awakening,0.0,2,83,2024-07-19,,True,True,False,0.0,83
+Snufkin: Melody of Moominvalley,4.14,20,83,2024-03-07,,True,True,False,4.14,83
+ASTRA: Knights of Veda,0.0,3,81,2024-04-01,,True,True,False,0.0,81
+looK INside,0.0,5,78,2024-02-09,,True,True,False,0.0,78
+Cats,0.0,5,77,2024-05-21,,True,True,False,0.0,77
+Love Letter,0.0,0,76,2024-06-30,,True,True,False,0.0,76
+STRAFTAT,0.0,4,76,2024-10-24,,True,True,False,0.0,76
+Duck Detective: The Secret Salami,3.62,14,75,2024-05-22,,True,True,False,3.62,75
+Lightyear Frontier,3.11,9,74,2024-03-19,,True,True,False,3.11,74
+Wuthering Waves,4.25,20,74,2024-05-22,,True,True,False,4.25,74
+Lorelei and the Laser Eyes,0.0,4,73,2024-05-16,,True,True,False,0.0,73
+The Rogue Prince of Persia,3.8,8,73,2024-05-27,,True,True,False,3.8,73
+Train Sim World 5,0.0,3,72,2024-09-17,,True,True,False,0.0,72
+Felvidek,4.5,14,72,2024-03-28,,True,True,False,4.5,72
+Vivaland: Dream House,0.0,2,72,2024-03-01,,True,True,False,0.0,72
+Pepper Grinder,3.62,7,72,2024-03-28,,True,True,False,3.62,72
+Anomaly Agent,3.92,12,71,2024-01-24,,True,True,False,3.92,71
+Mario vs. Donkey Kong,3.68,19,71,2024-02-16,,True,True,False,3.68,71
+Holo X Break,0.0,0,70,2024-03-29,,True,True,False,0.0,70
+EA SPORTS FC 25,3.26,22,70,2024-09-26,,True,True,False,3.26,70
+Crime Scene Cleaner: Prologue,0.0,5,69,2024-04-04,,True,True,False,0.0,69
+Astral Party,0.0,2,69,2024-02-28,,True,True,False,0.0,69
+Bendy: Secrets of the Machine,0.0,4,68,2024-04-14,,True,True,False,0.0,68
+Enotria: The Last Song,4.0,7,68,2024-09-16,,True,True,False,4.0,68
+UFO 50,0.0,3,68,2024-09-18,,True,True,False,0.0,68
+Supermarket Simulator: Prologue,0.0,2,68,2024-01-26,,True,True,False,0.0,68
+Legendary Hoplite: Arachne’s Trial,0.0,0,67,2024-01-12,,True,True,False,0.0,67
+Dark Hours: Prologue,0.0,0,67,2024-07-18,,True,True,False,0.0,67
+World of Goo 2,4.38,12,66,2024-08-02,,True,True,False,4.38,66
+Age of Water: The First Voyage,0.0,2,66,2024-03-21,,True,True,False,0.0,66
+SOUTH PARK: SNOW DAY!,2.36,10,65,2024-03-25,,True,True,False,2.36,65
+Legacy of Kain™ Soul Reaver 1&2 Remastered,0.0,5,65,2024-12-10,,True,True,False,0.0,65
+Outcast 2 — A New Beginning,2.5,10,63,2024-03-15,,True,True,False,2.5,63
